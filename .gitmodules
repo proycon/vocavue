@@ -1,0 +1,3 @@
+[submodule "suncalc"]
+	path = suncalc
+	url = https://github.com/mourner/suncalc
