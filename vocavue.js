@@ -18,10 +18,10 @@ function newcard() {
     if (typeof card.transcription !== undefined) {
         $('#card #transcription').html(card.transcription);
     }
-    $('#card').show();
     $('#card #word').show();
     $('#card #translation').hide();
     $('#card #transcription').hide();
+    $('#card').show(250);
 }
 
 function setposition(position) {
@@ -40,6 +40,25 @@ function flip() {
     }
 }
 
+function nextcard(){
+    $('#card').hide(250);
+    newcard();
+}
+
+setInterval(function(){
+        var currentTime = new Date();
+        var hours = currentTime.getHours();
+        var minutes = currentTime.getMinutes();
+        var seconds = currentTime.getSeconds();
+        // Add leading zeros
+        minutes = (minutes < 10 ? "0" : "") + minutes;
+        hours = (hours < 10 ? "0" : "") + hours;
+        // Compose the string for display
+        var currentTimeString = hours + ":" + minutes;
+        $("#clock").html(currentTimeString);
+},10);
+
+
 //on page load
 $(function(){
     //if (navigator.geolocation) navigator.geolocation.getCurrentPosition(setposition);
@@ -48,4 +67,5 @@ $(function(){
     $('#word').click(flip);
     $('#translation').click(flip);
     $('#transcription').click(flip);
+    $('button').click(nextcard);
 });

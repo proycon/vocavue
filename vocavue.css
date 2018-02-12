@@ -47,3 +47,32 @@ div#transcription {
     font-weight: normal;
     cursor: pointer;
 }
+div#clock {
+    float: right;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+    padding: 16px;
+}
+button {
+    background: transparent;
+    border: 3px solid;
+    border-radius: 50%;
+    font-size: 48px;
+    margin-right: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+button.good:hover {
+    background: rgba(0.8,0,0,0.5);
+}
+button.bad:hover {
+    background: rgba(0,0.8,0,0.5);
+}
+button.good {
+    color: green;
+}
+button.bad {
+    color: red;
+}
