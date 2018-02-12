@@ -31,8 +31,7 @@ div#card {
 div#word {
     color: white;
     font-size: 64px;
-    font-weight: bold;
-    font-family: serif;
+    font-weight: normal;
     cursor: help;
 }
 
