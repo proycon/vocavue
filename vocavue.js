@@ -41,8 +41,7 @@ function flip() {
 }
 
 function nextcard(){
-    $('#card').hide(250);
-    newcard();
+    $('#card').hide(250, newcard);
 }
 
 setInterval(function(){

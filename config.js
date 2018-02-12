@@ -9,7 +9,7 @@ background_count = {
 showclock = true;
 
 vocab = {};
-vocab_set = "test-zh";
+vocab_set = "proycon.zh";
 
 vocab['test-zh'] = [
     {"word": "中", "translation": "middle/center", "transcription": "zhōng"},

@@ -1,4 +1,4 @@
-[
+vocab["proycon.zh"] = [
     {
         "word": "爱",
         "transcription": "aì",
@@ -3659,4 +3659,4 @@
         "translation": "camera",
         "comment": "(相=appearance)"
     }
-]
+];
