@@ -14,4 +14,4 @@ vocab_set = "proycon.zh";
 vocab['test-zh'] = [
     {"word": "中", "translation": "middle/center", "transcription": "zhōng"},
 ];
-
+links = [];

@@ -78,3 +78,27 @@ button.good {
 button.bad {
     color: red;
 }
+div#links {
+    position: absolute;
+    text-align: left;
+    left: 10px:
+    top: 10px;
+    color: white;
+    font-size: 12px;
+    opacity: 0.1;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-bottom-right-radius: 50px;
+}
+div#links li {
+    list-style: none;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+div#links li a {
+    color: white;
+}
+div#links:hover {
+    background: rgba(0.2,0.2,0.2,0.8);
+    opacity: 1.0;
+}

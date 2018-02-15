@@ -57,7 +57,6 @@ setInterval(function(){
         $("#clock").html(currentTimeString);
 },10);
 
-
 //on page load
 $(function(){
     //if (navigator.geolocation) navigator.geolocation.getCurrentPosition(setposition);
@@ -67,4 +66,10 @@ $(function(){
     $('#translation').click(flip);
     $('#transcription').click(flip);
     $('button').click(nextcard);
+    var linkbody = "<ul>";
+    for (var i = 0; i < links.length; i++) {
+        linkbody += "<li><a href=\"" + links[i].url + "\">" + links[i].label + "</li>";
+    };
+    linkbody += "</ul>";
+    $('#links').html(linkbody);
 });
