@@ -64,6 +64,10 @@ button {
     margin-right: 20px;
     margin-left: 20px;
     cursor: pointer;
+    visibility: hidden;
+}
+#card:hover button {
+    visibility: visible;
 }
 
 button.good:hover {
