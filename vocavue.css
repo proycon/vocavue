@@ -105,10 +105,18 @@ div#links li {
 div#links li a {
     color: white;
 }
+div#links li span {
+    display: inline-block;
+    width: 32px;
+    min-width: 32px;
+    height: 23px;
+    min-height: 23px;
+    text-align: left;
+}
 div#links:hover {
     background: rgba(0.2,0.2,0.2,0.8);
     opacity: 1.0;
 }
-.material-icons {
-    max-width: 24px:
+span.material-icons {
+    max-width: 24px;
 }
