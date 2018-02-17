@@ -1,3 +1,5 @@
+reverse = false;
+
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
@@ -40,9 +42,15 @@ function newcard() {
     if (typeof card.transcription !== undefined) {
         $('#card #transcription').html(card.transcription);
     }
-    $('#card #word').show();
-    $('#card #translation').hide();
-    $('#card #transcription').hide();
+    if (!reverse) {
+        $('#card #word').show();
+        $('#card #translation').hide();
+        $('#card #transcription').hide();
+    } else {
+        $('#card #word').hide();
+        $('#card #translation').show();
+        $('#card #transcription').hide();
+    }
     $('#card').show(250);
 }
 
@@ -54,10 +62,18 @@ function flip() {
     if ($('#word').is(':visible')) {
         $('#word').hide(250);
         $('#translation').show(250);
-        $('#transcription').show(250);
+        if (!reverse) {
+            $('#transcription').show(250);
+        } else {
+            $('#transcription').hide(250);
+        }
     } else {
         $('#translation').hide(250);
-        $('#transcription').hide(250);
+        if (!reverse) {
+            $('#transcription').hide(250);
+        } else {
+            $('#transcription').show(250);
+        }
         $('#word').show(250);
     }
 }
@@ -102,4 +118,8 @@ $(function(){
     };
     linkbody += "</ul>";
     $('#links').html(linkbody);
+    $('#switchdirection').click(function(){
+        reverse = !reverse;
+        nextcard();
+    });
 });

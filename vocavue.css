@@ -120,6 +120,14 @@ div#links:hover {
     background: rgba(0.2,0.2,0.2,0.8);
     opacity: 1.0;
 }
+#controls {
+    margin-top: 10px;
+    float: right;
+    color: white;
+}
+#controls i {
+    cursor: pointer;
+}
 span.material-icons {
     max-width: 24px;
 }
