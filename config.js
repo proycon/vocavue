@@ -2,9 +2,9 @@ latitude = 51.43;
 longitude = 5.48;
 
 background_count = {
-    'day': 1,
-    'night': 1,
-    'duskdawn': 1,
+    'day': 41,
+    'night': 25,
+    'duskdawn': 18,
 }
 showclock = true;
 
