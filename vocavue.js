@@ -12,7 +12,21 @@ function setbackground() {
     } else  {
         daytime = 'day';
     }
-    var background_idx = getRandomInt(background_count[daytime])+1;
+    var changebackground = false;
+    if (localStorage.daytime != daytime) {
+        changebackground = true;
+    } else if (localStorage.background_idx)  && (localStorage.daytime) && (localStorage.lastbackgroundchange) {
+        daytime = localStorage.daytime;
+        background_idx = localStorage.background_idx;
+        lastbackgroundchange = localStorage.lasttbackgroundchange;
+        changebackground =  (Date.now() - lastbackgroundchange > 3600 * 6);
+    }
+    if (changebackground) {
+        background_idx = getRandomInt(background_count[daytime])+1;
+        localStorage.setItem("daytime", daytime);
+        localStorage.setItem("lastbackgroundchange", Date.now());
+        localStorage.setItem("background_idx", background_idx);
+    }
     $('#background').css("background-image", "url(backgrounds/" + daytime + "/" + background_idx + ".jpg)").show(1000);
 }
 
