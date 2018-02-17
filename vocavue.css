@@ -16,7 +16,7 @@ div#background {
 }
 div#card {
     position: absolute;
-    background: rgba(.5,.5,.5,.5);
+    background: rgba(.5,.5,.5,.3);
     border-radius: 25px;
     padding: 25px;
     width: 50%;
@@ -26,6 +26,9 @@ div#card {
     left: 25%;
     display: none;
     text-align: center;
+}
+div#card:hover {
+    background: rgba(.5,.5,.5,.5);
 }
 
 div#word {
