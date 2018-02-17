@@ -3,7 +3,15 @@ function getRandomInt(max) {
 }
 
 function setbackground() {
-    var daytime = 'day'; //TODO: compute with suncalc
+    var now = new Date();
+    var sunpos = SunCalc.getTimes(now, latitude, longitude)
+    if ((now >= sunpos.sunsetStart && now <= sunpos.dusk) || (now >= sunpos.dawn && now < sunpos.sunriseEnd)) {
+        daytime = 'duskdawn';
+    } else if ((now >= sunpos.sunset) || (now <= sunpos.sunrise)) {
+        daytime = 'night';
+    } else  {
+        daytime = 'day';
+    }
     var background_idx = getRandomInt(background_count[daytime])+1;
     $('#background').css("background-image", "url(backgrounds/" + daytime + "/" + background_idx + ".jpg)").show(1000);
 }
