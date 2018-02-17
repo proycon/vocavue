@@ -90,7 +90,7 @@ $(function(){
     $('button').click(nextcard);
     var linkbody = "<ul>";
     for (var i = 0; i < links.length; i++) {
-        linkbody += "<li><span class=\"material-icons\">" + links[i].icon + "</span><a href=\"" + links[i].url + "\">" + links[i].label + "</li>";
+        linkbody += "<li><span class=\"material-icons\">" + links[i].icon + "</span><a href=\"" + links[i].url + "\">" + links[i].label + "</a></li>";
     };
     linkbody += "</ul>";
     $('#links').html(linkbody);
