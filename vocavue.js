@@ -15,7 +15,7 @@ function setbackground() {
     var changebackground = false;
     if (localStorage.daytime != daytime) {
         changebackground = true;
-    } else if (localStorage.background_idx)  && (localStorage.daytime) && (localStorage.lastbackgroundchange) {
+    } else if ((localStorage.background_idx)  && (localStorage.daytime) && (localStorage.lastbackgroundchange)) {
         daytime = localStorage.daytime;
         background_idx = localStorage.background_idx;
         lastbackgroundchange = localStorage.lasttbackgroundchange;
