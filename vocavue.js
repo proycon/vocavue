@@ -90,7 +90,15 @@ $(function(){
     $('button').click(nextcard);
     var linkbody = "<ul>";
     for (var i = 0; i < links.length; i++) {
-        linkbody += "<li><span class=\"material-icons\">" + links[i].icon + "</span><a href=\"" + links[i].url + "\">" + links[i].label + "</a></li>";
+        var icon = "";
+        if (links[i].icon) {
+            if (links[i].icon.substr(0,4) == 'sli:') {
+                icon = "<span class=\"" + links[i].icon.substr(4) + "\"></span>";
+            } else if (links[i].icon.substr(0,4) == 'mdi:') {
+                icon = "<span class=\"material-icons\">" + links[i].icon.substr(4)+"</span>";
+            }
+        }
+        linkbody += "<li>" + icon + "<a href=\"" + links[i].url + "\">" + links[i].label + "</a></li>";
     };
     linkbody += "</ul>";
     $('#links').html(linkbody);
