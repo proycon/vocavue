@@ -1674,7 +1674,7 @@ vocab["proycon.zh"] = [
         "comment": ""
     },
     {
-        "word": "俄过",
+        "word": "俄国",
         "transcription": "éguó",
         "translation": "Russia",
         "comment": ""
@@ -3078,7 +3078,7 @@ vocab["proycon.zh"] = [
         "comment": ""
     },
     {
-        "word": "报告云",
+        "word": "云",
         "transcription": "yún",
         "translation": "cloud",
         "comment": ""
