@@ -90,7 +90,7 @@ $(function(){
     $('button').click(nextcard);
     var linkbody = "<ul>";
     for (var i = 0; i < links.length; i++) {
-        var icon = "";
+        var icon = "<span>&nbsp;</span>";
         if (links[i].icon) {
             if (links[i].icon.substr(0,4) == 'sli:') {
                 icon = "<span class=\"" + links[i].icon.substr(4) + "\"></span>";

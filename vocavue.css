@@ -105,13 +105,16 @@ div#links li {
 div#links li a {
     color: white;
 }
+div#links li:hover a {
+    color: #ffdddd;
+}
 div#links li span {
     display: inline-block;
     width: 32px;
     min-width: 32px;
-    height: 23px;
-    min-height: 23px;
-    text-align: left;
+    height: 24px;
+    min-height: 24px;
+    text-align: center;
 }
 div#links:hover {
     background: rgba(0.2,0.2,0.2,0.8);
