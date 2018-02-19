@@ -124,7 +124,7 @@ $(function(){
         reverse = !reverse;
         nextcard();
     });
-    $('#switchwallpaper').click(function(){
+    $('#switchbackground').click(function(){
         setbackground(true);
     });
 });
