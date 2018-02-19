@@ -4,9 +4,9 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
 
-function setbackground() {
+function setbackground(force) {
     var now = new Date();
-    var sunpos = SunCalc.getTimes(now, latitude, longitude)
+    var sunpos = SunCalc.getTimes(now, latitude, longitude);
     if ((now >= sunpos.sunsetStart && now <= sunpos.dusk) || (now >= sunpos.dawn && now < sunpos.sunriseEnd)) {
         daytime = 'duskdawn';
     } else if ((now >= sunpos.sunset) || (now <= sunpos.sunrise)) {
@@ -14,14 +14,16 @@ function setbackground() {
     } else  {
         daytime = 'day';
     }
-    var changebackground = false;
-    if (localStorage.daytime != daytime) {
-        changebackground = true;
-    } else if ((localStorage.background_idx)  && (localStorage.daytime) && (localStorage.lastbackgroundchange)) {
-        daytime = localStorage.daytime;
-        background_idx = localStorage.background_idx;
-        lastbackgroundchange = localStorage.lasttbackgroundchange;
-        changebackground =  (Date.now() - lastbackgroundchange > 3600 * 6);
+    var changebackground = force;
+    if (!changebackground) {
+        if (localStorage.daytime != daytime) {
+            changebackground = true;
+        } else if ((localStorage.background_idx)  && (localStorage.daytime) && (localStorage.lastbackgroundchange)) {
+            daytime = localStorage.daytime;
+            background_idx = localStorage.background_idx;
+            lastbackgroundchange = localStorage.lasttbackgroundchange;
+            changebackground =  (Date.now() - lastbackgroundchange > 3600 * 6);
+        }
     }
     if (changebackground) {
         background_idx = getRandomInt(background_count[daytime])+1;
@@ -98,7 +100,7 @@ setInterval(function(){
 //on page load
 $(function(){
     //if (navigator.geolocation) navigator.geolocation.getCurrentPosition(setposition);
-    setbackground();
+    setbackground(false);
     newcard();
     $('#word').click(flip);
     $('#translation').click(flip);
@@ -115,11 +117,14 @@ $(function(){
             }
         }
         linkbody += "<li>" + icon + "<a href=\"" + links[i].url + "\">" + links[i].label + "</a></li>";
-    };
+    }
     linkbody += "</ul>";
     $('#links').html(linkbody);
     $('#switchdirection').click(function(){
         reverse = !reverse;
         nextcard();
+    });
+    $('#switchwallpaper').click(function(){
+        setbackground(true);
     });
 });
