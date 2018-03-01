@@ -104,10 +104,10 @@ div#links {
     padding-bottom: 20px;
     border-bottom-right-radius: 50px;
 }
-div#relations {
+div#context {
     position: absolute;
     text-align: left;
-    right: 10px:
+    right: 0px;
     top: 50px;
     color: white;
     font-size: 12px;
@@ -116,19 +116,23 @@ div#relations {
     padding-bottom: 20px;
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
+    font-size: 120%;
 }
-div#links li {
+div#links li, div#context li {
     list-style: none;
     padding-top: 0px;
     padding-bottom: 1px;
 }
-div#links li a {
+div#links li a, div#context li a {
     color: white;
 }
-div#links li:hover a {
+div#context li a {
+    text-decoration: none;
+}
+div#links li:hover a, div#context li:hover {
     color: #ffdddd;
 }
-div#links li span {
+div#links li span, div#context li span {
     display: inline-block;
     width: 32px;
     min-width: 32px;
@@ -136,7 +140,7 @@ div#links li span {
     min-height: 24px;
     text-align: center;
 }
-div#links:hover {
+div#links:hover, div#context:hover {
     background: rgba(0,0,0,0.8);
     opacity: 1.0;
 }

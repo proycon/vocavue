@@ -36,6 +36,10 @@ function setbackground(force) {
 
 function newcard() {
     var card_idx = getRandomInt(vocab[vocab_set].length);
+    setcard(card_idx);
+}
+
+function setcard(card_idx) {
     var card = vocab[vocab_set][card_idx];
     $('#card #word').html(card.word);
     if (typeof card.translation !== undefined) {
@@ -47,6 +51,29 @@ function newcard() {
     if (typeof card.transcription !== undefined) {
         $('#card #transcription').html(card.transcription);
     }
+    var contexttags = [];
+    if (typeof card.tags !== undefined) {
+        for (var tag of card.tags) {
+            if (tag.substr(0,1) == "_") {
+                contexttags.push(tag);
+            }
+        }
+    }
+    var context = "";
+    for (var i = 0; i < vocab[vocab_set].length; i++) {
+        var contextcard = vocab[vocab_set][i];
+        var add = false;
+        for (var contexttag of contexttags) {
+            if ((typeof contextcard.tags !== undefined) && (contextcard.tags.includes(contexttag)) && (contextcard != card)) {
+                add = true;
+                break;
+            }
+        }
+        if (add) {
+            context = context + "<li><a href=\"javascript:setcard(" + i + ")\">" + contextcard.word + "</a></li>";
+        }
+    }
+    $('#context').html("<ul>" + context + "</ul>");
     if (!reverse) {
         $('#card #word').show();
         $('#card #example').show();
