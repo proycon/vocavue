@@ -45,6 +45,13 @@ div#translation {
     font-family: sans-serif;
     cursor: pointer;
 }
+div#example {
+    color: #eee;
+    font-size: 24px;
+    font-weight: normal;
+    font-family: sans-serif;
+    cursor: pointer;
+}
 div#transcription {
     color: #eee;
     font-size: 24px;
