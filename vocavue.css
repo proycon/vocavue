@@ -124,7 +124,7 @@ div#links li span {
     text-align: center;
 }
 div#links:hover {
-    background: rgba(50,50,50,0.8);
+    background: rgba(0,0,0,0.8);
     opacity: 1.0;
 }
 #controls {
