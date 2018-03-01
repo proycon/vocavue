@@ -16,7 +16,7 @@ div#background {
 }
 div#card {
     position: absolute;
-    background: rgba(.5,.5,.5,.3);
+    background: rgba(127,127,127,.3);
     border-radius: 25px;
     padding: 25px;
     width: 50%;
@@ -28,7 +28,7 @@ div#card {
     text-align: center;
 }
 div#card:hover {
-    background: rgba(.5,.5,.5,.5);
+    background: rgba(127,127,127,.5);
 }
 
 div#word {
@@ -81,10 +81,10 @@ button {
 }
 
 button.good:hover {
-    background: rgba(0.8,0,0,0.5);
+    background: rgba(204,0,0,0.5);
 }
 button.bad:hover {
-    background: rgba(0,0.8,0,0.5);
+    background: rgba(0,204,0,0.5);
 }
 button.good {
     color: green;
@@ -124,7 +124,7 @@ div#links li span {
     text-align: center;
 }
 div#links:hover {
-    background: rgba(0.2,0.2,0.2,0.8);
+    background: rgba(50,50,50,0.8);
     opacity: 1.0;
 }
 #controls {
