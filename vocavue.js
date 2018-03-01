@@ -41,15 +41,20 @@ function newcard() {
     if (typeof card.translation !== undefined) {
         $('#card #translation').html(card.translation);
     }
+    if (typeof card.example !== undefined) {
+        $('#card #example').html(card.example);
+    }
     if (typeof card.transcription !== undefined) {
         $('#card #transcription').html(card.transcription);
     }
     if (!reverse) {
         $('#card #word').show();
+        $('#card #example').show();
         $('#card #translation').hide();
         $('#card #transcription').hide();
     } else {
         $('#card #word').hide();
+        $('#card #example').show();
         $('#card #translation').show();
         $('#card #transcription').hide();
     }
@@ -63,20 +68,24 @@ function setposition(position) {
 function flip() {
     if ($('#word').is(':visible')) {
         $('#word').hide(250);
+        $('#example').hide(250);
         $('#translation').show(250);
         if (!reverse) {
             $('#transcription').show(250);
         } else {
             $('#transcription').hide(250);
         }
+        $('#example').show(250);
     } else {
         $('#translation').hide(250);
+        $('#example').hide(250);
         if (!reverse) {
             $('#transcription').hide(250);
         } else {
             $('#transcription').show(250);
         }
         $('#word').show(250);
+        $('#example').show(250);
     }
 }
 
