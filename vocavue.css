@@ -97,6 +97,19 @@ div#links {
     padding-bottom: 20px;
     border-bottom-right-radius: 50px;
 }
+div#relations {
+    position: absolute;
+    text-align: left;
+    right: 10px:
+    top: 50px;
+    color: white;
+    font-size: 12px;
+    opacity: 0.1;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
 div#links li {
     list-style: none;
     padding-top: 2px;
