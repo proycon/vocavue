@@ -1,4 +1,6 @@
 reverse = false;
+card = {};
+var weightsum = 0;
 
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
@@ -35,12 +37,22 @@ function setbackground(force) {
 }
 
 function newcard() {
-    var card_idx = getRandomInt(vocab[vocab_set].length);
+    //var card_idx = getRandomInt(vocab[vocab_set].length);
+    var choice = Math.random() * weightsum;
+    var card_idx = 0;
+    for (var i in vocab[vocab_set]) {
+        mass += localforage.getItem(vocab[vocab_set][i].word);
+        if (choice > mass) {
+            card_idx = i;
+            break;
+        }
+    }
     setcard(card_idx);
 }
 
 function setcard(card_idx) {
-    var card = vocab[vocab_set][card_idx];
+    card = vocab[vocab_set][card_idx];
+    card.weight = localforage.getItem(card.word);
     $('#card #word').html(card.word);
     if (typeof card.translation !== undefined) {
         $('#card #translation').html(card.translation);
@@ -133,15 +145,39 @@ setInterval(function(){
         $("#clock").html(currentTimeString);
 },10);
 
+
+function setweights() {
+    var sum = 0;
+    for (var i in vocab[vocab_set]) {
+        var word = vocab[vocab_set][i].word;
+        localforage.getItem(word).then(function(value){
+            sum += value;
+        }).catch(function(err){
+            localforage.setItem(word, 1);
+        });
+    }
+    return sum;
+}
+
 //on page load
 $(function(){
     //if (navigator.geolocation) navigator.geolocation.getCurrentPosition(setposition);
+    weightsum = setweight();
     setbackground(false);
     newcard();
     $('#word').click(flip);
     $('#translation').click(flip);
     $('#transcription').click(flip);
-    $('button').click(nextcard);
+    $('button .good').click(function() {
+        localforage.setItem(card.word, card.weight / 2));
+        weightsum -= card.weight / 2;
+        nextcard();
+    });
+    $('button .bad').click(function() {
+        localforage.setItem(card.word, card.weight * 2);
+        weightsum += card.weight;
+        nextcard();
+    });
     var linkbody = "<ul>";
     for (var i = 0; i < links.length; i++) {
         var icon = "<span>&nbsp;</span>";
@@ -156,6 +192,7 @@ $(function(){
     }
     linkbody += "</ul>";
     $('#links').html(linkbody);
+    $('#stats').html(card.weight + "/" + weightsum);
     $('#switchdirection').click(function(){
         reverse = !reverse;
         nextcard();

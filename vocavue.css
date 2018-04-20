@@ -66,6 +66,11 @@ div#clock {
     font-size: 16px;
     padding: 16px;
 }
+div#stats {
+    float: right;
+    font-family: monospace;
+    font-size: 50%;
+}
 button {
     background: transparent;
     border: 3px solid;
