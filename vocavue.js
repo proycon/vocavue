@@ -169,7 +169,7 @@ $(function(){
     $('#translation').click(flip);
     $('#transcription').click(flip);
     $('button .good').click(function() {
-        localforage.setItem(card.word, card.weight / 2));
+        localforage.setItem(card.word, card.weight / 2);
         weightsum -= card.weight / 2;
         nextcard();
     });
