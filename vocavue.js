@@ -162,7 +162,7 @@ function setweights() {
 //on page load
 $(function(){
     //if (navigator.geolocation) navigator.geolocation.getCurrentPosition(setposition);
-    weightsum = setweight();
+    weightsum = setweights();
     setbackground(false);
     newcard();
     $('#word').click(flip);
