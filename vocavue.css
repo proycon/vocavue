@@ -124,18 +124,22 @@ div#context {
     border-bottom-left-radius: 50px;
     font-size: 120%;
 }
-div#links li, div#context li {
+div#history li {
+    display: inline;
+    padding-left: 10px;
+}
+div#links li, div#context li, div#history li {
     list-style: none;
     padding-top: 0px;
     padding-bottom: 1px;
 }
-div#links li a, div#context li a {
+div#links li a, div#context li a, div#history li a {
     color: white;
 }
-div#context li a {
+div#context li a, div#history li a {
     text-decoration: none;
 }
-div#links li:hover a, div#context li:hover {
+div#links li:hover a, div#context li:hover, div#history li:hover {
     color: #ffdddd;
 }
 div#links li span, div#context li span {
@@ -146,7 +150,7 @@ div#links li span, div#context li span {
     min-height: 24px;
     text-align: center;
 }
-div#links:hover, div#context:hover {
+div#links:hover, div#context:hover, div#history:hover {
     background: rgba(0,0,0,0.8);
     opacity: 1.0;
 }
@@ -160,4 +164,18 @@ div#links:hover, div#context:hover {
 }
 span.material-icons {
     max-width: 24px;
+}
+#history {
+    position: absolute;
+    text-align: right;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+    font-size: 12px;
+    opacity: 0.1;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    font-size: 120%;
 }

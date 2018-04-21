@@ -1,5 +1,5 @@
 reverse = false;
-card = {};
+card = null;
 weights = {};
 weightsum = 0;
 
@@ -39,6 +39,9 @@ function setbackground(force) {
 
 function newcard() {
     //var card_idx = getRandomInt(vocab[vocab_set].length);
+    if (card !== null) {
+        $('#history ul').append("<li><a href=\"javascript:setcard(" + card.index + ")\">" + card.word + "</a></li>");
+    }
     var choice = Math.random() * weightsum;
     var card_idx = 0;
     var mass = 0;
@@ -54,6 +57,7 @@ function newcard() {
 function setcard(card_idx) {
     card = vocab[vocab_set][card_idx];
     card.weight = weights[card.word];
+    card.index = card_idx;
     $('#card #word').html(card.word);
     if (typeof card.translation !== undefined) {
         $('#card #translation').html(card.translation);
