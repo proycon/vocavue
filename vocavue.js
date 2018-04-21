@@ -1,6 +1,7 @@
 reverse = false;
 card = {};
-var weightsum = 0;
+weights = {};
+weightsum = 0;
 
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
@@ -40,19 +41,19 @@ function newcard() {
     //var card_idx = getRandomInt(vocab[vocab_set].length);
     var choice = Math.random() * weightsum;
     var card_idx = 0;
+    var mass = 0;
     for (var i in vocab[vocab_set]) {
-        mass += localforage.getItem(vocab[vocab_set][i].word);
+        mass += weights[vocab[vocab_set][i].word];
         if (choice > mass) {
             card_idx = i;
-            break;
+            setcard(card_idx);
         }
     }
-    setcard(card_idx);
 }
 
 function setcard(card_idx) {
     card = vocab[vocab_set][card_idx];
-    card.weight = localforage.getItem(card.word);
+    card.weight = weights[card.word];
     $('#card #word').html(card.word);
     if (typeof card.translation !== undefined) {
         $('#card #translation').html(card.translation);
@@ -97,6 +98,7 @@ function setcard(card_idx) {
         $('#card #translation').show();
         $('#card #transcription').hide();
     }
+    $('#stats').html(card.weight + "/" + weightsum);
     $('#card').show(250);
 }
 
@@ -147,36 +149,51 @@ setInterval(function(){
 
 
 function setweights() {
-    var sum = 0;
-    for (var i in vocab[vocab_set]) {
+  var words = []; //temp
+  for (var i in vocab[vocab_set]) {
         var word = vocab[vocab_set][i].word;
-        localforage.getItem(word).then(function(value){
-            sum += value;
-        }).catch(function(err){
-            localforage.setItem(word, 1);
-        });
-    }
-    return sum;
+        words.push(word);
+  }
+  return Promise.all(words.map(key => {
+    return localforage.getItem(key)
+      .then(value => {
+        if (value === null) value = 1;
+        weightsum += value;
+        return { [key]: value }
+      })
+      .catch(error => {
+        weightsum += 1;
+        return { [key]: 1 }
+      })
+  })).then(arr => {
+    return Object.assign(...arr)
+  })
 }
 
 //on page load
 $(function(){
     //if (navigator.geolocation) navigator.geolocation.getCurrentPosition(setposition);
-    weightsum = setweights();
     setbackground(false);
-    newcard();
+    setweights().then((results) => {;
+        weights = results;
+        newcard();
+    });
     $('#word').click(flip);
     $('#translation').click(flip);
     $('#transcription').click(flip);
-    $('button .good').click(function() {
-        localforage.setItem(card.word, card.weight / 2);
-        weightsum -= card.weight / 2;
-        nextcard();
+    $('button.good').click(function() {
+        localforage.setItem(card.word, card.weight / 2).then(function(){
+            weights[card.word] = card.weight/2;
+            weightsum -= card.weight/2;
+            nextcard();
+        });
     });
-    $('button .bad').click(function() {
-        localforage.setItem(card.word, card.weight * 2);
-        weightsum += card.weight;
-        nextcard();
+    $('button.bad').click(function() {
+        localforage.setItem(card.word, card.weight * 2).then(function(){
+            weights[card.word] = card.weight*2;
+            weightsum += card.weight;
+            nextcard();
+        });
     });
     var linkbody = "<ul>";
     for (var i = 0; i < links.length; i++) {
@@ -192,7 +209,6 @@ $(function(){
     }
     linkbody += "</ul>";
     $('#links').html(linkbody);
-    $('#stats').html(card.weight + "/" + weightsum);
     $('#switchdirection').click(function(){
         reverse = !reverse;
         nextcard();

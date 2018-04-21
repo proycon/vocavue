@@ -67,6 +67,7 @@ div#clock {
     padding: 16px;
 }
 div#stats {
+    color: #ddd;
     float: right;
     font-family: monospace;
     font-size: 50%;
