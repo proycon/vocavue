@@ -74,7 +74,7 @@ div#stats {
 }
 button {
     background: transparent;
-    border: 3px solid;
+    border: none;
     border-radius: 50%;
     font-size: 48px;
     margin-right: 20px;
