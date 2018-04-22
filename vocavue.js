@@ -46,11 +46,11 @@ function newcard() {
     var card_idx = 0;
     var mass = 0;
     for (var i in vocab[vocab_set]) {
-        mass += weights[vocab[vocab_set][i].word];
-        if (choice > mass) {
+        if (choice >= mass) && (choice < mass+weights[vocab[vocab_set][i].word])  {
             card_idx = i;
             setcard(card_idx);
         }
+        mass += weights[vocab[vocab_set][i].word];
     }
 }
 
