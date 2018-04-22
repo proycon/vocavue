@@ -102,7 +102,7 @@ function setcard(card_idx) {
         $('#card #translation').show();
         $('#card #transcription').hide();
     }
-    $('#stats').html(card.weight + "/" + weightsum);
+    $('#stats').html(card.weight + " / " + weightsum);
     $('#card').show(250);
 }
 
