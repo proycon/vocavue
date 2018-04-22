@@ -192,6 +192,9 @@ $(function(){
             nextcard();
         });
     });
+    $('button.neutral').click(function() {
+            nextcard();
+    });
     $('button.bad').click(function() {
         localforage.setItem(card.word, card.weight * 2).then(function(){
             weights[card.word] = card.weight*2;

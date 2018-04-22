@@ -86,14 +86,14 @@ button {
     visibility: visible;
 }
 
-button.good:hover {
-    background: rgba(0,0,0,0.5);
-}
-button.bad:hover {
+button.good:hover,  button.bad:hover, button.neutral:hover {
     background: rgba(0,0,0,0.5);
 }
 button.good {
     color: green;
+}
+button.neutral{
+    color: #ddd;
 }
 button.bad {
     color: red;
