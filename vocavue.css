@@ -72,6 +72,10 @@ div#stats {
     font-family: monospace;
     font-size: 50%;
 }
+div.buttons {
+    width: 100%;
+    margin-top: 15px;
+}
 button {
     background: transparent;
     border: none;
