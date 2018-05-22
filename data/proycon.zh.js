@@ -7,7 +7,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group2"
+            "_group3"
         ]
     },
     {
@@ -18,7 +18,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group2"
+            "_group3"
         ]
     },
     {
@@ -29,7 +29,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group2"
+            "_group3"
         ]
     },
     {
@@ -40,7 +40,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group2"
+            "_group3"
         ]
     },
     {
@@ -51,7 +51,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group2"
+            "_group3"
         ]
     },
     {
@@ -62,7 +62,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group3"
+            "_group4"
         ]
     },
     {
@@ -73,17 +73,17 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group4"
+            "_group5"
         ]
     },
     {
-        "word": "杯子",
-        "transcription": "bēizi",
-        "translation": "cup/glass",
-        "example": "我把杯子打破了",
+        "word": "爷爷",
+        "transcription": "yéyé",
+        "translation": "grandfather",
+        "example": "我跟爷爷同名。",
         "comment": "",
         "tags": [
-            "1",
+            "3",
             "_group5"
         ]
     },
@@ -95,7 +95,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group8"
+            "_group9"
         ]
     },
     {
@@ -106,7 +106,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group8"
+            "_group9"
         ]
     },
     {
@@ -117,7 +117,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group9"
+            "_group10"
         ]
     },
     {
@@ -128,7 +128,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group9"
+            "_group10"
         ]
     },
     {
@@ -139,7 +139,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group9"
+            "_group10"
         ]
     },
     {
@@ -150,18 +150,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group9"
+            "_group10"
         ]
     },
     {
         "word": "体育",
         "transcription": "tǐyù",
         "translation": "sport",
-        "example": "",
+        "example": "他爱好体育，尤其喜欢踢足球。",
         "comment": "",
         "tags": [
             "3",
-            "_group9"
+            "_group10"
         ]
     },
     {
@@ -172,7 +172,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group9"
+            "_group10"
+        ]
+    },
+    {
+        "word": "休假",
+        "transcription": "xiūjiǎ",
+        "translation": "vacation/holiday/leave from duty",
+        "example": "老板不让我休假。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group10"
         ]
     },
     {
@@ -183,7 +194,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -194,7 +205,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -205,7 +216,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -216,7 +227,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -227,7 +238,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -238,7 +249,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -249,7 +260,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -260,7 +271,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group10"
+            "_group12"
         ]
     },
     {
@@ -271,7 +282,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group10"
+            "_group12"
+        ]
+    },
+    {
+        "word": "继续",
+        "transcription": "jìxù",
+        "translation": "continue",
+        "example": "你们要继续努力。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group13"
         ]
     },
     {
@@ -282,7 +304,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group12"
+            "_group15"
         ]
     },
     {
@@ -293,7 +315,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1&",
-            "_group12"
+            "_group15"
         ]
     },
     {
@@ -304,7 +326,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1*",
-            "_group12"
+            "_group15"
         ]
     },
     {
@@ -315,7 +337,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group12"
+            "_group15"
         ]
     },
     {
@@ -326,7 +348,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1&",
-            "_group12"
+            "_group15"
         ]
     },
     {
@@ -337,7 +359,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group12"
+            "_group15"
         ]
     },
     {
@@ -348,7 +370,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group13"
+            "_group16"
         ]
     },
     {
@@ -359,7 +381,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group13"
+            "_group16"
         ]
     },
     {
@@ -370,7 +392,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3&",
-            "_group13"
+            "_group16"
         ]
     },
     {
@@ -381,7 +403,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group13"
+            "_group16"
         ]
     },
     {
@@ -392,7 +414,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group13"
+            "_group16"
         ]
     },
     {
@@ -403,7 +425,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group13"
+            "_group16"
         ]
     },
     {
@@ -414,7 +436,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "6",
-            "_group13"
+            "_group16"
+        ]
+    },
+    {
+        "word": "亚",
+        "transcription": "yà",
+        "translation": "Asia",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group16"
+        ]
+    },
+    {
+        "word": "碰",
+        "transcription": "pèng",
+        "translation": "hit/bump into/take a chance",
+        "example": "我在街上碰到了一位老同学。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group16"
+        ]
+    },
+    {
+        "word": "工艺",
+        "transcription": "gōngyì",
+        "translation": "technology",
+        "example": "这种先进的工艺十分难学。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group17"
+        ]
+    },
+    {
+        "word": "艺术",
+        "transcription": "yìshù",
+        "translation": "art",
+        "example": "她对艺术懂得很多",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group17"
         ]
     },
     {
@@ -425,7 +491,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group14"
+            "_group18"
         ]
     },
     {
@@ -436,7 +502,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group14"
+            "_group18"
+        ]
+    },
+    {
+        "word": "公里",
+        "transcription": "gōnglǐ",
+        "translation": "kilometer",
+        "example": "大约一公里远。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group18"
         ]
     },
     {
@@ -447,18 +524,62 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group14"
+            "_group18"
         ]
     },
     {
         "word": "办法",
         "transcription": "bànfǎ",
         "translation": "method/way",
-        "example": "",
+        "example": "我们找到了办法解决问题",
         "comment": "",
         "tags": [
             "3",
-            "_group14"
+            "_group18"
+        ]
+    },
+    {
+        "word": "法律",
+        "transcription": "fǎlǜ",
+        "translation": "law",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group20"
+        ]
+    },
+    {
+        "word": "法院",
+        "transcription": "fǎyuàn",
+        "translation": "court",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group20"
+        ]
+    },
+    {
+        "word": "合法",
+        "transcription": "héfǎ",
+        "translation": "legal",
+        "example": "他行为合法",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group20"
+        ]
+    },
+    {
+        "word": "非法",
+        "transcription": "fēifǎ",
+        "translation": "illegal",
+        "example": "他们非法结婚。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group20"
         ]
     },
     {
@@ -469,7 +590,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group17"
+            "_group21"
         ]
     },
     {
@@ -480,7 +601,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group17"
+            "_group21"
         ]
     },
     {
@@ -491,7 +612,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2&",
-            "_group17"
+            "_group21"
         ]
     },
     {
@@ -502,7 +623,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group17"
+            "_group21"
+        ]
+    },
+    {
+        "word": "占",
+        "transcription": "zhàn;zhān",
+        "translation": "occupy;divine",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group22"
         ]
     },
     {
@@ -513,7 +645,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group18"
+            "_group22"
+        ]
+    },
+    {
+        "word": "古",
+        "transcription": "gǔ",
+        "translation": "ancient",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group22"
+        ]
+    },
+    {
+        "word": "苦",
+        "transcription": "kǔ",
+        "translation": "bitter/suffer from",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group22"
         ]
     },
     {
@@ -524,7 +678,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group19"
+            "_group23"
         ]
     },
     {
@@ -532,10 +686,10 @@ vocab["proycon.zh"] = [
         "transcription": "diànshì",
         "translation": "television",
         "example": "他把电视关掉",
-        "comment": "视=look at",
+        "comment": "",
         "tags": [
             "1",
-            "_group19"
+            "_group23"
         ]
     },
     {
@@ -546,7 +700,7 @@ vocab["proycon.zh"] = [
         "comment": "影=shadow",
         "tags": [
             "1",
-            "_group19"
+            "_group23"
         ]
     },
     {
@@ -557,7 +711,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1&",
-            "_group19"
+            "_group23"
+        ]
+    },
+    {
+        "word": "视频",
+        "transcription": "shìpín",
+        "translation": "video",
+        "example": "我可以用你的电脑编辑视频吗？",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group23"
         ]
     },
     {
@@ -568,7 +733,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group20"
+            "_group24"
         ]
     },
     {
@@ -579,7 +744,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group20"
+            "_group24"
         ]
     },
     {
@@ -590,7 +755,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group20"
+            "_group24"
         ]
     },
     {
@@ -601,7 +766,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group20"
+            "_group24"
         ]
     },
     {
@@ -612,7 +777,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group20"
+            "_group24"
         ]
     },
     {
@@ -623,7 +788,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group22"
+            "_group26"
         ]
     },
     {
@@ -634,7 +799,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "-",
-            "_group22"
+            "_group26"
         ]
     },
     {
@@ -645,7 +810,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group22"
+            "_group26"
         ]
     },
     {
@@ -656,7 +821,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group22"
+            "_group26"
         ]
     },
     {
@@ -667,7 +832,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group22"
+            "_group26"
         ]
     },
     {
@@ -678,7 +843,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group22"
+            "_group26"
         ]
     },
     {
@@ -689,7 +854,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group24"
+            "_group28"
         ]
     },
     {
@@ -700,7 +865,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group24"
+            "_group28"
         ]
     },
     {
@@ -711,7 +876,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "？",
-            "_group24"
+            "_group28"
         ]
     },
     {
@@ -722,7 +887,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group25"
+            "_group30"
         ]
     },
     {
@@ -733,7 +898,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group25"
+            "_group30"
         ]
     },
     {
@@ -744,18 +909,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group25"
+            "_group30"
         ]
     },
     {
-        "word": "对不许多起",
+        "word": "对不起",
         "transcription": "duìbuqǐ",
         "translation": "sorry",
         "example": "",
         "comment": "",
         "tags": [
             "1",
-            "_group26"
+            "_group31"
         ]
     },
     {
@@ -766,7 +931,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -777,7 +942,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -788,7 +953,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -799,7 +964,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -810,7 +975,7 @@ vocab["proycon.zh"] = [
         "comment": "许=promise/praise/allow",
         "tags": [
             "4",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -820,8 +985,8 @@ vocab["proycon.zh"] = [
         "example": "你的钱够吗？",
         "comment": "",
         "tags": [
-            "？",
-            "_group28"
+            "4",
+            "_group33"
         ]
     },
     {
@@ -832,7 +997,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -843,7 +1008,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "?",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -854,7 +1019,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -865,7 +1030,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group28"
+            "_group33"
         ]
     },
     {
@@ -876,7 +1041,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group30"
+            "_group35"
         ]
     },
     {
@@ -887,7 +1052,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group30"
+            "_group35"
         ]
     },
     {
@@ -898,7 +1063,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group32"
+            "_group37"
         ]
     },
     {
@@ -909,7 +1074,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group32"
+            "_group37"
         ]
     },
     {
@@ -920,18 +1085,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group32"
+            "_group37"
         ]
     },
     {
         "word": "部分",
         "transcription": "bùfēn",
         "translation": "part (n)",
-        "example": "",
+        "example": "我付了大部分",
         "comment": "",
         "tags": [
             "4",
-            "_group32"
+            "_group37"
         ]
     },
     {
@@ -942,7 +1107,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group32"
+            "_group37"
         ]
     },
     {
@@ -953,18 +1118,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group33"
+            "_group38"
         ]
     },
     {
         "word": "完成",
         "transcription": "wánchéng",
         "translation": "to finish/complete",
-        "example": "你完成了吗？洗澡",
+        "example": "我及时完成了报告。",
         "comment": "",
         "tags": [
             "3",
-            "_group33"
+            "_group38"
         ]
     },
     {
@@ -975,7 +1140,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group33"
+            "_group38"
         ]
     },
     {
@@ -986,7 +1151,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group34"
+            "_group39"
         ]
     },
     {
@@ -997,7 +1162,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group34"
+            "_group39"
         ]
     },
     {
@@ -1008,7 +1173,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group34"
+            "_group39"
         ]
     },
     {
@@ -1019,7 +1184,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group36"
+            "_group41"
+        ]
+    },
+    {
+        "word": "聪明",
+        "transcription": "cōngmíng",
+        "translation": "clever",
+        "example": "他确实聪明。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group41"
         ]
     },
     {
@@ -1030,7 +1206,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group37"
+            "_group42"
         ]
     },
     {
@@ -1041,7 +1217,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group38"
+            "_group43"
         ]
     },
     {
@@ -1052,7 +1228,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group39"
+            "_group44"
         ]
     },
     {
@@ -1063,7 +1239,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group39"
+            "_group44"
         ]
     },
     {
@@ -1074,7 +1250,84 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group39"
+            "_group44"
+        ]
+    },
+    {
+        "word": "狼",
+        "transcription": "láng",
+        "translation": "wolf",
+        "example": "他被狼袭击了？",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group44"
+        ]
+    },
+    {
+        "word": "狮子",
+        "transcription": "shīzi",
+        "translation": "lion",
+        "example": "他们可以像狮子一样地打斗",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group44"
+        ]
+    },
+    {
+        "word": "猴子",
+        "transcription": "hóuzi",
+        "translation": "monkey",
+        "example": "看那只猴子多可爱。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group44"
+        ]
+    },
+    {
+        "word": "老虎",
+        "transcription": "lǎohǔ",
+        "translation": "tiger",
+        "example": "小老虎看起来像是一只猫。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group44"
+        ]
+    },
+    {
+        "word": "熊猫",
+        "transcription": "xióngmāo",
+        "translation": "panda",
+        "example": "这是我第一次在动物园里看到熊猫宝宝。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group44"
+        ]
+    },
+    {
+        "word": "熊",
+        "transcription": "xióng",
+        "translation": "bear",
+        "example": "熊可能攻击她。",
+        "comment": "",
+        "tags": [
+            "3&",
+            "_group44"
+        ]
+    },
+    {
+        "word": "逛",
+        "transcription": "guàng",
+        "translation": "stroll",
+        "example": "我们在城里逛了逛。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group45"
         ]
     },
     {
@@ -1085,7 +1338,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group42"
+            "_group46"
         ]
     },
     {
@@ -1096,7 +1349,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group43"
+            "_group47"
         ]
     },
     {
@@ -1107,7 +1360,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group44"
+            "_group48"
         ]
     },
     {
@@ -1118,7 +1371,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group44"
+            "_group48"
         ]
     },
     {
@@ -1129,7 +1382,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group45"
+            "_group49"
         ]
     },
     {
@@ -1140,7 +1393,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group45"
+            "_group49"
         ]
     },
     {
@@ -1151,7 +1404,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group47"
+            "_group51"
         ]
     },
     {
@@ -1162,7 +1415,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group47"
+            "_group51"
         ]
     },
     {
@@ -1173,7 +1426,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group47"
+            "_group51"
         ]
     },
     {
@@ -1184,7 +1437,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group47"
+            "_group51"
         ]
     },
     {
@@ -1195,7 +1448,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group47"
+            "_group51"
         ]
     },
     {
@@ -1206,7 +1459,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1217,7 +1470,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "-",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1228,7 +1481,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "-",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1239,7 +1492,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1250,7 +1503,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1261,7 +1514,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1272,7 +1525,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1283,7 +1536,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group48"
+            "_group52"
         ]
     },
     {
@@ -1294,7 +1547,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group49"
+            "_group53"
         ]
     },
     {
@@ -1305,7 +1558,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group50"
+            "_group54"
         ]
     },
     {
@@ -1316,7 +1569,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group50"
+            "_group54"
         ]
     },
     {
@@ -1327,7 +1580,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group50"
+            "_group54"
         ]
     },
     {
@@ -1338,7 +1591,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group50"
+            "_group54"
         ]
     },
     {
@@ -1349,7 +1602,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group50"
+            "_group54"
         ]
     },
     {
@@ -1360,7 +1613,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group50"
+            "_group54"
         ]
     },
     {
@@ -1371,29 +1624,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group50"
-        ]
-    },
-    {
-        "word": "过",
-        "transcription": "guò",
-        "translation": "past/completion participle",
-        "example": "我没看过这本书。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group51"
-        ]
-    },
-    {
-        "word": "过去",
-        "transcription": "guòqù",
-        "translation": "the past",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group51"
+            "_group54"
         ]
     },
     {
@@ -1404,7 +1635,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group52"
+            "_group56"
+        ]
+    },
+    {
+        "word": "到处",
+        "transcription": "dàochù",
+        "translation": "all places",
+        "example": "到处都是书。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group56"
         ]
     },
     {
@@ -1415,7 +1657,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group52"
+            "_group56"
+        ]
+    },
+    {
+        "word": "迟早",
+        "transcription": "chízǎo",
+        "translation": "sooner or later",
+        "example": "她迟早会离开。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group56"
         ]
     },
     {
@@ -1426,7 +1679,7 @@ vocab["proycon.zh"] = [
         "comment": "(上班=go to work)",
         "tags": [
             "3",
-            "_group53"
+            "_group57"
         ]
     },
     {
@@ -1437,7 +1690,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group53"
+            "_group57"
         ]
     },
     {
@@ -1448,7 +1701,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group54"
+            "_group58"
         ]
     },
     {
@@ -1459,7 +1712,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group54"
+            "_group58"
         ]
     },
     {
@@ -1470,40 +1723,40 @@ vocab["proycon.zh"] = [
         "comment": "答=answer",
         "tags": [
             "3",
-            "_group54"
+            "_group58"
         ]
     },
     {
         "word": "回到",
         "transcription": "huídào",
         "translation": "get back to",
-        "example": "到=arrive",
+        "example": "这是我第三回到北京。",
         "comment": "",
         "tags": [
             "-",
-            "_group54"
+            "_group58"
         ]
     },
     {
         "word": "回忆",
         "transcription": "huíyì",
         "translation": "to recall",
-        "example": "忆=remember",
+        "example": "他喜爱回忆他的父亲。",
         "comment": "",
         "tags": [
             "4",
-            "_group54"
+            "_group58"
         ]
     },
     {
         "word": "问",
         "transcription": "wèn",
         "translation": "to ask (v), question(n)",
-        "example": "",
+        "example": "他总是喜欢问各种问题。",
         "comment": "",
         "tags": [
             "2",
-            "_group54"
+            "_group58"
         ]
     },
     {
@@ -1514,7 +1767,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group54"
+            "_group58"
         ]
     },
     {
@@ -1525,7 +1778,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group54"
+            "_group58"
         ]
     },
     {
@@ -1536,18 +1789,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group54"
+            "_group58"
         ]
     },
     {
         "word": "方向",
         "transcription": "fāngxiàng",
         "translation": "direction (n)",
-        "example": "方=direction",
+        "example": "哪个方向是东？",
         "comment": "",
         "tags": [
             "4",
-            "_group54"
+            "_group58"
+        ]
+    },
+    {
+        "word": "响",
+        "transcription": "xiǎng",
+        "translation": "loud/sound(n+v)/ring(v)",
+        "example": "我的电话响了",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group58"
         ]
     },
     {
@@ -1558,7 +1822,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group55"
+            "_group59"
         ]
     },
     {
@@ -1569,7 +1833,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group56"
+            "_group60"
         ]
     },
     {
@@ -1580,7 +1844,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group56"
+            "_group60"
         ]
     },
     {
@@ -1591,7 +1855,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group56"
+            "_group60"
         ]
     },
     {
@@ -1602,7 +1866,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group56"
+            "_group60"
         ]
     },
     {
@@ -1613,7 +1877,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group57"
+            "_group61"
         ]
     },
     {
@@ -1624,7 +1888,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group57"
+            "_group61"
         ]
     },
     {
@@ -1635,7 +1899,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group57"
+            "_group61"
         ]
     },
     {
@@ -1646,7 +1910,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group57"
+            "_group61"
         ]
     },
     {
@@ -1657,7 +1921,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group59"
+            "_group63"
         ]
     },
     {
@@ -1668,7 +1932,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group59"
+            "_group63"
         ]
     },
     {
@@ -1679,7 +1943,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group59"
+            "_group63"
         ]
     },
     {
@@ -1690,7 +1954,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group59"
+            "_group63"
         ]
     },
     {
@@ -1701,7 +1965,7 @@ vocab["proycon.zh"] = [
         "comment": "词=word,典=standard",
         "tags": [
             "3",
-            "_group60"
+            "_group64"
         ]
     },
     {
@@ -1712,7 +1976,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group60"
+            "_group64"
         ]
     },
     {
@@ -1723,7 +1987,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group60"
+            "_group64"
         ]
     },
     {
@@ -1734,7 +1998,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1745,7 +2009,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "-",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1756,7 +2020,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1767,7 +2031,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1778,7 +2042,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1789,7 +2053,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1800,7 +2064,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1811,7 +2075,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group61"
+            "_group65"
         ]
     },
     {
@@ -1822,7 +2086,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group62"
+            "_group66"
+        ]
+    },
+    {
+        "word": "尝",
+        "transcription": "cháng",
+        "translation": "taste/ever",
+        "example": "尝起来好吃",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group66"
+        ]
+    },
+    {
+        "word": "合适",
+        "transcription": "héshì",
+        "translation": "appropriate/suitable/fit",
+        "example": "你穿这件衬衫合适吗？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group67"
+        ]
+    },
+    {
+        "word": "合作",
+        "transcription": "hézuò",
+        "translation": "cooperate",
+        "example": "为什么你不合作呢？",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group67"
+        ]
+    },
+    {
+        "word": "盒子",
+        "transcription": "hézi",
+        "translation": "box/case",
+        "example": "这两个盒子一样大。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group67"
         ]
     },
     {
@@ -1833,7 +2141,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1844,7 +2152,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1855,7 +2163,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1866,7 +2174,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "-",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1877,7 +2185,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1888,7 +2196,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1899,7 +2207,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1910,7 +2218,7 @@ vocab["proycon.zh"] = [
         "comment": "努=make an effort",
         "tags": [
             "3",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1921,7 +2229,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group63"
+            "_group68"
         ]
     },
     {
@@ -1932,7 +2240,40 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group63"
+            "_group68"
+        ]
+    },
+    {
+        "word": "一切",
+        "transcription": "yíqiè",
+        "translation": "all/everything",
+        "example": "我们一切都好，谢谢。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group68"
+        ]
+    },
+    {
+        "word": "伤害",
+        "transcription": "shānghài",
+        "translation": "injure/hurt",
+        "example": "她伤害了胳膊。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group68"
+        ]
+    },
+    {
+        "word": "伤心",
+        "transcription": "shāngxīn",
+        "translation": "sad/saddened",
+        "example": "我很伤心",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group68"
         ]
     },
     {
@@ -1943,7 +2284,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group64"
+            "_group69"
         ]
     },
     {
@@ -1954,7 +2295,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group64"
+            "_group69"
         ]
     },
     {
@@ -1965,7 +2306,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group64"
+            "_group69"
         ]
     },
     {
@@ -1976,7 +2317,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "6",
-            "_group64"
+            "_group69"
         ]
     },
     {
@@ -1987,7 +2328,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group64"
+            "_group69"
         ]
     },
     {
@@ -1998,7 +2339,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group65"
+            "_group70"
         ]
     },
     {
@@ -2009,7 +2350,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group65"
+            "_group70"
         ]
     },
     {
@@ -2020,7 +2361,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group65"
+            "_group70"
         ]
     },
     {
@@ -2031,7 +2372,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group65"
+            "_group70"
         ]
     },
     {
@@ -2041,8 +2382,8 @@ vocab["proycon.zh"] = [
         "example": "今天我感冒了，所以不唱歌。",
         "comment": "",
         "tags": [
-            "？",
-            "_group65"
+            "4",
+            "_group70"
         ]
     },
     {
@@ -2053,7 +2394,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group66"
+            "_group71"
         ]
     },
     {
@@ -2064,7 +2405,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2075,7 +2416,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2086,7 +2427,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2097,7 +2438,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2108,7 +2449,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2119,7 +2460,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2130,7 +2471,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group67"
+            "_group72"
         ]
     },
     {
@@ -2141,7 +2482,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group68"
+            "_group73"
         ]
     },
     {
@@ -2152,7 +2493,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group68"
+            "_group73"
         ]
     },
     {
@@ -2163,7 +2504,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group68"
+            "_group73"
         ]
     },
     {
@@ -2174,7 +2515,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group68"
+            "_group73"
         ]
     },
     {
@@ -2185,18 +2526,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group68"
+            "_group73"
         ]
     },
     {
-        "word": "其他",
+        "word": "其他/其它",
         "transcription": "qítā",
         "translation": "other/else/the rest",
         "example": "其他人都很忙。",
         "comment": "",
         "tags": [
             "3",
-            "_group68"
+            "_group73"
+        ]
+    },
+    {
+        "word": "尤其",
+        "transcription": "yóuqí",
+        "translation": "especially",
+        "example": "他爱好体育，尤其喜欢踢足球。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group73"
         ]
     },
     {
@@ -2207,7 +2559,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group68"
+            "_group73"
         ]
     },
     {
@@ -2218,7 +2570,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group68"
+            "_group73"
         ]
     },
     {
@@ -2229,7 +2581,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "6",
-            "_group68"
+            "_group73"
+        ]
+    },
+    {
+        "word": "直",
+        "transcription": "zhí",
+        "translation": "straight/simply",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group74"
         ]
     },
     {
@@ -2240,7 +2603,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group69"
+            "_group74"
+        ]
+    },
+    {
+        "word": "谈话",
+        "transcription": "tánhuà",
+        "translation": "chat",
+        "example": "她正在和她大学的老师谈话。",
+        "comment": "",
+        "tags": [
+            "5&",
+            "_group75"
         ]
     },
     {
@@ -2251,7 +2625,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group71"
+            "_group76"
         ]
     },
     {
@@ -2262,7 +2636,106 @@ vocab["proycon.zh"] = [
         "comment": "场=ground/scene/field",
         "tags": [
             "-",
-            "_group71"
+            "_group76"
+        ]
+    },
+    {
+        "word": "厂",
+        "transcription": "chǎng",
+        "translation": "factory",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group77"
+        ]
+    },
+    {
+        "word": "广告",
+        "transcription": "guǎnggào",
+        "translation": "advertisement",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group77"
+        ]
+    },
+    {
+        "word": "广场",
+        "transcription": "guǎngchǎng",
+        "translation": "square/plaza",
+        "example": "广场上满是人",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group77"
+        ]
+    },
+    {
+        "word": "产生",
+        "transcription": "chǎnshēng",
+        "translation": "produce/develop/cause",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group77"
+        ]
+    },
+    {
+        "word": "产品",
+        "transcription": "chǎnpǐn",
+        "translation": "product",
+        "example": "这种产品质量特别好。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group77"
+        ]
+    },
+    {
+        "word": "产业",
+        "transcription": "chǎnyè",
+        "translation": "industry",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group77"
+        ]
+    },
+    {
+        "word": "严",
+        "transcription": "yǎn",
+        "translation": "tight/strict/severe",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group77"
+        ]
+    },
+    {
+        "word": "严重",
+        "transcription": "yǎnzhòng",
+        "translation": "serious",
+        "example": "他的病情非常严重。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group77"
+        ]
+    },
+    {
+        "word": "严格",
+        "transcription": "yǎngé",
+        "translation": "strict",
+        "example": "老师的要求非常严格。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group77"
         ]
     },
     {
@@ -2273,7 +2746,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group72"
+            "_group79"
         ]
     },
     {
@@ -2284,7 +2757,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group72"
+            "_group79"
         ]
     },
     {
@@ -2295,7 +2768,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group73"
+            "_group80"
         ]
     },
     {
@@ -2306,7 +2779,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group73"
+            "_group80"
         ]
     },
     {
@@ -2317,7 +2790,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "？",
-            "_group73"
+            "_group80"
         ]
     },
     {
@@ -2328,7 +2801,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group73"
+            "_group80"
         ]
     },
     {
@@ -2339,7 +2812,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group74"
+            "_group81"
         ]
     },
     {
@@ -2350,7 +2823,18 @@ vocab["proycon.zh"] = [
         "comment": "结=tie,婚=marriage",
         "tags": [
             "3",
-            "_group74"
+            "_group81"
+        ]
+    },
+    {
+        "word": "结果",
+        "transcription": "jiéguǒ",
+        "translation": "outcome/result/conclusion/in the end",
+        "example": "比赛结果如何？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group81"
         ]
     },
     {
@@ -2361,7 +2845,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2372,7 +2856,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2383,7 +2867,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2394,7 +2878,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2405,7 +2889,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2416,7 +2900,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2427,7 +2911,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2438,7 +2922,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2449,18 +2933,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group75"
+            "_group82"
         ]
     },
     {
         "word": "差",
-        "transcription": "chà",
-        "translation": "mistaken/poor",
+        "transcription": "chà;chā;chāi",
+        "translation": "mistaken/poor;difference;send",
         "example": "这些鞋的质量很差",
         "comment": "",
         "tags": [
             "3",
-            "_group75"
+            "_group82"
         ]
     },
     {
@@ -2471,7 +2955,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group76"
+            "_group83"
         ]
     },
     {
@@ -2482,7 +2966,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group76"
+            "_group83"
         ]
     },
     {
@@ -2493,7 +2977,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group76"
+            "_group83"
         ]
     },
     {
@@ -2504,7 +2988,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group76"
+            "_group83"
         ]
     },
     {
@@ -2515,7 +2999,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group76"
+            "_group83"
         ]
     },
     {
@@ -2526,7 +3010,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group77"
+            "_group84"
         ]
     },
     {
@@ -2537,7 +3021,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group77"
+            "_group84"
         ]
     },
     {
@@ -2548,7 +3032,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group77"
+            "_group84"
         ]
     },
     {
@@ -2559,7 +3043,7 @@ vocab["proycon.zh"] = [
         "comment": "我的房子很旧。",
         "tags": [
             "3",
-            "_group79"
+            "_group86"
         ]
     },
     {
@@ -2570,7 +3054,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group79"
+            "_group86"
         ]
     },
     {
@@ -2581,7 +3065,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group79"
+            "_group86"
         ]
     },
     {
@@ -2592,7 +3076,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "?",
-            "_group79"
+            "_group86"
         ]
     },
     {
@@ -2603,7 +3087,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group79"
+            "_group86"
+        ]
+    },
+    {
+        "word": "害怕",
+        "transcription": "hàipà",
+        "translation": "to be afraid",
+        "example": "这小孩害怕黑暗。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group87"
+        ]
+    },
+    {
+        "word": "害羞",
+        "transcription": "hàixiū",
+        "translation": "to be shy",
+        "example": "和姐姐相比，她比较害羞。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group87"
         ]
     },
     {
@@ -2614,7 +3120,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group80"
+            "_group88"
         ]
     },
     {
@@ -2625,7 +3131,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group80"
+            "_group88"
         ]
     },
     {
@@ -2636,7 +3142,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group80"
+            "_group88"
+        ]
+    },
+    {
+        "word": "律师",
+        "transcription": "lǜshì",
+        "translation": "lawyer",
+        "example": "我想见我的律师。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group89"
         ]
     },
     {
@@ -2647,7 +3164,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2658,7 +3175,7 @@ vocab["proycon.zh"] = [
         "comment": "(闻=hear/smell)",
         "tags": [
             "3",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2669,7 +3186,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2680,7 +3197,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2691,7 +3208,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2702,7 +3219,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group81"
+            "_group90"
+        ]
+    },
+    {
+        "word": "重视",
+        "transcription": "zhòngshì",
+        "translation": "to value/attach importance",
+        "example": "她总是很重视丈夫的意见。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group90"
         ]
     },
     {
@@ -2713,7 +3241,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2724,7 +3252,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group81"
+            "_group90"
         ]
     },
     {
@@ -2735,7 +3263,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group82"
+            "_group91"
         ]
     },
     {
@@ -2746,7 +3274,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group82"
+            "_group91"
         ]
     },
     {
@@ -2757,18 +3285,18 @@ vocab["proycon.zh"] = [
         "comment": "syn: 感情",
         "tags": [
             "4",
-            "_group82"
+            "_group91"
         ]
     },
     {
         "word": "发觉",
         "transcription": "fājué",
         "translation": "discover",
-        "example": "她发觉有错误。",
+        "example": "禁止她发觉有错误。",
         "comment": "syn: 发现",
         "tags": [
             "6",
-            "_group82"
+            "_group91"
         ]
     },
     {
@@ -2779,7 +3307,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group82"
+            "_group91"
         ]
     },
     {
@@ -2790,7 +3318,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group82"
+            "_group91"
         ]
     },
     {
@@ -2801,7 +3329,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group83"
+            "_group92"
         ]
     },
     {
@@ -2812,7 +3340,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group83"
+            "_group92"
         ]
     },
     {
@@ -2823,7 +3351,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group83"
+            "_group92"
         ]
     },
     {
@@ -2834,7 +3362,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group83"
+            "_group92"
         ]
     },
     {
@@ -2845,7 +3373,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group83"
+            "_group92"
+        ]
+    },
+    {
+        "word": "现",
+        "transcription": "xiàn",
+        "translation": "present/reveal/ready",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group93"
         ]
     },
     {
@@ -2853,10 +3392,21 @@ vocab["proycon.zh"] = [
         "transcription": "xiànzài",
         "translation": "now",
         "example": "我现在在北京住",
-        "comment": "现=present",
+        "comment": "",
         "tags": [
             "1",
-            "_group84"
+            "_group93"
+        ]
+    },
+    {
+        "word": "现金",
+        "transcription": "xiànjīn",
+        "translation": "cash",
+        "example": "他用现金买的电视。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group93"
         ]
     },
     {
@@ -2867,7 +3417,7 @@ vocab["proycon.zh"] = [
         "comment": "syn: 发觉",
         "tags": [
             "3",
-            "_group84"
+            "_group93"
         ]
     },
     {
@@ -2875,10 +3425,10 @@ vocab["proycon.zh"] = [
         "transcription": "chǔxiàn",
         "translation": "appear",
         "example": "两个男人突然出现在门口。",
-        "comment": "现=present",
+        "comment": "",
         "tags": [
             "4",
-            "_group84"
+            "_group93"
         ]
     },
     {
@@ -2889,7 +3439,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group84"
+            "_group94"
+        ]
+    },
+    {
+        "word": "表扬",
+        "transcription": "biǎoyáng",
+        "translation": "praise",
+        "example": "报纸表扬了他们。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group94"
         ]
     },
     {
@@ -2900,7 +3461,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group87"
+            "_group97"
         ]
     },
     {
@@ -2911,7 +3472,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group88"
+            "_group98"
         ]
     },
     {
@@ -2922,7 +3483,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group88"
+            "_group98"
         ]
     },
     {
@@ -2933,7 +3494,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group88"
+            "_group98"
         ]
     },
     {
@@ -2944,7 +3505,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group88"
+            "_group98"
         ]
     },
     {
@@ -2952,10 +3513,21 @@ vocab["proycon.zh"] = [
         "transcription": "shuǐpíng",
         "translation": "standard/level/horizontal",
         "example": "你的英语水平如何？",
-        "comment": "平=flat/clam/even",
+        "comment": "",
         "tags": [
             "3",
-            "_group88"
+            "_group98"
+        ]
+    },
+    {
+        "word": "永",
+        "transcription": "yǒng",
+        "translation": "forever/everlasting",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group98"
         ]
     },
     {
@@ -2966,7 +3538,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group91"
+            "_group101"
         ]
     },
     {
@@ -2977,7 +3549,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group92"
+            "_group102"
         ]
     },
     {
@@ -2988,7 +3560,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group92"
+            "_group102"
         ]
     },
     {
@@ -2999,7 +3571,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group92"
+            "_group102"
         ]
     },
     {
@@ -3010,7 +3582,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group92"
+            "_group102"
         ]
     },
     {
@@ -3021,7 +3593,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group92"
+            "_group102"
         ]
     },
     {
@@ -3032,7 +3604,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group92"
+            "_group102"
         ]
     },
     {
@@ -3042,8 +3614,8 @@ vocab["proycon.zh"] = [
         "example": "",
         "comment": "",
         "tags": [
-            "？",
-            "_group92"
+            "&",
+            "_group102"
         ]
     },
     {
@@ -3054,7 +3626,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group93"
+            "_group103"
         ]
     },
     {
@@ -3065,7 +3637,40 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group93"
+            "_group103"
+        ]
+    },
+    {
+        "word": "种",
+        "transcription": "zhǒng;zhòng",
+        "translation": "species/seed/courage;sow",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group103"
+        ]
+    },
+    {
+        "word": "种类",
+        "transcription": "zhǒnglèi",
+        "translation": "type",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group103"
+        ]
+    },
+    {
+        "word": "种种",
+        "transcription": "zhǒngzhǒng",
+        "translation": "various/all sorts of",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group103"
         ]
     },
     {
@@ -3076,7 +3681,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group96"
+            "_group104"
         ]
     },
     {
@@ -3087,7 +3692,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group96"
+            "_group104"
         ]
     },
     {
@@ -3098,7 +3703,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group96"
+            "_group104"
         ]
     },
     {
@@ -3109,7 +3714,7 @@ vocab["proycon.zh"] = [
         "comment": "(机=machine)",
         "tags": [
             "2",
-            "_group96"
+            "_group104"
         ]
     },
     {
@@ -3120,7 +3725,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group96"
+            "_group104"
         ]
     },
     {
@@ -3131,7 +3736,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group97"
+            "_group105"
         ]
     },
     {
@@ -3142,7 +3747,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group97"
+            "_group105"
         ]
     },
     {
@@ -3153,7 +3758,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group97"
+            "_group105"
+        ]
+    },
+    {
+        "word": "比如",
+        "transcription": "bǐrú",
+        "translation": "for example/such as",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group105"
         ]
     },
     {
@@ -3164,7 +3780,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group97"
+            "_group105"
         ]
     },
     {
@@ -3175,7 +3791,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group97"
+            "_group105"
         ]
     },
     {
@@ -3186,7 +3802,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group97"
+            "_group105"
         ]
     },
     {
@@ -3197,7 +3813,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group97"
+            "_group105"
+        ]
+    },
+    {
+        "word": "辣",
+        "transcription": "là",
+        "translation": "spicy/hot",
+        "example": "这菜很辣。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group105"
         ]
     },
     {
@@ -3208,7 +3835,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group98"
+            "_group106"
         ]
     },
     {
@@ -3219,7 +3846,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group98"
+            "_group106"
         ]
     },
     {
@@ -3230,7 +3857,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group98"
+            "_group106"
         ]
     },
     {
@@ -3241,7 +3868,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group98"
+            "_group106"
         ]
     },
     {
@@ -3252,7 +3879,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group98"
+            "_group106"
         ]
     },
     {
@@ -3263,7 +3890,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group99"
+            "_group107"
         ]
     },
     {
@@ -3274,7 +3901,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group100"
+            "_group108"
         ]
     },
     {
@@ -3285,7 +3912,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group100"
+            "_group108"
         ]
     },
     {
@@ -3296,7 +3923,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group102"
+            "_group110"
         ]
     },
     {
@@ -3307,7 +3934,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group102"
+            "_group110"
         ]
     },
     {
@@ -3318,7 +3945,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group102"
+            "_group110"
         ]
     },
     {
@@ -3329,7 +3956,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group102"
+            "_group110"
         ]
     },
     {
@@ -3340,7 +3967,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group102"
+            "_group110"
         ]
     },
     {
@@ -3351,7 +3978,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group102"
+            "_group110"
         ]
     },
     {
@@ -3362,7 +3989,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group104"
+            "_group112"
         ]
     },
     {
@@ -3373,7 +4000,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group105"
+            "_group113"
         ]
     },
     {
@@ -3384,7 +4011,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group105"
+            "_group113"
         ]
     },
     {
@@ -3395,7 +4022,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group106"
+            "_group114"
         ]
     },
     {
@@ -3406,7 +4033,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group107"
+            "_group115"
         ]
     },
     {
@@ -3417,7 +4044,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group107"
+            "_group115"
         ]
     },
     {
@@ -3428,7 +4055,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group107"
+            "_group115"
         ]
     },
     {
@@ -3439,7 +4066,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group107"
+            "_group115"
         ]
     },
     {
@@ -3450,7 +4077,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group107"
+            "_group115"
         ]
     },
     {
@@ -3461,7 +4088,18 @@ vocab["proycon.zh"] = [
         "comment": "(一只手）",
         "tags": [
             "3",
-            "_group107"
+            "_group115"
+        ]
+    },
+    {
+        "word": "只好",
+        "transcription": "zhǐhǎo",
+        "translation": "have to/be forced to/need to",
+        "example": "他们只好用冷水洗。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group115"
         ]
     },
     {
@@ -3472,7 +4110,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group107"
+            "_group115"
         ]
     },
     {
@@ -3483,7 +4121,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group108"
+            "_group116"
         ]
     },
     {
@@ -3494,7 +4132,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group108"
+            "_group116"
         ]
     },
     {
@@ -3505,7 +4143,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group108"
+            "_group116"
         ]
     },
     {
@@ -3516,7 +4154,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group108"
+            "_group116"
+        ]
+    },
+    {
+        "word": "牢",
+        "transcription": "láo",
+        "translation": "pen/prison",
+        "example": "他在牢里面。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group116"
         ]
     },
     {
@@ -3527,7 +4176,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group108"
+            "_group116"
         ]
     },
     {
@@ -3538,7 +4187,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group108"
+            "_group116"
         ]
     },
     {
@@ -3549,7 +4198,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group108"
+            "_group116"
+        ]
+    },
+    {
+        "word": "干燥",
+        "transcription": "gānzào",
+        "translation": "dry",
+        "example": "北方的冬令寒冷干燥。。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group116"
+        ]
+    },
+    {
+        "word": "干杯",
+        "transcription": "gānbēi",
+        "translation": "drink a toast/cheers",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group116"
         ]
     },
     {
@@ -3560,29 +4231,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group108"
+            "_group116"
         ]
     },
     {
         "word": "半",
         "transcription": "bàn",
         "translation": "half",
-        "example": "",
+        "example": "四点半",
         "comment": "",
         "tags": [
             "3",
-            "_group108"
+            "_group116"
         ]
     },
     {
         "word": "羊",
         "transcription": "yáng",
         "translation": "sheep",
-        "example": "",
+        "example": "我听见羊",
         "comment": "",
         "tags": [
             "2",
-            "_group108"
+            "_group116"
         ]
     },
     {
@@ -3593,7 +4264,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group109"
+            "_group118"
         ]
     },
     {
@@ -3604,7 +4275,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group110"
+            "_group119"
         ]
     },
     {
@@ -3615,7 +4286,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group110"
+            "_group119"
         ]
     },
     {
@@ -3626,7 +4297,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group112"
+            "_group121"
         ]
     },
     {
@@ -3637,7 +4308,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1&",
-            "_group112"
+            "_group121"
         ]
     },
     {
@@ -3648,7 +4319,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1&",
-            "_group112"
+            "_group121"
         ]
     },
     {
@@ -3659,7 +4330,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group112"
+            "_group121"
         ]
     },
     {
@@ -3670,7 +4341,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group112"
+            "_group121"
         ]
     },
     {
@@ -3681,7 +4352,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group112"
+            "_group121"
         ]
     },
     {
@@ -3692,7 +4363,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3&",
-            "_group113"
+            "_group122"
+        ]
+    },
+    {
+        "word": "共同",
+        "transcription": "gōngtóng",
+        "translation": "common/together",
+        "example": "共同的朋友",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group122"
         ]
     },
     {
@@ -3703,7 +4385,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group113"
+            "_group122"
+        ]
+    },
+    {
+        "word": "共产党",
+        "transcription": "gōngchǎndǎng",
+        "translation": "the Communist Party",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group122"
         ]
     },
     {
@@ -3714,7 +4407,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group114"
+            "_group123"
         ]
     },
     {
@@ -3725,7 +4418,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group114"
+            "_group123"
         ]
     },
     {
@@ -3736,18 +4429,18 @@ vocab["proycon.zh"] = [
         "comment": "(安=peace/quiet/calm)",
         "tags": [
             "3",
-            "_group114"
+            "_group123"
         ]
     },
     {
         "word": "安全",
         "transcription": "ānquán",
-        "translation": "safe",
+        "translation": "safe/secure/security",
         "example": "安全是重要的。",
         "comment": "(syn: 平安， píngān, 5)",
         "tags": [
             "4",
-            "_group114"
+            "_group123"
         ]
     },
     {
@@ -3758,7 +4451,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4&",
-            "_group114"
+            "_group123"
         ]
     },
     {
@@ -3769,7 +4462,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group116"
+            "_group125"
         ]
     },
     {
@@ -3780,7 +4473,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group116"
+            "_group125"
         ]
     },
     {
@@ -3791,7 +4484,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group116"
+            "_group125"
         ]
     },
     {
@@ -3802,7 +4495,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3&",
-            "_group116"
+            "_group125"
         ]
     },
     {
@@ -3813,7 +4506,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "6",
-            "_group116"
+            "_group125"
+        ]
+    },
+    {
+        "word": "钥匙",
+        "transcription": "yàoshi",
+        "translation": "key",
+        "example": "我把钥匙丢了。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group126"
         ]
     },
     {
@@ -3824,7 +4528,7 @@ vocab["proycon.zh"] = [
         "comment": "(syn: 明）",
         "tags": [
             "5",
-            "_group117"
+            "_group127"
         ]
     },
     {
@@ -3835,7 +4539,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group117"
+            "_group127"
         ]
     },
     {
@@ -3846,7 +4550,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3857,7 +4561,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3868,7 +4572,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3879,7 +4583,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3890,7 +4594,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3901,7 +4605,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3912,7 +4616,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group118"
+            "_group128"
         ]
     },
     {
@@ -3923,7 +4627,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group120"
+            "_group130"
         ]
     },
     {
@@ -3934,7 +4638,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group120"
+            "_group130"
         ]
     },
     {
@@ -3945,7 +4649,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group120"
+            "_group130"
         ]
     },
     {
@@ -3956,7 +4660,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group120"
+            "_group130"
         ]
     },
     {
@@ -3967,7 +4671,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group120"
+            "_group130"
         ]
     },
     {
@@ -3978,7 +4682,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group120"
+            "_group130"
         ]
     },
     {
@@ -3989,18 +4693,40 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group120"
+            "_group130"
         ]
     },
     {
         "word": "情况",
         "transcription": "qíngkuàng",
         "translation": "situation",
-        "example": "(况=situation, syn: 状况 zhuàngkuàng)",
+        "example": "情况可能有变。",
+        "comment": "(况=situation, syn: 状况 zhuàngkuàng)",
+        "tags": [
+            "4",
+            "_group130"
+        ]
+    },
+    {
+        "word": "精彩",
+        "transcription": "jīngcǎi",
+        "translation": "wonderful/brilliant",
+        "example": "昨天晚上的演出相当精彩。",
         "comment": "",
         "tags": [
             "4",
-            "_group120"
+            "_group130"
+        ]
+    },
+    {
+        "word": "猜",
+        "transcription": "cāi",
+        "translation": "guess/suspect",
+        "example": "我让你猜3次",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group130"
         ]
     },
     {
@@ -4011,7 +4737,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group120"
+            "_group130"
+        ]
+    },
+    {
+        "word": "建议",
+        "transcription": "jiànyì",
+        "translation": "propose",
+        "example": "我能提个建议吗？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group130"
+        ]
+    },
+    {
+        "word": "建设",
+        "transcription": "jiànshè",
+        "translation": "build",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group130"
         ]
     },
     {
@@ -4022,7 +4770,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group121"
+            "_group131"
         ]
     },
     {
@@ -4033,7 +4781,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group121"
+            "_group131"
         ]
     },
     {
@@ -4044,7 +4792,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "6",
-            "_group121"
+            "_group131"
         ]
     },
     {
@@ -4055,7 +4803,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group123"
+            "_group133"
         ]
     },
     {
@@ -4066,7 +4814,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group123"
+            "_group133"
         ]
     },
     {
@@ -4077,7 +4825,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group123"
+            "_group133"
         ]
     },
     {
@@ -4088,7 +4836,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group124"
+            "_group134"
         ]
     },
     {
@@ -4099,7 +4847,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group124"
+            "_group134"
         ]
     },
     {
@@ -4110,7 +4858,7 @@ vocab["proycon.zh"] = [
         "comment": "(syn: 以为 yǐwéi 4)",
         "tags": [
             "3",
-            "_group124"
+            "_group134"
         ]
     },
     {
@@ -4121,7 +4869,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group124"
+            "_group134"
+        ]
+    },
+    {
+        "word": "认可",
+        "transcription": "rènkě",
+        "translation": "endorse/approve",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group134"
+        ]
+    },
+    {
+        "word": "各",
+        "transcription": "gè",
+        "translation": "each/particular",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group135"
+        ]
+    },
+    {
+        "word": "各自",
+        "transcription": "gèzì",
+        "translation": "each (their own)",
+        "example": "这对夫妇各自休假去了。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group135"
+        ]
+    },
+    {
+        "word": "各种",
+        "transcription": "gèzhǒng",
+        "translation": "of various kinds",
+        "example": "他总是喜欢问各种问题。",
+        "comment": "",
+        "tags": [
+            "6&",
+            "_group135"
         ]
     },
     {
@@ -4132,3109 +4924,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group124"
-        ]
-    },
-    {
-        "word": "三",
-        "transcription": "sān",
-        "translation": "three",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group125"
-        ]
-    },
-    {
-        "word": "上",
-        "transcription": "shàng",
-        "translation": "go up/on/last",
-        "example": "桌子上有两杯红酒。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group126"
-        ]
-    },
-    {
-        "word": "上午",
-        "transcription": "shàngwǔ",
-        "translation": "morning",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group126"
-        ]
-    },
-    {
-        "word": "晚上",
-        "transcription": "wǎnshàng",
-        "translation": "evening",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group126"
-        ]
-    },
-    {
-        "word": "上班",
-        "transcription": "shàngbān",
-        "translation": "go to work",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group126"
-        ]
-    },
-    {
-        "word": "件",
-        "transcription": "jiàn",
-        "translation": "MW for things, clothes, and items",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group127"
-        ]
-    },
-    {
-        "word": "谁",
-        "transcription": "shéi",
-        "translation": "who/someone",
-        "example": "他是谁？",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group128"
-        ]
-    },
-    {
-        "word": "准备",
-        "transcription": "zhǔnbèi",
-        "translation": "to prepare",
-        "example": "我需要准备几个杯子?",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group128"
-        ]
-    },
-    {
-        "word": "往",
-        "transcription": "wǎng",
-        "translation": "to go (in a direction); towards; in the past",
-        "example": "飞机正飞往北京。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group128"
-        ]
-    },
-    {
-        "word": "什么",
-        "transcription": "shénme",
-        "translation": "what/something/anything",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group130"
-        ]
-    },
-    {
-        "word": "为什么",
-        "transcription": "wèishénme",
-        "translation": "why",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group130"
-        ]
-    },
-    {
-        "word": "十",
-        "transcription": "shí",
-        "translation": "ten",
-        "example": "我三十五岁。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group131"
-        ]
-    },
-    {
-        "word": "土",
-        "transcription": "tǔ",
-        "translation": "soil/ground/land",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "！",
-            "_group131"
-        ]
-    },
-    {
-        "word": "士",
-        "transcription": "shì",
-        "translation": "soldier/scholar",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "！",
-            "_group131"
-        ]
-    },
-    {
-        "word": "心",
-        "transcription": "xīn",
-        "translation": "heart",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "！",
-            "_group132"
-        ]
-    },
-    {
-        "word": "必须",
-        "transcription": "bìxū",
-        "translation": "must",
-        "example": "你必须等这儿。",
-        "comment": "必=certainly",
-        "tags": [
-            "3",
-            "_group132"
-        ]
-    },
-    {
-        "word": "是",
-        "transcription": "shì",
-        "translation": "to be",
-        "example": "我是他的老师。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group133"
-        ]
-    },
-    {
-        "word": "走",
-        "transcription": "zǒu",
-        "translation": "to walk/go",
-        "example": "他必须得走  .",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group133"
-        ]
-    },
-    {
-        "word": "足",
-        "transcription": "zú",
-        "translation": "foot",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group133"
-        ]
-    },
-    {
-        "word": "一定",
-        "transcription": "yīdìng",
-        "translation": "certainly",
-        "example": "他一定是最漂亮的。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group133"
-        ]
-    },
-    {
-        "word": "起",
-        "transcription": "qǐ",
-        "translation": "to rise/form",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group133"
-        ]
-    },
-    {
-        "word": "一起",
-        "transcription": "yìqǐ",
-        "translation": "together, the same place",
-        "example": "我根你一起去西班牙。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group133"
-        ]
-    },
-    {
-        "word": "起立",
-        "transcription": "qǐlì",
-        "translation": "to stand up",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3&",
-            "_group133"
-        ]
-    },
-    {
-        "word": "起来",
-        "transcription": "qǐlái",
-        "translation": "to get up",
-        "example": "请起来，来客人了。",
-        "comment": "",
-        "tags": [
-            "2&",
-            "_group133"
-        ]
-    },
-    {
-        "word": "起床",
-        "transcription": "qǐchuáng",
-        "translation": "to get out of bed",
-        "example": "我每天早上6点起床。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group133"
-        ]
-    },
-    {
-        "word": "起飞",
-        "transcription": "qǐfēi",
-        "translation": "take off (flying)",
-        "example": "飞机起飞了。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group133"
-        ]
-    },
-    {
-        "word": "对不起",
-        "transcription": "duìbùqǐ",
-        "translation": "sorry",
-        "example": "对不起，我错了。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group134"
-        ]
-    },
-    {
-        "word": "立",
-        "transcription": "lì",
-        "translation": "stand/upright/immediately",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "!",
             "_group135"
         ]
     },
     {
-        "word": "站",
-        "transcription": "zhàn",
-        "translation": "to stand/station",
-        "example": "他忽然站了起来。",
+        "word": "客厅",
+        "transcription": "kètīng",
+        "translation": "living room",
+        "example": "请把桌子放在客厅的中间。",
         "comment": "",
         "tags": [
-            "3",
+            "4",
             "_group135"
         ]
     },
     {
-        "word": "位",
-        "transcription": "wèi",
-        "translation": "MW for people",
-        "example": "他有三位同事。",
+        "word": "客户",
+        "transcription": "kèhù",
+        "translation": "customer",
+        "example": "我们再次和客户谈话。",
         "comment": "",
         "tags": [
-            "3",
+            "6",
             "_group135"
         ]
     },
     {
-        "word": "文",
-        "transcription": "wén",
-        "translation": "writing",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group135"
-        ]
-    },
-    {
-        "word": "书",
-        "transcription": "shū",
-        "translation": "to write (v), book (n), letter (n)",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group136"
-        ]
-    },
-    {
-        "word": "说",
-        "transcription": "shuō",
-        "translation": "to say/speak",
-        "example": "他说他觉得不舒服。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group138"
-        ]
-    },
-    {
-        "word": "说话",
-        "transcription": "shuōhuà",
-        "translation": "to talk/to chat",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group138"
-        ]
-    },
-    {
-        "word": "告诉",
-        "transcription": "gàosù",
-        "translation": "to tell",
-        "example": "我告诉你我昨天看见了什么。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group138"
-        ]
-    },
-    {
-        "word": "舌",
-        "transcription": "shé",
-        "translation": "tongue",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group139"
-        ]
-    },
-    {
-        "word": "活",
-        "transcription": "huó",
-        "translation": "live/life",
-        "example": "她活得很好。",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group139"
-        ]
-    },
-    {
-        "word": "话",
-        "transcription": "huà",
-        "translation": "speech/talk/words",
-        "example": "你得注意他说的话。",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group139"
-        ]
-    },
-    {
-        "word": "普通话",
-        "transcription": "pǔtōnghuà",
-        "translation": "Mandarin",
-        "example": "我会说一点普通话。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group139"
-        ]
-    },
-    {
-        "word": "刮风",
-        "transcription": "guāfēng",
-        "translation": "wind blows",
-        "example": "今天刮风。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group139"
-        ]
-    },
-    {
-        "word": "岁",
-        "transcription": "suì",
-        "translation": "years old",
-        "example": "我32岁",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group140"
-        ]
-    },
-    {
-        "word": "死",
-        "transcription": "sì",
-        "translation": "to die; dead;",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group140"
-        ]
-    },
-    {
-        "word": "也",
-        "transcription": "yě",
-        "translation": "also",
-        "example": "他也爱我们的世界。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group141"
-        ]
-    },
-    {
-        "word": "世界",
-        "transcription": "shìjiè",
-        "translation": "world",
-        "example": "世界也是他的。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group141"
-        ]
-    },
-    {
-        "word": "他",
-        "transcription": "tā",
-        "translation": "he",
-        "example": "他也是中国人。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group141"
-        ]
-    },
-    {
-        "word": "他们",
-        "transcription": "tāmen",
-        "translation": "they",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group141"
-        ]
-    },
-    {
-        "word": "她",
-        "transcription": "tā",
-        "translation": "she",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group141"
-        ]
-    },
-    {
-        "word": "它",
-        "transcription": "tā",
-        "translation": "it",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group141"
-        ]
-    },
-    {
-        "word": "地",
-        "transcription": "de",
-        "translation": "particle",
-        "example": "他安静地看着我。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group141"
-        ]
-    },
-    {
-        "word": "地",
-        "transcription": "dì",
-        "translation": "place,land,earth,location",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group141"
-        ]
-    },
-    {
-        "word": "地方",
-        "transcription": "dìfang",
-        "translation": "place,location,room",
-        "example": "这是非常美的地方。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group141"
-        ]
-    },
-    {
-        "word": "地图",
-        "transcription": "dìtú",
-        "translation": "map",
-        "example": "这张地图很大。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group141"
-        ]
-    },
-    {
-        "word": "听",
-        "transcription": "tīng",
-        "translation": "to listen",
-        "example": "我们正在听歌。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group142"
-        ]
-    },
-    {
-        "word": "喂",
-        "transcription": "wéi",
-        "translation": "hello (on phone)",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group144"
-        ]
-    },
-    {
-        "word": "五",
-        "transcription": "wǔ",
-        "translation": "five",
-        "example": "现在五点了。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group146"
-        ]
-    },
-    {
-        "word": "喜欢",
-        "transcription": "xǐhuan",
-        "translation": "to like",
-        "example": "你喜不喜欢我都没关系。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group148"
-        ]
-    },
-    {
-        "word": "下",
-        "transcription": "xià",
-        "translation": "down/under/last",
-        "example": "猫在桌子下。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group149"
-        ]
-    },
-    {
-        "word": "下午",
-        "transcription": "xiàwǔ",
-        "translation": "afternoon",
-        "example": "医生明天下午有空。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group149"
-        ]
-    },
-    {
-        "word": "下雨",
-        "transcription": "xiàyǔ",
-        "translation": "rain (v)",
-        "example": "现在在下雨。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group149"
-        ]
-    },
-    {
-        "word": "一下",
-        "transcription": "yíxià",
-        "translation": "at once",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group149"
-        ]
-    },
-    {
-        "word": "先",
-        "transcription": "xiān",
-        "translation": "earlier/late/first",
-        "example": "先让我考虑一下。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group150"
-        ]
-    },
-    {
-        "word": "先生",
-        "transcription": "xiānsheng",
-        "translation": "mister",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group150"
-        ]
-    },
-    {
-        "word": "选择",
-        "transcription": "xuǎnzé",
-        "translation": "to choose",
-        "example": "红色和蓝色，你选择哪颜色？",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group150"
-        ]
-    },
-    {
-        "word": "学生",
-        "transcription": "xuésheng",
-        "translation": "student",
-        "example": "学生在大学学习汉语。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group151"
-        ]
-    },
-    {
-        "word": "生日",
-        "transcription": "shēngrì",
-        "translation": "birthday",
-        "example": "生日快乐！",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group151"
-        ]
-    },
-    {
-        "word": "生活",
-        "transcription": "shēnghuó",
-        "translation": "life/live",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group151"
-        ]
-    },
-    {
-        "word": "生病",
-        "transcription": "shēngbìng",
-        "translation": "get ill/sick    因为她生病了，所以她会去医院。",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group151"
-        ]
-    },
-    {
-        "word": "生气",
-        "transcription": "shēngqì",
-        "translation": "get angry",
-        "example": "我很生气，因为我掉了钱。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group151"
-        ]
-    },
-    {
-        "word": "医生",
-        "transcription": "yīshēng",
-        "translation": "doctor",
-        "example": "我想做医生。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group152"
-        ]
-    },
-    {
-        "word": "医院",
-        "transcription": "yīyuàn",
-        "translation": "hospital",
-        "example": "这座城市有医院吗？",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group152"
-        ]
-    },
-    {
-        "word": "药",
-        "transcription": "yào",
-        "translation": "medicine",
-        "example": "你每天应该吃药。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group152"
-        ]
-    },
-    {
-        "word": "因为",
-        "transcription": "yīnwèi",
-        "translation": "because",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group153"
-        ]
-    },
-    {
-        "word": "原因",
-        "transcription": "yuányīn",
-        "translation": "reason",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group153"
-        ]
-    },
-    {
-        "word": "困",
-        "transcription": "kùn",
-        "translation": "sleepy",
-        "example": "我很困，我去床。",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group153"
-        ]
-    },
-    {
-        "word": "园",
-        "transcription": "yuán",
-        "translation": "garden/park",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group154"
-        ]
-    },
-    {
-        "word": "想",
-        "transcription": "xiǎng",
-        "translation": "think, want to",
-        "example": "你想做什么？",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group155"
-        ]
-    },
-    {
-        "word": "思想",
-        "transcription": "sīxiǎng",
-        "translation": "thought/idea",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group155"
-        ]
-    },
-    {
-        "word": "意思",
-        "transcription": "yìsi",
-        "translation": "meaning/idea/interest",
-        "example": "这个汉字是什么意思？",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group155"
-        ]
-    },
-    {
-        "word": "意见",
-        "transcription": "yìjiàn",
-        "translation": "opinion/objection",
-        "example": "按我的意见..",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group155"
-        ]
-    },
-    {
-        "word": "有意思",
-        "transcription": "yǒuyìsi",
-        "translation": "interesting",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group155"
-        ]
-    },
-    {
-        "word": "思考",
-        "transcription": "sīkǎo",
-        "translation": "think (cognitive process)",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group155"
-        ]
-    },
-    {
-        "word": "考虑",
-        "transcription": "kǎolǚ",
-        "translation": "consider",
-        "example": "这个问题需要慎重考虑。",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group155"
-        ]
-    },
-    {
-        "word": "注意",
-        "transcription": "zhùyì",
-        "translation": "be careful/pay attention",
-        "example": "我得注意你说的话。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group155"
-        ]
-    },
-    {
-        "word": "小",
-        "transcription": "xiǎo",
-        "translation": "small",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group156"
-        ]
-    },
-    {
-        "word": "小姐",
-        "transcription": "xiǎojiě",
-        "translation": "miss",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group156"
-        ]
-    },
-    {
-        "word": "小时",
-        "transcription": "xiǎoshí",
-        "translation": "hour",
-        "example": "他每天都会看书一小时。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group156"
-        ]
-    },
-    {
-        "word": "小说",
-        "transcription": "xiǎoshūo",
-        "translation": "novel",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group156"
-        ]
-    },
-    {
-        "word": "小学",
-        "transcription": "xiǎoxué",
-        "translation": "school",
-        "example": "我的儿子在小学里。",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group156"
-        ]
-    },
-    {
-        "word": "小心",
-        "transcription": "xiǎoxīn",
-        "translation": "careful",
-        "example": "你应该要更小心。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group156"
-        ]
-    },
-    {
-        "word": "少",
-        "transcription": "shǎo",
-        "translation": "few/little",
-        "example": "商店里的人非常少。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group156"
-        ]
-    },
-    {
-        "word": "些",
-        "transcription": "xiē",
-        "translation": "some/a little (MW)",
-        "example": "我想买些苹果。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group157"
-        ]
-    },
-    {
-        "word": "写",
-        "transcription": "xiě",
-        "translation": "to write",
-        "example": "他写了一封信。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group158"
-        ]
-    },
-    {
-        "word": "谢谢",
-        "transcription": "xièxiè",
-        "translation": "thanks",
-        "example": "谢谢你教我西班牙语。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group159"
-        ]
-    },
-    {
-        "word": "星期",
-        "transcription": "xīngqī",
-        "translation": "week",
-        "example": "这星期我很忙。",
-        "comment": "syn: 周",
-        "tags": [
-            "1",
-            "_group160"
-        ]
-    },
-    {
-        "word": "星",
-        "transcription": "xīng",
-        "translation": "star",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group160"
-        ]
-    },
-    {
-        "word": "周",
-        "transcription": "zhōu",
-        "translation": "circle/week",
-        "example": "他上周看书了。",
-        "comment": "",
-        "tags": [
-            "！",
-            "_group161"
-        ]
-    },
-    {
-        "word": "周末",
-        "transcription": "zhōumò",
-        "translation": "weekend",
-        "example": "你周末过得怎么样？",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group161"
-        ]
-    },
-    {
-        "word": "一",
-        "transcription": "yī",
-        "translation": "one",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group162"
-        ]
-    },
-    {
-        "word": "一点儿",
-        "transcription": "yìdiǎnr",
-        "translation": "a little bit/some",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group162"
-        ]
-    },
-    {
-        "word": "第一",
-        "transcription": "dìyī",
-        "translation": "first",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group162"
-        ]
-    },
-    {
-        "word": "牙",
-        "transcription": "yá",
-        "translation": "tooth",
-        "example": "让牙医看看你的牙。",
+        "word": "客气",
+        "transcription": "kèqi",
+        "translation": "polite",
+        "example": "他对人总是那么客气。",
         "comment": "",
         "tags": [
             "5&",
-            "_group163"
+            "_group135"
         ]
     },
     {
-        "word": "衣服",
-        "transcription": "yīfu",
-        "translation": "clothes",
-        "example": "",
-        "comment": "把衣服脱掉！",
-        "tags": [
-            "1",
-            "_group163"
-        ]
-    },
-    {
-        "word": "农场",
-        "transcription": "nóngchǎng",
-        "translation": "farm",
-        "example": "农场里有牛、马和羊",
-        "comment": "",
-        "tags": [
-            "5&",
-            "_group163"
-        ]
-    },
-    {
-        "word": "穿",
-        "transcription": "chuān",
-        "translation": "to wear/put on",
-        "example": "她总穿着黑衣服。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group163"
-        ]
-    },
-    {
-        "word": "求",
-        "transcription": "qiú",
-        "translation": "request/demand",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group164"
-        ]
-    },
-    {
-        "word": "要求",
-        "transcription": "qiú",
-        "translation": "request/demand",
-        "example": "工人们都要求很多钱。",
+        "word": "价格",
+        "transcription": "jiágè",
+        "translation": "price",
+        "example": "一条面包的价格",
         "comment": "",
         "tags": [
             "4",
-            "_group164"
-        ]
-    },
-    {
-        "word": "球",
-        "transcription": "qiú",
-        "translation": "ball/sphere",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group164"
-        ]
-    },
-    {
-        "word": "足球",
-        "transcription": "zúqiú",
-        "translation": "football",
-        "example": "我在操场踢足球。",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group164"
-        ]
-    },
-    {
-        "word": "篮球",
-        "transcription": "lánqiú",
-        "translation": "basketball",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group164"
-        ]
-    },
-    {
-        "word": "椅子",
-        "transcription": "yǐzi",
-        "translation": "chair",
-        "example": "这把椅子很舒服。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group166"
-        ]
-    },
-    {
-        "word": "桌子",
-        "transcription": "zhuōzi",
-        "translation": "table",
-        "example": "桌子上有一杯水。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group166"
-        ]
-    },
-    {
-        "word": "有",
-        "transcription": "yǒu",
-        "translation": "to have",
-        "example": "我有一个儿子。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group167"
-        ]
-    },
-    {
-        "word": "月",
-        "transcription": "yuè",
-        "translation": "moon/month",
-        "example": "你一个月读几本书？",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group168"
-        ]
-    },
-    {
-        "word": "月亮",
-        "transcription": "yuèliàng",
-        "translation": "moon",
-        "example": "今晚月亮不会出来了。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group168"
-        ]
-    },
-    {
-        "word": "再",
-        "transcription": "zài",
-        "translation": "again/then/until",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group169"
-        ]
-    },
-    {
-        "word": "再见",
-        "transcription": "zàijiàn",
-        "translation": "goodbye",
-        "example": "明天再见！",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group169"
-        ]
-    },
-    {
-        "word": "在",
-        "transcription": "zài",
-        "translation": "at",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group170"
-        ]
-    },
-    {
-        "word": "住",
-        "transcription": "zhù",
-        "translation": "live",
-        "example": "女王住在哪里？",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group170"
-        ]
-    },
-    {
-        "word": "怎么",
-        "transcription": "zěnme",
-        "translation": "how",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group171"
-        ]
-    },
-    {
-        "word": "怎么样",
-        "transcription": "zěnmeyang",
-        "translation": "how",
-        "example": "你觉得她怎么样？",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group171"
-        ]
-    },
-    {
-        "word": "字",
-        "transcription": "zì",
-        "translation": "character",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group175"
-        ]
-    },
-    {
-        "word": "词",
-        "transcription": "cí",
-        "translation": "word",
-        "example": "这个词语我不懂。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group175"
-        ]
-    },
-    {
-        "word": "句子",
-        "transcription": "jùzi",
-        "translation": "sentence",
-        "example": "不要翻译这个句子！",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group175"
-        ]
-    },
-    {
-        "word": "语言",
-        "transcription": "yǔyán",
-        "translation": "language",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group175"
-        ]
-    },
-    {
-        "word": "信",
-        "transcription": "xìn",
-        "translation": "letter (n), to believe (v)",
-        "example": "谁会信呢？",
-        "comment": "",
-        "tags": [
-            "？",
-            "_group175"
-        ]
-    },
-    {
-        "word": "英语",
-        "transcription": "yīngyǔ",
-        "translation": "English",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group175"
-        ]
-    },
-    {
-        "word": "法语",
-        "transcription": "fǎyǔ",
-        "translation": "French",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group175"
-        ]
-    },
-    {
-        "word": "语法",
-        "transcription": "yǔfǎ",
-        "translation": "grammar",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group175"
-        ]
-    },
-    {
-        "word": "文化",
-        "transcription": "wénhuà",
-        "translation": "culture",
-        "example": "在我们的文化中,他很奇怪的人。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group177"
-        ]
-    },
-    {
-        "word": "变化",
-        "transcription": "biànhuà",
-        "translation": "change (v/n)",
-        "example": "这个城市的变化很大。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group177"
-        ]
-    },
-    {
-        "word": "花",
-        "transcription": "huā",
-        "translation": "flower/spent(v)",
-        "example": "这花颜色很漂亮。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group177"
-        ]
-    },
-    {
-        "word": "华",
-        "transcription": "huá",
-        "translation": "magnificent,prosperous,grey,Chinese",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "*",
-            "_group177"
-        ]
-    },
-    {
-        "word": "坐",
-        "transcription": "zuò",
-        "translation": "to sit",
-        "example": "请坐那儿。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group178"
-        ]
-    },
-    {
-        "word": "做",
-        "transcription": "zuò",
-        "translation": "to do/make",
-        "example": "我不知道我在做什么",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group179"
-        ]
-    },
-    {
-        "word": "就",
-        "transcription": "jiù",
-        "translation": "then, just;only; at once",
-        "example": "我就想睡觉。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group180"
-        ]
-    },
-    {
-        "word": "就是",
-        "transcription": "jiùshì",
-        "translation": "exactly, really, only, even if",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group180"
-        ]
-    },
-    {
-        "word": "要",
-        "transcription": "yào",
-        "translation": "want/should/need",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group181"
-        ]
-    },
-    {
-        "word": "需要",
-        "transcription": "xūyào",
-        "translation": "need",
-        "example": "我需要坐下来。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group181"
-        ]
-    },
-    {
-        "word": "要求",
-        "transcription": "yàoqiú",
-        "translation": "to demand,request",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group181"
-        ]
-    },
-    {
-        "word": "主要",
-        "transcription": "zhùyào",
-        "translation": "major/main (a)",
-        "example": "我的主要工作是教法语。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group181"
-        ]
-    },
-    {
-        "word": "只要",
-        "transcription": "zhǐyào",
-        "translation": "so long as",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group181"
-        ]
-    },
-    {
-        "word": "要是",
-        "transcription": "yàoshì",
-        "translation": "if",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group181"
-        ]
-    },
-    {
-        "word": "知道",
-        "transcription": "zhīdào",
-        "translation": "to know",
-        "example": "道=road/way",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group182"
-        ]
-    },
-    {
-        "word": "知识",
-        "transcription": "zhīshi",
-        "translation": "knowledge",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group182"
-        ]
-    },
-    {
-        "word": "街道",
-        "transcription": "jiēdào",
-        "translation": "street",
-        "example": "街道有许多商店。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group182"
-        ]
-    },
-    {
-        "word": "楼",
-        "transcription": "lóu",
-        "translation": "building",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group183"
-        ]
-    },
-    {
-        "word": "吧",
-        "transcription": "ba",
-        "translation": "suggestion particle",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group184"
-        ]
-    },
-    {
-        "word": "把",
-        "transcription": "bǎ",
-        "translation": "hold/take (also shifts obj before verb)",
-        "example": "他把苹果放进冰箱里",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group184"
-        ]
-    },
-    {
-        "word": "爬上",
-        "transcription": "páshàng",
-        "translation": "climb",
-        "example": "那个小孩爬上了一棵大树。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group184"
-        ]
-    },
-    {
-        "word": "对",
-        "transcription": "duì",
-        "translation": "correct, towards，yes",
-        "example": "那个回答不可能是对的。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group185"
-        ]
-    },
-    {
-        "word": "讨厌",
-        "transcription": "tǎoyàn",
-        "translation": "to hate/dislike/disgusting",
-        "example": "我讨厌冬天，因为冬天很冷。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group185"
-        ]
-    },
-    {
-        "word": "讨论",
-        "transcription": "tǎolùn",
-        "translation": "discuss/discussion",
-        "example": "我想跟你讨论关于钱的问题。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group185"
-        ]
-    },
-    {
-        "word": "还",
-        "transcription": "hái",
-        "translation": "still/yet",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group186"
-        ]
-    },
-    {
-        "word": "还是",
-        "transcription": "háishi",
-        "translation": "or",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group186"
-        ]
-    },
-    {
-        "word": "还",
-        "transcription": "huán",
-        "translation": "to return, to repay",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group186"
-        ]
-    },
-    {
-        "word": "坏",
-        "transcription": "huài",
-        "translation": "bad",
-        "example": "他说汉语说得很坏。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group186"
-        ]
-    },
-    {
-        "word": "让",
-        "transcription": "ràng",
-        "translation": "let,by (prep, spanish por)",
-        "example": "让我帮助你们",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group187"
-        ]
-    },
-    {
-        "word": "给",
-        "transcription": "gěi",
-        "translation": "give",
-        "example": "你能给我一杯啤酒吗？",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group188"
-        ]
-    },
-    {
-        "word": "得",
-        "transcription": "děǐ",
-        "translation": "must/need to;",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group189"
-        ]
-    },
-    {
-        "word": "得",
-        "transcription": "de",
-        "translation": "complement particle",
-        "example": "我跑的很快。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group189"
-        ]
-    },
-    {
-        "word": "真",
-        "transcription": "zhēn",
-        "translation": "real/true",
-        "example": "你真漂亮！",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group190"
-        ]
-    },
-    {
-        "word": "真正",
-        "transcription": "zhēnzhèng",
-        "translation": "true",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group190"
-        ]
-    },
-    {
-        "word": "政府",
-        "transcription": "zhèngfǔ",
-        "translation": "government",
-        "example": "是政府的错误",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group191"
-        ]
-    },
-    {
-        "word": "声音",
-        "transcription": "shēngyīn",
-        "translation": "voice/sound",
-        "example": "你的声音很好听。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group192"
-        ]
-    },
-    {
-        "word": "音乐",
-        "transcription": "yīnyuè",
-        "translation": "music",
-        "example": "你喜欢什么样的音乐？",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group192"
-        ]
-    },
-    {
-        "word": "可以",
-        "transcription": "kěyǐ",
-        "translation": "possible",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group193"
-        ]
-    },
-    {
-        "word": "所以",
-        "transcription": "suǒyǐ",
-        "translation": "so/therefore",
-        "example": "他对我很好，所以我很喜欢他。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group193"
-        ]
-    },
-    {
-        "word": "以前",
-        "transcription": "yǐqián",
-        "translation": "before (temporal)",
-        "example": "我中午以前有空。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group193"
-        ]
-    },
-    {
-        "word": "以后",
-        "transcription": "yǐhòu",
-        "translation": "after (temporal)",
-        "example": "他走了以后，我很哭。",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group193"
-        ]
-    },
-    {
-        "word": "以为",
-        "transcription": "yǐwèi",
-        "translation": "to think",
-        "example": "我以为我是对的。",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group193"
-        ]
-    },
-    {
-        "word": "以来",
-        "transcription": "yǐlái",
-        "translation": "since",
-        "example": "这一个月以来，她每天病。",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group193"
-        ]
-    },
-    {
-        "word": "河",
-        "transcription": "hé",
-        "translation": "river",
-        "example": "我去河里游泳了。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group194"
-        ]
-    },
-    {
-        "word": "别",
-        "transcription": "bié",
-        "translation": "other  / don't ..!",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group195"
-        ]
-    },
-    {
-        "word": "别的",
-        "transcription": "biéde",
-        "translation": "other,others (pron), otherwise",
-        "example": "",
-        "comment": "他不想要别的东西了。",
-        "tags": [
-            "&",
-            "_group195"
-        ]
-    },
-    {
-        "word": "特别",
-        "transcription": "tèbié",
-        "translation": "peculiar/exceptional (a, adv), especially",
-        "example": "他的房间很特别。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group195"
-        ]
-    },
-    {
-        "word": "别人",
-        "transcription": "biérén",
-        "translation": "others",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group195"
-        ]
-    },
-    {
-        "word": "已经",
-        "transcription": "yǐjing",
-        "translation": "already",
-        "example": "已经是时候回去了。",
-        "comment": "(已=already/stop)",
-        "tags": [
-            "2",
-            "_group196"
-        ]
-    },
-    {
-        "word": "记得",
-        "transcription": "jìde",
-        "translation": "to remember",
-        "example": "我记得你了。",
-        "comment": "syn: 记忆",
-        "tags": [
-            "3",
-            "_group196"
-        ]
-    },
-    {
-        "word": "忘记",
-        "transcription": "wàngjì",
-        "translation": "to forget",
-        "example": "我我永远不忘记你。",
-        "comment": "忘=forget",
-        "tags": [
-            "3",
-            "_group196"
-        ]
-    },
-    {
-        "word": "记者",
-        "transcription": "jìzhě",
-        "translation": "journalist",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group196"
-        ]
-    },
-    {
-        "word": "经过",
-        "transcription": "jìngguò",
-        "translation": "to pass",
-        "example": "学生每次回家都会经过一条河。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group196"
-        ]
-    },
-    {
-        "word": "经济",
-        "transcription": "jīngjì",
-        "translation": "economy",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group196"
-        ]
-    },
-    {
-        "word": "轻",
-        "transcription": "qīng",
-        "translation": "light/gently",
-        "example": "她的包现在很轻了。",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group196"
-        ]
-    },
-    {
-        "word": "年轻",
-        "transcription": "niánqīng",
-        "translation": "young",
-        "example": "她很年轻。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group196"
-        ]
-    },
-    {
-        "word": "从",
-        "transcription": "cóng",
-        "translation": "from",
-        "example": "你从哪个城市来吗？",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group198"
-        ]
-    },
-    {
-        "word": "从来",
-        "transcription": "cónglái",
-        "translation": "always/never",
-        "example": "我从来不董你的问题。",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group198"
-        ]
-    },
-    {
-        "word": "最",
-        "transcription": "zuì",
-        "translation": "most (superlative marker)",
-        "example": "我的汽车是最快的。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group199"
-        ]
-    },
-    {
-        "word": "最近",
-        "transcription": "zuìjìn",
-        "translation": "recently",
-        "example": "最近我很不开心。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group199"
-        ]
-    },
-    {
-        "word": "久",
-        "transcription": "jiǔ",
-        "translation": "long (temporal)",
-        "example": "他在这儿等了很久。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group200"
-        ]
-    },
-    {
-        "word": "欠",
-        "transcription": "qiàn",
-        "translation": "to owe/lack/yawn",
-        "example": "我们欠你多少钱？",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group200"
-        ]
-    },
-    {
-        "word": "次",
-        "transcription": "cì",
-        "translation": "times (MW), order",
-        "example": "我每天跑三次步。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group200"
-        ]
-    },
-    {
-        "word": "吹",
-        "transcription": "chuī",
-        "translation": "to blow",
-        "example": "风从东边吹来。",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group200"
-        ]
-    },
-    {
-        "word": "炊",
-        "transcription": "chuī",
-        "translation": "to cook",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group200"
-        ]
-    },
-    {
-        "word": "欧州",
-        "transcription": "oūzhōu",
-        "translation": "Europe",
-        "example": "我的学生有三分之一是来自欧洲。",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group200"
-        ]
-    },
-    {
-        "word": "又",
-        "transcription": "yòu",
-        "translation": "again, also, both, another",
-        "example": "今天他又来了。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group202"
-        ]
-    },
-    {
-        "word": "双",
-        "transcription": "shuāng",
-        "translation": "two/double/ MW for pairs",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group202"
-        ]
-    },
-    {
-        "word": "数",
-        "transcription": "shǔ",
-        "translation": "to count",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group202"
-        ]
-    },
-    {
-        "word": "数学",
-        "transcription": "shǔxué",
-        "translation": "math",
-        "example": "我很喜欢数学。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group202"
-        ]
-    },
-    {
-        "word": "放",
-        "transcription": "fàng",
-        "translation": "to put",
-        "example": "把书放在那里。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group202"
-        ]
-    },
-    {
-        "word": "放心",
-        "transcription": "fàngxīn",
-        "translation": "relax",
-        "example": "放心吧！",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group202"
-        ]
-    },
-    {
-        "word": "敢",
-        "transcription": "gǎn",
-        "translation": "dare",
-        "example": "我不敢看电影。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group202"
-        ]
-    },
-    {
-        "word": "才",
-        "transcription": "cái",
-        "translation": "just,really (adv), not until now/only, ability (n),",
-        "example": "我才到家，电话就响了",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group203"
-        ]
-    },
-    {
-        "word": "孩子",
-        "transcription": "háizi",
-        "translation": "child",
-        "example": "我们的孩子回来了。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group205"
-        ]
-    },
-    {
-        "word": "两",
-        "transcription": "liǎng",
-        "translation": "two/both",
-        "example": "他们两个人都是好学生。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group206"
-        ]
-    },
-    {
-        "word": "辆",
-        "transcription": "liàng",
-        "translation": "MW for vehicles",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group206"
-        ]
-    },
-    {
-        "word": "错",
-        "transcription": "cuò",
-        "translation": "mistake/error/incorrect",
-        "example": "你的回答是错的。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group207"
-        ]
-    },
-    {
-        "word": "错误",
-        "transcription": "cuòwù",
-        "translation": "mistake",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group207"
-        ]
-    },
-    {
-        "word": "借",
-        "transcription": "jiè",
-        "translation": "borrow/lend",
-        "example": "他们需要借二千块钱。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group207"
-        ]
-    },
-    {
-        "word": "音",
-        "transcription": "yīn",
-        "translation": "sound",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group207"
-        ]
-    },
-    {
-        "word": "等",
-        "transcription": "děng",
-        "translation": "wait",
-        "example": "我们在这儿等了很久。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group210"
-        ]
-    },
-    {
-        "word": "等等",
-        "transcription": "děngděng",
-        "translation": "and so on",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group210"
-        ]
-    },
-    {
-        "word": "非常",
-        "transcription": "fēicháng",
-        "translation": "very/exceptionally/extremely",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group213"
-        ]
-    },
-    {
-        "word": "常常",
-        "transcription": "chángcháng",
-        "translation": "often",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group213"
-        ]
-    },
-    {
-        "word": "经常",
-        "transcription": "jīngcháng",
-        "translation": "often,daily",
-        "example": "我们经常去图书馆看书。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group213"
-        ]
-    },
-    {
-        "word": "希望",
-        "transcription": "xīwàng",
-        "translation": "to hope",
-        "example": "我希望你觉得舒服",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group214"
-        ]
-    },
-    {
-        "word": "七",
-        "transcription": "qī",
-        "translation": "seven",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group215"
-        ]
-    },
-    {
-        "word": "匕",
-        "transcription": "bǐ",
-        "translation": "dagger",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group215"
-        ]
-    },
-    {
-        "word": "比",
-        "transcription": "bǐ",
-        "translation": "comparison particle",
-        "example": "她比我聪明 (cf: 北）",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group215"
-        ]
-    },
-    {
-        "word": "比赛",
-        "transcription": "bǐsài",
-        "translation": "match/competition",
-        "example": "他想参加比赛。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group215"
-        ]
-    },
-    {
-        "word": "比较",
-        "transcription": "bǐjiào",
-        "translation": "compare",
-        "example": "和姐姐相比，她比较漂亮。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group215"
-        ]
-    },
-    {
-        "word": "它",
-        "transcription": "tā",
-        "translation": "it",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group215"
-        ]
-    },
-    {
-        "word": "美",
-        "transcription": "měi",
-        "translation": "beautiful",
-        "example": "这幅画太美了。",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group219"
-        ]
-    },
-    {
-        "word": "美国",
-        "transcription": "měiguó",
-        "translation": "USA",
-        "example": "美国是很大的国家",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group219"
-        ]
-    },
-    {
-        "word": "美元",
-        "transcription": "měiyuán",
-        "translation": "US dollar",
-        "example": "你给我有没有些美元？",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group219"
-        ]
-    },
-    {
-        "word": "送",
-        "transcription": "sòng",
-        "translation": "to send / to see sb off",
-        "example": "你可以送我一封信吗？",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group220"
-        ]
-    },
-    {
-        "word": "长",
-        "transcription": "cháng",
-        "translation": "long/length",
-        "example": "墙很长。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group221"
-        ]
-    },
-    {
-        "word": "长",
-        "transcription": "zhǎng",
-        "translation": "to grow",
-        "example": "孩子长得很好。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group221"
-        ]
-    },
-    {
-        "word": "张",
-        "transcription": "zhāng",
-        "translation": "to open/stretch/extend (MW for sheets/paper/furniture)",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group221"
-        ]
-    },
-    {
-        "word": "矮",
-        "transcription": "ǎi",
-        "translation": "short, low",
-        "example": "我比我的爱人很多。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group221"
-        ]
-    },
-    {
-        "word": "低",
-        "transcription": "dī",
-        "translation": "low",
-        "example": "飞机飞得很低。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group221"
-        ]
-    },
-    {
-        "word": "短",
-        "transcription": "duǎn",
-        "translation": "short/owe",
-        "example": "句子很短。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group221"
-        ]
-    },
-    {
-        "word": "母",
-        "transcription": "mǔ",
-        "translation": "mother",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group222"
-        ]
-    },
-    {
-        "word": "每",
-        "transcription": "měi",
-        "translation": "each/every",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group222"
-        ]
-    },
-    {
-        "word": "每天",
-        "transcription": "měitiān",
-        "translation": "daily",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group222"
-        ]
-    },
-    {
-        "word": "海",
-        "transcription": "hǎi",
-        "translation": "sea/ocean",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2&",
-            "_group222"
-        ]
-    },
-    {
-        "word": "帮助",
-        "transcription": "bāngzhú",
-        "translation": "to help",
-        "example": "这个药会帮助他们。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group223"
-        ]
-    },
-    {
-        "word": "帮忙",
-        "transcription": "bāngmáng",
-        "translation": "to help",
-        "example": "我想请你帮忙我。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group223"
-        ]
-    },
-    {
-        "word": "忙",
-        "transcription": "máng",
-        "translation": "busy",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group223"
-        ]
-    },
-    {
-        "word": "灯",
-        "transcription": "dēng",
-        "translation": "light/lamp",
-        "example": "他灯关了。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group223"
-        ]
-    },
-    {
-        "word": "秋",
-        "transcription": "qiú",
-        "translation": "autumn",
-        "example": "秋天的时候，天气是很冷的。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group223"
-        ]
-    },
-    {
-        "word": "光",
-        "transcription": "guāng",
-        "translation": "light (abstract), just (adv)",
-        "example": "月光",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group225"
-        ]
-    },
-    {
-        "word": "路",
-        "transcription": "lù",
-        "translation": "road/path",
-        "example": "路两边有许多树。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group227"
-        ]
-    },
-    {
-        "word": "妻子",
-        "transcription": "qīzi",
-        "translation": "wife",
-        "example": "别告诉我的妻子！",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group228"
-        ]
-    },
-    {
-        "word": "丈夫",
-        "transcription": "zhàngfu",
-        "translation": "husband",
-        "example": "我的丈夫是医生。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group228"
-        ]
-    },
-    {
-        "word": "父母",
-        "transcription": "fùmǔ",
-        "translation": "parents",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "&",
-            "_group228"
-        ]
-    },
-    {
-        "word": "离",
-        "transcription": "lí",
-        "translation": "leave/depart/go away",
-        "example": "我家离你的很近",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group229"
-        ]
-    },
-    {
-        "word": "离开",
-        "transcription": "líkāi",
-        "translation": "leave/depart",
-        "example": "我想离开这个城市。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group229"
-        ]
-    },
-    {
-        "word": "难",
-        "transcription": "nán",
-        "translation": "difficult/hard",
-        "example": "学习葡萄牙语真的很难。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group231"
-        ]
-    },
-    {
-        "word": "慢",
-        "transcription": "mán",
-        "translation": "slow",
-        "example": "他说话很慢。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group231"
-        ]
-    },
-    {
-        "word": "容易",
-        "transcription": "róngyì",
-        "translation": "easy",
-        "example": "学习阿拉伯语很不容易。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group231"
-        ]
-    },
-    {
-        "word": "虽然",
-        "transcription": "suīrán",
-        "translation": "although/even though",
-        "example": "虽然下雨，但是不冷。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group233"
-        ]
-    },
-    {
-        "word": "突然",
-        "transcription": "tūrán",
-        "translation": "suddenly",
-        "example": "她突然笑了起来。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group233"
-        ]
-    },
-    {
-        "word": "忽然",
-        "transcription": "hūrán",
-        "translation": "suddenly",
-        "example": "忽然天气很热了。",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group233"
-        ]
-    },
-    {
-        "word": "身体",
-        "transcription": "shēntǐ",
-        "translation": "health/body",
-        "example": "你的身体怎么样？",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group234"
-        ]
-    },
-    {
-        "word": "票",
-        "transcription": "piào",
-        "translation": "ticket; banknote; vote",
-        "example": "我们已经票了。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group235"
-        ]
-    },
-    {
-        "word": "累",
-        "transcription": "léi",
-        "translation": "tired",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group235"
-        ]
-    },
-    {
-        "word": "黑",
-        "transcription": "hēi",
-        "translation": "dark,black",
-        "example": "外面很黑。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group236"
-        ]
-    },
-    {
-        "word": "白",
-        "transcription": "bái",
-        "translation": "white,bright",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group236"
-        ]
-    },
-    {
-        "word": "百",
-        "transcription": "bǎi",
-        "translation": "hundred",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group236"
-        ]
-    },
-    {
-        "word": "日",
-        "transcription": "rì",
-        "translation": "sun/day/date",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group236"
-        ]
-    },
-    {
-        "word": "目",
-        "transcription": "mù",
-        "translation": "eye/item",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "！",
-            "_group236"
-        ]
-    },
-    {
-        "word": "耳(朵)",
-        "transcription": "ěr(duo)",
-        "translation": "ear",
-        "example": "我有眼睛，也有耳朵。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group236"
-        ]
-    },
-    {
-        "word": "自(己)",
-        "transcription": "zì(jǐ)",
-        "translation": "(one)self/own",
-        "example": "每个人有自己的意见。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group236"
-        ]
-    },
-    {
-        "word": "闻",
-        "transcription": "wén",
-        "translation": "hear/smell/news",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group237"
-        ]
-    },
-    {
-        "word": "市",
-        "transcription": "shì",
-        "translation": "city/market",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "！",
-            "_group238"
-        ]
-    },
-    {
-        "word": "节",
-        "transcription": "jié",
-        "translation": "joint/item MW/festival",
-        "example": "这节课多长时间？",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group238"
-        ]
-    },
-    {
-        "word": "带",
-        "transcription": "dài",
-        "translation": "to take/bring/lead, belt/tire",
-        "example": "你带电脑了吗？",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group238"
-        ]
-    },
-    {
-        "word": "节日",
-        "transcription": "jiérì",
-        "translation": "festival/holiday",
-        "example": "这是我最喜欢的节日。",
-        "comment": "节=joint/save/item/festival",
-        "tags": [
-            "3",
-            "_group238"
-        ]
-    },
-    {
-        "word": "节目",
-        "transcription": "jiémù",
-        "translation": "programme",
-        "example": "你喜欢看什么样的电视节目？",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group238"
-        ]
-    },
-    {
-        "word": "季节",
-        "transcription": "jìjié",
-        "translation": "season",
-        "example": "秋天是我最喜欢的季节。",
-        "comment": "",
-        "tags": [
-            "!",
-            "_group238"
-        ]
-    },
-    {
-        "word": "休息",
-        "transcription": "xiūxi",
-        "translation": "to rest",
-        "example": "我必须休息一会儿。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group240"
-        ]
-    },
-    {
-        "word": "信息",
-        "transcription": "xìnxī",
-        "translation": "information",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group240"
-        ]
-    },
-    {
-        "word": "消息",
-        "transcription": "xiāoxi",
-        "translation": "news",
-        "example": "报纸有好消息。",
-        "comment": "",
-        "tags": [
-            "4",
-            "_group240"
-        ]
-    },
-    {
-        "word": "消失",
-        "transcription": "xiāoshī",
-        "translation": "to disappear/vanish",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "5",
-            "_group240"
-        ]
-    },
-    {
-        "word": "和",
-        "transcription": "hé",
-        "translation": "and",
-        "example": "你和我是好朋友。",
-        "comment": "",
-        "tags": [
-            "1",
-            "_group241"
-        ]
-    },
-    {
-        "word": "相同",
-        "transcription": "xiāngtóng",
-        "translation": "same/identical",
-        "example": "他们两个人有相同的爱好。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group241"
-        ]
-    },
-    {
-        "word": "相信",
-        "transcription": "xiāngxìn",
-        "translation": "believe (v)",
-        "example": "我相信我的姐姐。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group241"
-        ]
-    },
-    {
-        "word": "相比",
-        "transcription": "xiāngbǐ",
-        "translation": "compared to",
-        "example": "和肉相比，我更喜欢吃鱼。",
-        "comment": "",
-        "tags": [
-            "3&",
-            "_group241"
-        ]
-    },
-    {
-        "word": "哥哥",
-        "transcription": "gege",
-        "translation": "older brother",
-        "example": "我的哥哥有九个朋友。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group242"
-        ]
-    },
-    {
-        "word": "姐姐",
-        "transcription": "jiějie",
-        "translation": "older sister",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group242"
-        ]
-    },
-    {
-        "word": "弟弟",
-        "transcription": "dìdì",
-        "translation": "younger brother",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group242"
-        ]
-    },
-    {
-        "word": "妹妹",
-        "transcription": "mèimei",
-        "translation": "younger sister",
-        "example": "我妹妹每天晚上看电视。",
-        "comment": "",
-        "tags": [
-            "2",
-            "_group242"
+            "_group135"
         ]
     },
     {
@@ -7245,7 +4979,4143 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group243"
+            "_group135"
+        ]
+    },
+    {
+        "word": "假",
+        "transcription": "jiǎ;jià",
+        "translation": "false/artificial/if/borrow;vacation",
+        "example": "这张票是假的",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group136"
+        ]
+    },
+    {
+        "word": "三",
+        "transcription": "sān",
+        "translation": "three",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group137"
+        ]
+    },
+    {
+        "word": "上",
+        "transcription": "shàng",
+        "translation": "go up/on/last",
+        "example": "桌子上有两杯红酒。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group138"
+        ]
+    },
+    {
+        "word": "上午",
+        "transcription": "shàngwǔ",
+        "translation": "morning",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group138"
+        ]
+    },
+    {
+        "word": "晚上",
+        "transcription": "wǎnshàng",
+        "translation": "evening",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group138"
+        ]
+    },
+    {
+        "word": "上班",
+        "transcription": "shàngbān",
+        "translation": "go to work",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group138"
+        ]
+    },
+    {
+        "word": "件",
+        "transcription": "jiàn",
+        "translation": "MW for things, clothes, and items",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group139"
+        ]
+    },
+    {
+        "word": "谁",
+        "transcription": "shéi",
+        "translation": "who/someone",
+        "example": "他是谁？",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group140"
+        ]
+    },
+    {
+        "word": "准备",
+        "transcription": "zhǔnbèi",
+        "translation": "to prepare",
+        "example": "我需要准备几个杯子?",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group140"
+        ]
+    },
+    {
+        "word": "准时",
+        "transcription": "zhǔnshí",
+        "translation": "on time",
+        "example": "飞机准时起飞",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group140"
+        ]
+    },
+    {
+        "word": "往",
+        "transcription": "wǎng",
+        "translation": "to go (in a direction); towards; in the past",
+        "example": "飞机正飞往北京。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group140"
+        ]
+    },
+    {
+        "word": "什么",
+        "transcription": "shénme",
+        "translation": "what/something/anything",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group142"
+        ]
+    },
+    {
+        "word": "为什么",
+        "transcription": "wèishénme",
+        "translation": "why",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group142"
+        ]
+    },
+    {
+        "word": "十",
+        "transcription": "shí",
+        "translation": "ten",
+        "example": "我三十五岁。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group143"
+        ]
+    },
+    {
+        "word": "土",
+        "transcription": "tǔ",
+        "translation": "soil/ground/land",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "！",
+            "_group143"
+        ]
+    },
+    {
+        "word": "士",
+        "transcription": "shì",
+        "translation": "soldier/scholar",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "！",
+            "_group143"
+        ]
+    },
+    {
+        "word": "压力",
+        "transcription": "yālì",
+        "translation": "pressure/burden/stress",
+        "example": "压力是健康的敌人。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group143"
+        ]
+    },
+    {
+        "word": "心",
+        "transcription": "xīn",
+        "translation": "heart",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "！",
+            "_group144"
+        ]
+    },
+    {
+        "word": "必须",
+        "transcription": "bìxū",
+        "translation": "must",
+        "example": "你必须等这儿。",
+        "comment": "必=certainly",
+        "tags": [
+            "3",
+            "_group144"
+        ]
+    },
+    {
+        "word": "是",
+        "transcription": "shì",
+        "translation": "to be",
+        "example": "我是他的老师。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group145"
+        ]
+    },
+    {
+        "word": "走",
+        "transcription": "zǒu",
+        "translation": "to walk/go",
+        "example": "他必须得走  .",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group145"
+        ]
+    },
+    {
+        "word": "足",
+        "transcription": "zú",
+        "translation": "foot",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group145"
+        ]
+    },
+    {
+        "word": "一定",
+        "transcription": "yīdìng",
+        "translation": "certainly",
+        "example": "他一定是最漂亮的。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group145"
+        ]
+    },
+    {
+        "word": "起",
+        "transcription": "qǐ",
+        "translation": "to rise/form",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group145"
+        ]
+    },
+    {
+        "word": "一起",
+        "transcription": "yìqǐ",
+        "translation": "together, the same place",
+        "example": "我根你一起去西班牙。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group145"
+        ]
+    },
+    {
+        "word": "起立",
+        "transcription": "qǐlì",
+        "translation": "to stand up",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3&",
+            "_group145"
+        ]
+    },
+    {
+        "word": "起来",
+        "transcription": "qǐlái",
+        "translation": "to get up",
+        "example": "请起来，来客人了。",
+        "comment": "",
+        "tags": [
+            "2&",
+            "_group145"
+        ]
+    },
+    {
+        "word": "起床",
+        "transcription": "qǐchuáng",
+        "translation": "to get out of bed",
+        "example": "我每天早上6点起床。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group145"
+        ]
+    },
+    {
+        "word": "起飞",
+        "transcription": "qǐfēi",
+        "translation": "take off (flying)",
+        "example": "飞机起飞了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group145"
+        ]
+    },
+    {
+        "word": "对不起",
+        "transcription": "duìbùqǐ",
+        "translation": "sorry",
+        "example": "对不起，我错了。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group146"
+        ]
+    },
+    {
+        "word": "立",
+        "transcription": "lì",
+        "translation": "stand/upright/immediately",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group147"
+        ]
+    },
+    {
+        "word": "站",
+        "transcription": "zhàn",
+        "translation": "to stand/station",
+        "example": "他忽然站了起来。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group147"
+        ]
+    },
+    {
+        "word": "位",
+        "transcription": "wèi",
+        "translation": "MW for people",
+        "example": "他有三位同事。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group147"
+        ]
+    },
+    {
+        "word": "拉",
+        "transcription": "lā",
+        "translation": "pull/transport/help",
+        "example": "出租车司机拉我到了机场。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group147"
+        ]
+    },
+    {
+        "word": "接",
+        "transcription": "jiē",
+        "translation": "receive/connect/catch",
+        "example": "他接到一封信 / 他会来接我们。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group147"
+        ]
+    },
+    {
+        "word": "倍",
+        "transcription": "bèi",
+        "translation": "double/times",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group147"
+        ]
+    },
+    {
+        "word": "陪",
+        "transcription": "péi",
+        "translation": "go with/accompany/assist",
+        "example": "我陪你走回家",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group147"
+        ]
+    },
+    {
+        "word": "接受",
+        "transcription": "jiēshòu",
+        "translation": "accept/receive",
+        "example": "你当然应该接受",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group148"
+        ]
+    },
+    {
+        "word": "文",
+        "transcription": "wén",
+        "translation": "writing",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group149"
+        ]
+    },
+    {
+        "word": "书",
+        "transcription": "shū",
+        "translation": "to write (v), book (n), letter (n)",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group150"
+        ]
+    },
+    {
+        "word": "说",
+        "transcription": "shuō",
+        "translation": "to say/speak",
+        "example": "他说他觉得不舒服。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group152"
+        ]
+    },
+    {
+        "word": "说话",
+        "transcription": "shuōhuà",
+        "translation": "to talk/to chat",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group152"
+        ]
+    },
+    {
+        "word": "告诉",
+        "transcription": "gàosù",
+        "translation": "to tell",
+        "example": "我告诉你我昨天看见了什么。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group152"
+        ]
+    },
+    {
+        "word": "舌",
+        "transcription": "shé",
+        "translation": "tongue",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group153"
+        ]
+    },
+    {
+        "word": "活",
+        "transcription": "huó",
+        "translation": "live/life",
+        "example": "她活得很好。",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group153"
+        ]
+    },
+    {
+        "word": "话",
+        "transcription": "huà",
+        "translation": "speech/talk/words",
+        "example": "你得注意他说的话。",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group153"
+        ]
+    },
+    {
+        "word": "刮风",
+        "transcription": "guāfēng",
+        "translation": "wind blows",
+        "example": "今天刮风。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group153"
+        ]
+    },
+    {
+        "word": "岁",
+        "transcription": "suì",
+        "translation": "years old",
+        "example": "我32岁",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group154"
+        ]
+    },
+    {
+        "word": "死",
+        "transcription": "sì",
+        "translation": "to die; dead;",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group154"
+        ]
+    },
+    {
+        "word": "梦",
+        "transcription": "mèng",
+        "translation": "dream",
+        "example": "她梦到自己是电影明星",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group154"
+        ]
+    },
+    {
+        "word": "梦想",
+        "transcription": "mèngxiǎng",
+        "translation": "dream",
+        "example": "他梦想着开一家自己的公司。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group154"
+        ]
+    },
+    {
+        "word": "碗",
+        "transcription": "wǎn",
+        "translation": "bowl",
+        "example": "请来碗面条。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group155"
+        ]
+    },
+    {
+        "word": "也",
+        "transcription": "yě",
+        "translation": "also",
+        "example": "他也爱我们的世界。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group156"
+        ]
+    },
+    {
+        "word": "世界",
+        "transcription": "shìjiè",
+        "translation": "world",
+        "example": "世界也是他的。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group156"
+        ]
+    },
+    {
+        "word": "他",
+        "transcription": "tā",
+        "translation": "he",
+        "example": "他也是中国人。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group156"
+        ]
+    },
+    {
+        "word": "他们",
+        "transcription": "tāmen",
+        "translation": "they",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group156"
+        ]
+    },
+    {
+        "word": "她",
+        "transcription": "tā",
+        "translation": "she",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group156"
+        ]
+    },
+    {
+        "word": "它",
+        "transcription": "tā",
+        "translation": "it",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group156"
+        ]
+    },
+    {
+        "word": "地",
+        "transcription": "de",
+        "translation": "particle",
+        "example": "他安静地看着我。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group156"
+        ]
+    },
+    {
+        "word": "地",
+        "transcription": "dì",
+        "translation": "place,land,earth,location",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group156"
+        ]
+    },
+    {
+        "word": "地方",
+        "transcription": "dìfang",
+        "translation": "place,location,room",
+        "example": "这是非常美的地方。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group156"
+        ]
+    },
+    {
+        "word": "地图",
+        "transcription": "dìtú",
+        "translation": "map",
+        "example": "这张地图很大。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group156"
+        ]
+    },
+    {
+        "word": "地区",
+        "transcription": "dìqū",
+        "translation": "district/area",
+        "example": "北京地区普降大雨。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group156"
+        ]
+    },
+    {
+        "word": "听",
+        "transcription": "tīng",
+        "translation": "to listen",
+        "example": "我们正在听歌。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group157"
+        ]
+    },
+    {
+        "word": "喂",
+        "transcription": "wéi",
+        "translation": "hello (on phone)",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group159"
+        ]
+    },
+    {
+        "word": "五",
+        "transcription": "wǔ",
+        "translation": "five",
+        "example": "现在五点了。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group161"
+        ]
+    },
+    {
+        "word": "喜欢",
+        "transcription": "xǐhuan",
+        "translation": "to like",
+        "example": "你喜不喜欢我都没关系。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group163"
+        ]
+    },
+    {
+        "word": "下",
+        "transcription": "xià",
+        "translation": "down/under/last",
+        "example": "猫在桌子下。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group164"
+        ]
+    },
+    {
+        "word": "下午",
+        "transcription": "xiàwǔ",
+        "translation": "afternoon",
+        "example": "医生明天下午有空。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group164"
+        ]
+    },
+    {
+        "word": "下雨",
+        "transcription": "xiàyǔ",
+        "translation": "rain (v)",
+        "example": "现在在下雨。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group164"
+        ]
+    },
+    {
+        "word": "一下",
+        "transcription": "yíxià",
+        "translation": "at once",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group164"
+        ]
+    },
+    {
+        "word": "无",
+        "transcription": "wú",
+        "translation": "without/no/not",
+        "example": "除了书桌之外，这个房间别无他物。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group166"
+        ]
+    },
+    {
+        "word": "无视",
+        "transcription": "wúshì",
+        "translation": "ignore/disregard",
+        "example": "他们无视狗。",
+        "comment": "",
+        "tags": [
+            "4&",
+            "_group166"
+        ]
+    },
+    {
+        "word": "无论",
+        "transcription": "wúlùn",
+        "translation": "no matter what",
+        "example": "无论他做什么我都相信他。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group166"
+        ]
+    },
+    {
+        "word": "先",
+        "transcription": "xiān",
+        "translation": "earlier/late/first",
+        "example": "先让我考虑一下。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group166"
+        ]
+    },
+    {
+        "word": "先生",
+        "transcription": "xiānsheng",
+        "translation": "mister",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group166"
+        ]
+    },
+    {
+        "word": "先进",
+        "transcription": "xiānjìn",
+        "translation": "advanced",
+        "example": "这种先进的工艺十分难学。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group166"
+        ]
+    },
+    {
+        "word": "先前",
+        "transcription": "xiānqián",
+        "translation": "the past",
+        "example": "她先前住在北京。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group166"
+        ]
+    },
+    {
+        "word": "选择",
+        "transcription": "xuǎnzé",
+        "translation": "to choose",
+        "example": "红色和蓝色，你选择哪颜色？",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group166"
+        ]
+    },
+    {
+        "word": "学生",
+        "transcription": "xuésheng",
+        "translation": "student",
+        "example": "学生在大学学习汉语。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group167"
+        ]
+    },
+    {
+        "word": "生日",
+        "transcription": "shēngrì",
+        "translation": "birthday",
+        "example": "生日快乐！",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group167"
+        ]
+    },
+    {
+        "word": "生活",
+        "transcription": "shēnghuó",
+        "translation": "life/live",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group167"
+        ]
+    },
+    {
+        "word": "生病",
+        "transcription": "shēngbìng",
+        "translation": "get ill/sick    因为她生病了，所以她会去医院。",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group167"
+        ]
+    },
+    {
+        "word": "生气",
+        "transcription": "shēngqì",
+        "translation": "get angry",
+        "example": "我很生气，因为我掉了钱。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group167"
+        ]
+    },
+    {
+        "word": "医生",
+        "transcription": "yīshēng",
+        "translation": "doctor",
+        "example": "我想做医生。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group168"
+        ]
+    },
+    {
+        "word": "医院",
+        "transcription": "yīyuàn",
+        "translation": "hospital",
+        "example": "这座城市有医院吗？",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group168"
+        ]
+    },
+    {
+        "word": "药",
+        "transcription": "yào",
+        "translation": "medicine",
+        "example": "你每天应该吃药。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group169"
+        ]
+    },
+    {
+        "word": "大约",
+        "transcription": "dàyuē",
+        "translation": "approximately/probably",
+        "example": "他大约在上网。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group169"
+        ]
+    },
+    {
+        "word": "约会",
+        "transcription": "yuēhuì",
+        "translation": "(make an) appointment",
+        "example": "他约会已经迟到了。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group169"
+        ]
+    },
+    {
+        "word": "因为",
+        "transcription": "yīnwèi",
+        "translation": "because",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group170"
+        ]
+    },
+    {
+        "word": "困",
+        "transcription": "kùn",
+        "translation": "sleepy",
+        "example": "我很困，我去床。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group170"
+        ]
+    },
+    {
+        "word": "原因",
+        "transcription": "yuányīn",
+        "translation": "reason",
+        "example": "",
+        "comment": "人们知道原因吗？",
+        "tags": [
+            "4",
+            "_group170"
+        ]
+    },
+    {
+        "word": "原来",
+        "transcription": "yuánlái",
+        "translation": "original/all along",
+        "example": "他爷爷原来是财主",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group170"
+        ]
+    },
+    {
+        "word": "园",
+        "transcription": "yuán",
+        "translation": "garden/park",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group171"
+        ]
+    },
+    {
+        "word": "想",
+        "transcription": "xiǎng",
+        "translation": "think, want to",
+        "example": "你想做什么？",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group172"
+        ]
+    },
+    {
+        "word": "思想",
+        "transcription": "sīxiǎng",
+        "translation": "thought/idea",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group172"
+        ]
+    },
+    {
+        "word": "意思",
+        "transcription": "yìsi",
+        "translation": "meaning/idea/interest",
+        "example": "这个汉字是什么意思？",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group172"
+        ]
+    },
+    {
+        "word": "意见",
+        "transcription": "yìjiàn",
+        "translation": "opinion/objection",
+        "example": "按我的意见..",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group172"
+        ]
+    },
+    {
+        "word": "有意思",
+        "transcription": "yǒuyìsi",
+        "translation": "interesting",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group172"
+        ]
+    },
+    {
+        "word": "思考",
+        "transcription": "sīkǎo",
+        "translation": "think (cognitive process)",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group172"
+        ]
+    },
+    {
+        "word": "考虑",
+        "transcription": "kǎolǚ",
+        "translation": "consider",
+        "example": "这个问题需要慎重考虑。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group172"
+        ]
+    },
+    {
+        "word": "注意",
+        "transcription": "zhùyì",
+        "translation": "be careful/pay attention",
+        "example": "我得注意你说的话。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group172"
+        ]
+    },
+    {
+        "word": "主意",
+        "transcription": "zhǔyi",
+        "translation": "plan/idea/decision",
+        "example": "他给我们出了个好主意。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group172"
+        ]
+    },
+    {
+        "word": "小",
+        "transcription": "xiǎo",
+        "translation": "small",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group173"
+        ]
+    },
+    {
+        "word": "小姐",
+        "transcription": "xiǎojiě",
+        "translation": "miss",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group173"
+        ]
+    },
+    {
+        "word": "小时",
+        "transcription": "xiǎoshí",
+        "translation": "hour",
+        "example": "他每天都会看书一小时。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group173"
+        ]
+    },
+    {
+        "word": "小说",
+        "transcription": "xiǎoshūo",
+        "translation": "novel",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group173"
+        ]
+    },
+    {
+        "word": "小学",
+        "transcription": "xiǎoxué",
+        "translation": "school",
+        "example": "我的儿子在小学里。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group173"
+        ]
+    },
+    {
+        "word": "小心",
+        "transcription": "xiǎoxīn",
+        "translation": "careful",
+        "example": "你应该要更小心。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group173"
+        ]
+    },
+    {
+        "word": "少",
+        "transcription": "shǎo",
+        "translation": "few/little",
+        "example": "商店里的人非常少。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group173"
+        ]
+    },
+    {
+        "word": "吵",
+        "transcription": "chǎo",
+        "translation": "noisy/quarrel",
+        "example": "太吵了，我听不见她在说什么。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group173"
+        ]
+    },
+    {
+        "word": "抄",
+        "transcription": "chāo",
+        "translation": "copy",
+        "example": "我把作业写在黑板上了，抄一下吧。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group173"
+        ]
+    },
+    {
+        "word": "些",
+        "transcription": "xiē",
+        "translation": "some/a little (MW)",
+        "example": "我想买些苹果。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group174"
+        ]
+    },
+    {
+        "word": "写",
+        "transcription": "xiě",
+        "translation": "to write",
+        "example": "他写了一封信。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group175"
+        ]
+    },
+    {
+        "word": "谢谢",
+        "transcription": "xièxiè",
+        "translation": "thanks",
+        "example": "谢谢你教我西班牙语。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group176"
+        ]
+    },
+    {
+        "word": "星期",
+        "transcription": "xīngqī",
+        "translation": "week",
+        "example": "这星期我很忙。",
+        "comment": "syn: 周",
+        "tags": [
+            "1",
+            "_group177"
+        ]
+    },
+    {
+        "word": "星",
+        "transcription": "xīng",
+        "translation": "star",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group177"
+        ]
+    },
+    {
+        "word": "期待",
+        "transcription": "qīdài",
+        "translation": "look forward to",
+        "example": "还是有一个东西我特别期待。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group177"
+        ]
+    },
+    {
+        "word": "周",
+        "transcription": "zhōu",
+        "translation": "circle/week",
+        "example": "他上周看书了。",
+        "comment": "",
+        "tags": [
+            "！",
+            "_group178"
+        ]
+    },
+    {
+        "word": "周末",
+        "transcription": "zhōumò",
+        "translation": "weekend",
+        "example": "你周末过得怎么样？",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group178"
+        ]
+    },
+    {
+        "word": "周围",
+        "transcription": "zhōuwéi",
+        "translation": "vicinity/environment",
+        "example": "周围的人也很高兴。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group178"
+        ]
+    },
+    {
+        "word": "一",
+        "transcription": "yī",
+        "translation": "one",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group179"
+        ]
+    },
+    {
+        "word": "一点儿",
+        "transcription": "yìdiǎnr",
+        "translation": "a little bit/some",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group179"
+        ]
+    },
+    {
+        "word": "第一",
+        "transcription": "dìyī",
+        "translation": "first",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group179"
+        ]
+    },
+    {
+        "word": "牙",
+        "transcription": "yá",
+        "translation": "tooth",
+        "example": "让牙医看看你的牙。",
+        "comment": "",
+        "tags": [
+            "5&",
+            "_group180"
+        ]
+    },
+    {
+        "word": "衣服",
+        "transcription": "yīfu",
+        "translation": "clothes",
+        "example": "",
+        "comment": "把衣服脱掉！",
+        "tags": [
+            "1",
+            "_group180"
+        ]
+    },
+    {
+        "word": "农场",
+        "transcription": "nóngchǎng",
+        "translation": "farm",
+        "example": "农场里有牛、马和羊",
+        "comment": "",
+        "tags": [
+            "5&",
+            "_group180"
+        ]
+    },
+    {
+        "word": "穿",
+        "transcription": "chuān",
+        "translation": "to wear/put on",
+        "example": "她总穿着黑衣服。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group180"
+        ]
+    },
+    {
+        "word": "袭击",
+        "transcription": "xíjī",
+        "translation": "attack",
+        "example": "他被狼袭击了？",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group180"
+        ]
+    },
+    {
+        "word": "求",
+        "transcription": "qiú",
+        "translation": "request/demand",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group181"
+        ]
+    },
+    {
+        "word": "要求",
+        "transcription": "qiú",
+        "translation": "request/demand",
+        "example": "工人们都要求很多钱。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group181"
+        ]
+    },
+    {
+        "word": "球",
+        "transcription": "qiú",
+        "translation": "ball/sphere",
+        "example": "球是圆的。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group181"
+        ]
+    },
+    {
+        "word": "足球",
+        "transcription": "zúqiú",
+        "translation": "football",
+        "example": "我在操场踢足球。",
+        "comment": "",
+        "tags": [
+            "4&",
+            "_group181"
+        ]
+    },
+    {
+        "word": "篮球",
+        "transcription": "lánqiú",
+        "translation": "basketball",
+        "example": "小时候我经常打篮球。",
+        "comment": "",
+        "tags": [
+            "4&",
+            "_group181"
+        ]
+    },
+    {
+        "word": "椅子",
+        "transcription": "yǐzi",
+        "translation": "chair",
+        "example": "这把椅子很舒服。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group183"
+        ]
+    },
+    {
+        "word": "桌子",
+        "transcription": "zhuōzi",
+        "translation": "table",
+        "example": "桌子上有一杯水。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group183"
+        ]
+    },
+    {
+        "word": "有",
+        "transcription": "yǒu",
+        "translation": "to have",
+        "example": "我有一个儿子。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group184"
+        ]
+    },
+    {
+        "word": "月",
+        "transcription": "yuè",
+        "translation": "moon/month",
+        "example": "你一个月读几本书？",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group185"
+        ]
+    },
+    {
+        "word": "月亮",
+        "transcription": "yuèliàng",
+        "translation": "moon",
+        "example": "今晚月亮不会出来了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group185"
+        ]
+    },
+    {
+        "word": "再",
+        "transcription": "zài",
+        "translation": "again/then/until",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group186"
+        ]
+    },
+    {
+        "word": "再见",
+        "transcription": "zàijiàn",
+        "translation": "goodbye",
+        "example": "明天再见！",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group186"
+        ]
+    },
+    {
+        "word": "在",
+        "transcription": "zài",
+        "translation": "at",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group187"
+        ]
+    },
+    {
+        "word": "住",
+        "transcription": "zhù",
+        "translation": "live",
+        "example": "女王住在哪里？",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group187"
+        ]
+    },
+    {
+        "word": "主",
+        "transcription": "zhǔ",
+        "translation": "master/main/owner/host",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group187"
+        ]
+    },
+    {
+        "word": "主要",
+        "transcription": "zhùyào",
+        "translation": "major/main (a)",
+        "example": "我的主要工作是教法语。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group187"
+        ]
+    },
+    {
+        "word": "怎么",
+        "transcription": "zěnme",
+        "translation": "how",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group189"
+        ]
+    },
+    {
+        "word": "怎么样",
+        "transcription": "zěnmeyang",
+        "translation": "how",
+        "example": "你觉得她怎么样？",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group189"
+        ]
+    },
+    {
+        "word": "字",
+        "transcription": "zì",
+        "translation": "character",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group193"
+        ]
+    },
+    {
+        "word": "词",
+        "transcription": "cí",
+        "translation": "word",
+        "example": "这个词语我不懂。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group193"
+        ]
+    },
+    {
+        "word": "句子",
+        "transcription": "jùzi",
+        "translation": "sentence",
+        "example": "不要翻译这个句子！",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group193"
+        ]
+    },
+    {
+        "word": "语言",
+        "transcription": "yǔyán",
+        "translation": "language",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group193"
+        ]
+    },
+    {
+        "word": "信",
+        "transcription": "xìn",
+        "translation": "letter (n), to believe (v)",
+        "example": "谁会信呢？",
+        "comment": "",
+        "tags": [
+            "？",
+            "_group193"
+        ]
+    },
+    {
+        "word": "英语",
+        "transcription": "yīngyǔ",
+        "translation": "English",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group193"
+        ]
+    },
+    {
+        "word": "法语",
+        "transcription": "fǎyǔ",
+        "translation": "French",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group193"
+        ]
+    },
+    {
+        "word": "语法",
+        "transcription": "yǔfǎ",
+        "translation": "grammar",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group193"
+        ]
+    },
+    {
+        "word": "文化",
+        "transcription": "wénhuà",
+        "translation": "culture",
+        "example": "在我们的文化中,他很奇怪的人。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group195"
+        ]
+    },
+    {
+        "word": "变化",
+        "transcription": "biànhuà",
+        "translation": "change (v/n)",
+        "example": "这个城市的变化很大。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group195"
+        ]
+    },
+    {
+        "word": "花",
+        "transcription": "huā",
+        "translation": "flower/spent(v)",
+        "example": "这花颜色很漂亮。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group195"
+        ]
+    },
+    {
+        "word": "华",
+        "transcription": "huá",
+        "translation": "magnificent,prosperous,grey,Chinese",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group195"
+        ]
+    },
+    {
+        "word": "坐",
+        "transcription": "zuò",
+        "translation": "to sit",
+        "example": "请坐那儿。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group196"
+        ]
+    },
+    {
+        "word": "做",
+        "transcription": "zuò",
+        "translation": "to do/make",
+        "example": "我不知道我在做什么",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group197"
+        ]
+    },
+    {
+        "word": "就",
+        "transcription": "jiù",
+        "translation": "then, just;only; at once",
+        "example": "我就想睡觉。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group198"
+        ]
+    },
+    {
+        "word": "就是",
+        "transcription": "jiùshì",
+        "translation": "exactly, really, only, even if",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group198"
+        ]
+    },
+    {
+        "word": "要",
+        "transcription": "yào",
+        "translation": "want/should/need",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group199"
+        ]
+    },
+    {
+        "word": "需要",
+        "transcription": "xūyào",
+        "translation": "need",
+        "example": "我需要坐下来。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group199"
+        ]
+    },
+    {
+        "word": "要求",
+        "transcription": "yàoqiú",
+        "translation": "to demand,request",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group199"
+        ]
+    },
+    {
+        "word": "只要",
+        "transcription": "zhǐyào",
+        "translation": "so long as",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group199"
+        ]
+    },
+    {
+        "word": "要是",
+        "transcription": "yàoshì",
+        "translation": "if",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group199"
+        ]
+    },
+    {
+        "word": "知道",
+        "transcription": "zhīdào",
+        "translation": "to know",
+        "example": "我真的不知道",
+        "comment": "道=road/way",
+        "tags": [
+            "2",
+            "_group200"
+        ]
+    },
+    {
+        "word": "知识",
+        "transcription": "zhīshi",
+        "translation": "knowledge",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group200"
+        ]
+    },
+    {
+        "word": "街道",
+        "transcription": "jiēdào",
+        "translation": "street",
+        "example": "街道有许多商店。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group200"
+        ]
+    },
+    {
+        "word": "道歉",
+        "transcription": "dàoqiàn",
+        "translation": "apologize",
+        "example": "我向你们道歉。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group201"
+        ]
+    },
+    {
+        "word": "楼",
+        "transcription": "lóu",
+        "translation": "building",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group202"
+        ]
+    },
+    {
+        "word": "吧",
+        "transcription": "ba",
+        "translation": "suggestion particle",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group203"
+        ]
+    },
+    {
+        "word": "把",
+        "transcription": "bǎ",
+        "translation": "hold/take (also shifts obj before verb)",
+        "example": "他把苹果放进冰箱里",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group203"
+        ]
+    },
+    {
+        "word": "爬上",
+        "transcription": "páshàng",
+        "translation": "climb",
+        "example": "那个小孩爬上了一棵大树。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group203"
+        ]
+    },
+    {
+        "word": "对",
+        "transcription": "duì",
+        "translation": "correct, towards，yes",
+        "example": "那个回答不可能是对的。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group204"
+        ]
+    },
+    {
+        "word": "讨厌",
+        "transcription": "tǎoyàn",
+        "translation": "to hate/dislike/disgusting",
+        "example": "我讨厌冬天，因为冬天很冷。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group204"
+        ]
+    },
+    {
+        "word": "讨论",
+        "transcription": "tǎolùn",
+        "translation": "discuss/discussion",
+        "example": "我想跟你讨论关于钱的问题。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group204"
+        ]
+    },
+    {
+        "word": "评论",
+        "transcription": "pínglùn",
+        "translation": "comment/review",
+        "example": "下一页还有一些评论。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group204"
+        ]
+    },
+    {
+        "word": "议论",
+        "transcription": "yìlùn",
+        "translation": "discuss/talk",
+        "example": "同事的议论让他很伤心。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group204"
+        ]
+    },
+    {
+        "word": "付",
+        "transcription": "fù",
+        "translation": "hand over/pay",
+        "example": "我付了大部分",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group204"
+        ]
+    },
+    {
+        "word": "付款",
+        "transcription": "fùkuǎn",
+        "translation": "to pay",
+        "example": "我们会尽快安排付款",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group204"
+        ]
+    },
+    {
+        "word": "过",
+        "transcription": "guò",
+        "translation": "past/completion participle",
+        "example": "我没看过这本书。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group204"
+        ]
+    },
+    {
+        "word": "过去",
+        "transcription": "guòqù",
+        "translation": "the past",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group204"
+        ]
+    },
+    {
+        "word": "衬衫",
+        "transcription": "chènshān",
+        "translation": "shirt",
+        "example": "我要换衬衫。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group204"
+        ]
+    },
+    {
+        "word": "计",
+        "transcription": "jì",
+        "translation": "calculate",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group205"
+        ]
+    },
+    {
+        "word": "计算",
+        "transcription": "jìsuàn",
+        "translation": "calculate/plan/scheme",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group205"
+        ]
+    },
+    {
+        "word": "计划",
+        "transcription": "jìhuà",
+        "translation": "plan/project/program",
+        "example": "你周末有什么计划吗？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group205"
+        ]
+    },
+    {
+        "word": "杯子",
+        "transcription": "bēizi",
+        "translation": "cup/glass",
+        "example": "我把杯子打破了",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group206"
+        ]
+    },
+    {
+        "word": "怀疑",
+        "transcription": "huáiyí",
+        "translation": "doubt/suspect",
+        "example": "我怀疑她没说实话",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group206"
+        ]
+    },
+    {
+        "word": "怀孕",
+        "transcription": "huáiyùn",
+        "translation": "be pregnant",
+        "example": "我有消息要告诉你，我怀孕了！",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group206"
+        ]
+    },
+    {
+        "word": "还",
+        "transcription": "hái",
+        "translation": "still/yet",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group206"
+        ]
+    },
+    {
+        "word": "还是",
+        "transcription": "háishi",
+        "translation": "or",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group206"
+        ]
+    },
+    {
+        "word": "还",
+        "transcription": "huán",
+        "translation": "to return, to repay",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group206"
+        ]
+    },
+    {
+        "word": "还原",
+        "transcription": "huányuán",
+        "translation": "restore/reduce",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group206"
+        ]
+    },
+    {
+        "word": "坏",
+        "transcription": "huài",
+        "translation": "bad/broken/spoilt",
+        "example": "他说汉语说得很坏。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group206"
+        ]
+    },
+    {
+        "word": "让",
+        "transcription": "ràng",
+        "translation": "let,by (prep, spanish por)",
+        "example": "让我帮助你们",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group208"
+        ]
+    },
+    {
+        "word": "给",
+        "transcription": "gěi",
+        "translation": "give",
+        "example": "你能给我一杯啤酒吗？",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group209"
+        ]
+    },
+    {
+        "word": "得",
+        "transcription": "děǐ",
+        "translation": "must/need to;",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group210"
+        ]
+    },
+    {
+        "word": "得",
+        "transcription": "de",
+        "translation": "complement particle",
+        "example": "我跑的很快。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group210"
+        ]
+    },
+    {
+        "word": "真",
+        "transcription": "zhēn",
+        "translation": "real/true",
+        "example": "你真漂亮！",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group211"
+        ]
+    },
+    {
+        "word": "真正",
+        "transcription": "zhēnzhèng",
+        "translation": "true",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group211"
+        ]
+    },
+    {
+        "word": "止",
+        "transcription": "zhǐ",
+        "translation": "stop/end/only",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group212"
+        ]
+    },
+    {
+        "word": "正",
+        "transcription": "zhèng",
+        "translation": "straight/upright",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group212"
+        ]
+    },
+    {
+        "word": "正式",
+        "transcription": "zhèngshì",
+        "translation": "official",
+        "example": "新建的图书馆正式开放了。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group212"
+        ]
+    },
+    {
+        "word": "正常",
+        "transcription": "zhèngcháng",
+        "translation": "normal",
+        "example": "昨晚一切正常。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group212"
+        ]
+    },
+    {
+        "word": "政府",
+        "transcription": "zhèngfǔ",
+        "translation": "government",
+        "example": "是政府的错误",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group212"
+        ]
+    },
+    {
+        "word": "禁止",
+        "transcription": "jìnzhǐ",
+        "translation": "forbid/prohibit",
+        "example": "医生禁止他吸烟。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group212"
+        ]
+    },
+    {
+        "word": "吸烟",
+        "transcription": "xīyān",
+        "translation": "to smoke",
+        "example": "医生禁止他吸烟。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group213"
+        ]
+    },
+    {
+        "word": "声音",
+        "transcription": "shēngyīn",
+        "translation": "voice/sound",
+        "example": "你的声音很好听。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group215"
+        ]
+    },
+    {
+        "word": "声调",
+        "transcription": "shēngdiào",
+        "translation": "tone",
+        "example": "他讲话的声调低。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group215"
+        ]
+    },
+    {
+        "word": "音乐",
+        "transcription": "yīnyuè",
+        "translation": "music",
+        "example": "你喜欢什么样的音乐？",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group215"
+        ]
+    },
+    {
+        "word": "拼音",
+        "transcription": "pīnyīn",
+        "translation": "pinyin",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group215"
+        ]
+    },
+    {
+        "word": "普遍",
+        "transcription": "pǔbiàn",
+        "translation": "common/commonly",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group215"
+        ]
+    },
+    {
+        "word": "普通",
+        "transcription": "pǔtōng",
+        "translation": "common/ordinary",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4&",
+            "_group215"
+        ]
+    },
+    {
+        "word": "普通话",
+        "transcription": "pǔtōnghuà",
+        "translation": "Mandarin",
+        "example": "我会说一点普通话。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group215"
+        ]
+    },
+    {
+        "word": "首",
+        "transcription": "shǒu",
+        "translation": "head/leader/first",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group215"
+        ]
+    },
+    {
+        "word": "首先",
+        "transcription": "shǒuxiān",
+        "translation": "first/to begin with",
+        "example": "明天我首先做这件事",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group215"
+        ]
+    },
+    {
+        "word": "可以",
+        "transcription": "kěyǐ",
+        "translation": "possible",
+        "example": "别人能做到的，你也可以。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group216"
+        ]
+    },
+    {
+        "word": "所以",
+        "transcription": "suǒyǐ",
+        "translation": "so/therefore",
+        "example": "他对我很好，所以我很喜欢他。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group216"
+        ]
+    },
+    {
+        "word": "以前",
+        "transcription": "yǐqián",
+        "translation": "before (temporal)",
+        "example": "我中午以前有空。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group216"
+        ]
+    },
+    {
+        "word": "以后",
+        "transcription": "yǐhòu",
+        "translation": "after (temporal)",
+        "example": "他走了以后，我很哭。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group216"
+        ]
+    },
+    {
+        "word": "以为",
+        "transcription": "yǐwèi",
+        "translation": "to think",
+        "example": "我以为我是对的。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group216"
+        ]
+    },
+    {
+        "word": "以来",
+        "transcription": "yǐlái",
+        "translation": "since",
+        "example": "这一个月以来，她每天病。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group216"
+        ]
+    },
+    {
+        "word": "以及",
+        "transcription": "yǐjí",
+        "translation": "..as well as..",
+        "example": "学校开设了英文班、法文班以及德文班。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group216"
+        ]
+    },
+    {
+        "word": "前边",
+        "transcription": "qiánbiàn",
+        "translation": "in front of",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group217"
+        ]
+    },
+    {
+        "word": "前进",
+        "transcription": "qiánjìn",
+        "translation": "advance/make progress",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group217"
+        ]
+    },
+    {
+        "word": "偷",
+        "transcription": "tōu",
+        "translation": "steal",
+        "example": "我真的想偷一个车。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group217"
+        ]
+    },
+    {
+        "word": "河",
+        "transcription": "hé",
+        "translation": "river",
+        "example": "我去河里游泳了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group218"
+        ]
+    },
+    {
+        "word": "湖",
+        "transcription": "hú",
+        "translation": "lake",
+        "example": "这个湖介于两座山之间。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group218"
+        ]
+    },
+    {
+        "word": "胡子",
+        "transcription": "húzi",
+        "translation": "moustache/beard",
+        "example": "你的胡子太长了，我不喜欢",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group218"
+        ]
+    },
+    {
+        "word": "别",
+        "transcription": "bié",
+        "translation": "other  / don't ..!",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group219"
+        ]
+    },
+    {
+        "word": "别的",
+        "transcription": "biéde",
+        "translation": "other,others (pron), otherwise",
+        "example": "",
+        "comment": "他不想要别的东西了。",
+        "tags": [
+            "&",
+            "_group219"
+        ]
+    },
+    {
+        "word": "特别",
+        "transcription": "tèbié",
+        "translation": "peculiar/exceptional (a, adv), especially",
+        "example": "他的房间很特别。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group219"
+        ]
+    },
+    {
+        "word": "别人",
+        "transcription": "biérén",
+        "translation": "others",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group219"
+        ]
+    },
+    {
+        "word": "已经",
+        "transcription": "yǐjing",
+        "translation": "already",
+        "example": "已经是时候回去了。",
+        "comment": "(已=already/stop)",
+        "tags": [
+            "2",
+            "_group220"
+        ]
+    },
+    {
+        "word": "记得",
+        "transcription": "jìde",
+        "translation": "to remember",
+        "example": "我记得你了。",
+        "comment": "syn: 记忆",
+        "tags": [
+            "3",
+            "_group220"
+        ]
+    },
+    {
+        "word": "忘记",
+        "transcription": "wàngjì",
+        "translation": "to forget",
+        "example": "我我永远不忘记你。",
+        "comment": "忘=forget",
+        "tags": [
+            "3",
+            "_group220"
+        ]
+    },
+    {
+        "word": "记者",
+        "transcription": "jìzhě",
+        "translation": "journalist",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group220"
+        ]
+    },
+    {
+        "word": "经过",
+        "transcription": "jìngguò",
+        "translation": "to pass",
+        "example": "学生每次回家都会经过一条河。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group220"
+        ]
+    },
+    {
+        "word": "经济",
+        "transcription": "jīngjì",
+        "translation": "economy",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group220"
+        ]
+    },
+    {
+        "word": "轻",
+        "transcription": "qīng",
+        "translation": "light/gently",
+        "example": "她的包现在很轻了。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group220"
+        ]
+    },
+    {
+        "word": "年轻",
+        "transcription": "niánqīng",
+        "translation": "young",
+        "example": "她很年轻。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group220"
+        ]
+    },
+    {
+        "word": "停",
+        "transcription": "tíng",
+        "translation": "stop/park",
+        "example": "他们就是让我们停",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group221"
+        ]
+    },
+    {
+        "word": "从",
+        "transcription": "cóng",
+        "translation": "from",
+        "example": "你从哪个城市来吗？",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group222"
+        ]
+    },
+    {
+        "word": "从来",
+        "transcription": "cónglái",
+        "translation": "always/never",
+        "example": "我从来不董你的问题。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group222"
+        ]
+    },
+    {
+        "word": "最",
+        "transcription": "zuì",
+        "translation": "most (superlative marker)",
+        "example": "我的汽车是最快的。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group223"
+        ]
+    },
+    {
+        "word": "最近",
+        "transcription": "zuìjìn",
+        "translation": "recently",
+        "example": "最近我很不开心。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group223"
+        ]
+    },
+    {
+        "word": "最后",
+        "transcription": "zuìhòu",
+        "translation": "final/finally",
+        "example": "最后，我们决定去看电影。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group223"
+        ]
+    },
+    {
+        "word": "最好",
+        "transcription": "zuìhǎo",
+        "translation": "best",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group223"
+        ]
+    },
+    {
+        "word": "久",
+        "transcription": "jiǔ",
+        "translation": "long (temporal)",
+        "example": "他在这儿等了很久。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group225"
+        ]
+    },
+    {
+        "word": "欠",
+        "transcription": "qiàn",
+        "translation": "to owe/lack/yawn",
+        "example": "我们欠你多少钱？",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group225"
+        ]
+    },
+    {
+        "word": "次",
+        "transcription": "cì",
+        "translation": "times (MW), order",
+        "example": "我每天跑三次步。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group225"
+        ]
+    },
+    {
+        "word": "吹",
+        "transcription": "chuī",
+        "translation": "to blow",
+        "example": "风从东边吹来。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group225"
+        ]
+    },
+    {
+        "word": "砍",
+        "transcription": "kǎn",
+        "translation": "chop/cut",
+        "example": "你上山多砍一些树",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group225"
+        ]
+    },
+    {
+        "word": "炊",
+        "transcription": "chuī",
+        "translation": "to cook",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group225"
+        ]
+    },
+    {
+        "word": "饮料",
+        "transcription": "yǐnliào",
+        "translation": "drink (n)",
+        "example": "她点了三杯饮料。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group225"
+        ]
+    },
+    {
+        "word": "欧州",
+        "transcription": "oūzhōu",
+        "translation": "Europe",
+        "example": "我的学生有三分之一是来自欧洲。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group225"
+        ]
+    },
+    {
+        "word": "又",
+        "transcription": "yòu",
+        "translation": "again, also, both, another",
+        "example": "今天他又来了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group227"
+        ]
+    },
+    {
+        "word": "双",
+        "transcription": "shuāng",
+        "translation": "two/double/ MW for pairs",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group227"
+        ]
+    },
+    {
+        "word": "反对",
+        "transcription": "fǎnduì",
+        "translation": "to oppose",
+        "example": "王子反对国王。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group227"
+        ]
+    },
+    {
+        "word": "反应",
+        "transcription": "fǎnyìng",
+        "translation": "to react/respond",
+        "example": "她反应特别快。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group227"
+        ]
+    },
+    {
+        "word": "反正",
+        "transcription": "fǎnzhèng",
+        "translation": "anyway",
+        "example": "反正必须有人去，就让我去吧！",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group227"
+        ]
+    },
+    {
+        "word": "饭",
+        "transcription": "fàn",
+        "translation": "rice/meal",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1&",
+            "_group227"
+        ]
+    },
+    {
+        "word": "数",
+        "transcription": "shǔ",
+        "translation": "to count",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group228"
+        ]
+    },
+    {
+        "word": "数学",
+        "transcription": "shǔxué",
+        "translation": "math",
+        "example": "我很喜欢数学。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group228"
+        ]
+    },
+    {
+        "word": "放",
+        "transcription": "fàng",
+        "translation": "put/release/let go/send out",
+        "example": "把书放在那里。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group228"
+        ]
+    },
+    {
+        "word": "放心",
+        "transcription": "fàngxīn",
+        "translation": "relax",
+        "example": "放心吧！",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group228"
+        ]
+    },
+    {
+        "word": "放松",
+        "transcription": "fàngsōng",
+        "translation": "relax",
+        "example": "想去放松一下？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group228"
+        ]
+    },
+    {
+        "word": "放大",
+        "transcription": "fàngdà",
+        "translation": "enlarge/turn up/zoom",
+        "example": "把照片放大",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group228"
+        ]
+    },
+    {
+        "word": "攻击",
+        "transcription": "gōngjī",
+        "translation": "attack/assault",
+        "example": "他们攻击他。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group228"
+        ]
+    },
+    {
+        "word": "攻克",
+        "transcription": "gōngkè",
+        "translation": "capture/conquer",
+        "example": "我可以攻克英语!",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group228"
+        ]
+    },
+    {
+        "word": "才",
+        "transcription": "cái",
+        "translation": "just,really (adv), not until now/only, ability (n),",
+        "example": "我才到家，电话就响了",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group230"
+        ]
+    },
+    {
+        "word": "才干",
+        "transcription": "cáigàn",
+        "translation": "ability",
+        "example": "我们相信他的才干。",
+        "comment": "(SYN: 才能)",
+        "tags": [
+            "6",
+            "_group230"
+        ]
+    },
+    {
+        "word": "之",
+        "transcription": "zhī",
+        "translation": "literary possessive particle",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group230"
+        ]
+    },
+    {
+        "word": "之前",
+        "transcription": "zhíqián",
+        "translation": "before",
+        "example": "你走之前，我去看你，好吗？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group230"
+        ]
+    },
+    {
+        "word": "孩子",
+        "transcription": "háizi",
+        "translation": "child",
+        "example": "我们的孩子回来了。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group231"
+        ]
+    },
+    {
+        "word": "两",
+        "transcription": "liǎng",
+        "translation": "two/both",
+        "example": "他们两个人都是好学生。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group232"
+        ]
+    },
+    {
+        "word": "辆",
+        "transcription": "liàng",
+        "translation": "MW for vehicles",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group232"
+        ]
+    },
+    {
+        "word": "满",
+        "transcription": "mǎn",
+        "translation": "full/complete",
+        "example": "广场上满是人",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group232"
+        ]
+    },
+    {
+        "word": "满意",
+        "transcription": "mǎnyì",
+        "translation": "to be satisfied",
+        "example": "我非常满意。",
+        "comment": "(SYN: 满足)",
+        "tags": [
+            "3",
+            "_group232"
+        ]
+    },
+    {
+        "word": "满足",
+        "transcription": "mǎnzú",
+        "translation": "to satisfy/be satisfied",
+        "example": "他对生活很满足。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group232"
+        ]
+    },
+    {
+        "word": "错",
+        "transcription": "cuò",
+        "translation": "mistake/error/incorrect",
+        "example": "你的回答是错的。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group233"
+        ]
+    },
+    {
+        "word": "错误",
+        "transcription": "cuòwù",
+        "translation": "mistake",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group233"
+        ]
+    },
+    {
+        "word": "借",
+        "transcription": "jiè",
+        "translation": "borrow/lend",
+        "example": "他们需要借二千块钱。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group233"
+        ]
+    },
+    {
+        "word": "音",
+        "transcription": "yīn",
+        "translation": "sound",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group233"
+        ]
+    },
+    {
+        "word": "等",
+        "transcription": "děng",
+        "translation": "wait",
+        "example": "我们在这儿等了很久。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group236"
+        ]
+    },
+    {
+        "word": "等等",
+        "transcription": "děngděng",
+        "translation": "and so on",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group236"
+        ]
+    },
+    {
+        "word": "堂",
+        "transcription": "táng",
+        "translation": "hall",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group238"
+        ]
+    },
+    {
+        "word": "常",
+        "transcription": "cháng",
+        "translation": "often",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group238"
+        ]
+    },
+    {
+        "word": "非常",
+        "transcription": "fēicháng",
+        "translation": "very/exceptionally/extremely",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group238"
+        ]
+    },
+    {
+        "word": "常常",
+        "transcription": "chángcháng",
+        "translation": "often",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group238"
+        ]
+    },
+    {
+        "word": "经常",
+        "transcription": "jīngcháng",
+        "translation": "often,daily",
+        "example": "我们经常去图书馆看书。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group238"
+        ]
+    },
+    {
+        "word": "非",
+        "transcription": "fēi",
+        "translation": "wrong/blame/not be",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group239"
+        ]
+    },
+    {
+        "word": "排",
+        "transcription": "pái",
+        "translation": "row/MW/put in order",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group239"
+        ]
+    },
+    {
+        "word": "安排",
+        "transcription": "ānpái",
+        "translation": "arrange",
+        "example": "今晚你有安排吗？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group239"
+        ]
+    },
+    {
+        "word": "罪犯",
+        "transcription": "zuìfàn",
+        "translation": "criminal",
+        "example": "警察找罪犯。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group239"
+        ]
+    },
+    {
+        "word": "希望",
+        "transcription": "xīwàng",
+        "translation": "to hope",
+        "example": "我希望你觉得舒服",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group240"
+        ]
+    },
+    {
+        "word": "七",
+        "transcription": "qī",
+        "translation": "seven",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group241"
+        ]
+    },
+    {
+        "word": "匕",
+        "transcription": "bǐ",
+        "translation": "dagger",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group241"
+        ]
+    },
+    {
+        "word": "比",
+        "transcription": "bǐ",
+        "translation": "comparison particle",
+        "example": "她比我聪明 (cf: 北）",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group241"
+        ]
+    },
+    {
+        "word": "比赛",
+        "transcription": "bǐsài",
+        "translation": "match/competition",
+        "example": "他想参加比赛。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group241"
+        ]
+    },
+    {
+        "word": "比较",
+        "transcription": "bǐjiào",
+        "translation": "compare",
+        "example": "和姐姐相比，她比较漂亮。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group241"
+        ]
+    },
+    {
+        "word": "它",
+        "transcription": "tā",
+        "translation": "it",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group241"
+        ]
+    },
+    {
+        "word": "美",
+        "transcription": "měi",
+        "translation": "beautiful",
+        "example": "这幅画太美了。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group245"
+        ]
+    },
+    {
+        "word": "美国",
+        "transcription": "měiguó",
+        "translation": "USA",
+        "example": "美国是很大的国家",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group245"
+        ]
+    },
+    {
+        "word": "美元",
+        "transcription": "měiyuán",
+        "translation": "US dollar",
+        "example": "你给我有没有些美元？",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group245"
+        ]
+    },
+    {
+        "word": "送",
+        "transcription": "sòng",
+        "translation": "to send / to see sb off",
+        "example": "你可以送我一封信吗？",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group246"
+        ]
+    },
+    {
+        "word": "长",
+        "transcription": "cháng/zhǎng",
+        "translation": "long/length;to grow",
+        "example": "墙很长。; 孩子长得很好。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group247"
+        ]
+    },
+    {
+        "word": "张",
+        "transcription": "zhāng",
+        "translation": "to open/stretch/extend (MW for sheets/paper/furniture)",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group247"
+        ]
+    },
+    {
+        "word": "矮",
+        "transcription": "ǎi",
+        "translation": "short, low",
+        "example": "我比我的爱人很多。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group247"
+        ]
+    },
+    {
+        "word": "低",
+        "transcription": "dī",
+        "translation": "low",
+        "example": "飞机飞得很低。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group247"
+        ]
+    },
+    {
+        "word": "短",
+        "transcription": "duǎn",
+        "translation": "short/owe",
+        "example": "句子很短。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group247"
+        ]
+    },
+    {
+        "word": "母",
+        "transcription": "mǔ",
+        "translation": "mother",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group248"
+        ]
+    },
+    {
+        "word": "每",
+        "transcription": "měi",
+        "translation": "each/every",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group248"
+        ]
+    },
+    {
+        "word": "每天",
+        "transcription": "měitiān",
+        "translation": "daily",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group248"
+        ]
+    },
+    {
+        "word": "海",
+        "transcription": "hǎi",
+        "translation": "sea/ocean",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2&",
+            "_group248"
+        ]
+    },
+    {
+        "word": "帮助",
+        "transcription": "bāngzhú",
+        "translation": "to help",
+        "example": "这个药会帮助他们。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group249"
+        ]
+    },
+    {
+        "word": "帮忙",
+        "transcription": "bāngmáng",
+        "translation": "to help",
+        "example": "我想请你帮忙我。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group249"
+        ]
+    },
+    {
+        "word": "忙",
+        "transcription": "máng",
+        "translation": "busy",
+        "example": "我很忙。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group249"
+        ]
+    },
+    {
+        "word": "灯",
+        "transcription": "dēng",
+        "translation": "light/lamp",
+        "example": "他灯关了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group249"
+        ]
+    },
+    {
+        "word": "秋",
+        "transcription": "qiú",
+        "translation": "autumn",
+        "example": "秋天的时候，天气是很冷的。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group249"
+        ]
+    },
+    {
+        "word": "行",
+        "transcription": "xíng;háng",
+        "translation": "walk/do/OK/travel/conduct;row",
+        "example": "你向东开就行。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group250"
+        ]
+    },
+    {
+        "word": "行为",
+        "transcription": "xíngwéi",
+        "translation": "behaviour",
+        "example": "他行为合法。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group250"
+        ]
+    },
+    {
+        "word": "光",
+        "transcription": "guāng",
+        "translation": "light (abstract), just (adv)",
+        "example": "月光",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group251"
+        ]
+    },
+    {
+        "word": "妻子",
+        "transcription": "qīzi",
+        "translation": "wife",
+        "example": "别告诉我的妻子！",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group255"
+        ]
+    },
+    {
+        "word": "丈夫",
+        "transcription": "zhàngfu",
+        "translation": "husband",
+        "example": "我的丈夫是医生。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group255"
+        ]
+    },
+    {
+        "word": "父母",
+        "transcription": "fùmǔ",
+        "translation": "parents",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group255"
+        ]
+    },
+    {
+        "word": "离",
+        "transcription": "lí",
+        "translation": "leave/depart/go away",
+        "example": "我家离你的很近",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group256"
+        ]
+    },
+    {
+        "word": "离开",
+        "transcription": "líkāi",
+        "translation": "leave/depart",
+        "example": "我想离开这个城市。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group256"
+        ]
+    },
+    {
+        "word": "难",
+        "transcription": "nán",
+        "translation": "difficult/hard",
+        "example": "学习葡萄牙语真的很难。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group258"
+        ]
+    },
+    {
+        "word": "慢",
+        "transcription": "mán",
+        "translation": "slow",
+        "example": "他说话很慢。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group258"
+        ]
+    },
+    {
+        "word": "容易",
+        "transcription": "róngyì",
+        "translation": "easy",
+        "example": "学习阿拉伯语很不容易。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group258"
+        ]
+    },
+    {
+        "word": "虽然",
+        "transcription": "suīrán",
+        "translation": "although/even though",
+        "example": "虽然下雨，但是不冷。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group260"
+        ]
+    },
+    {
+        "word": "突然",
+        "transcription": "tūrán",
+        "translation": "suddenly",
+        "example": "她突然笑了起来。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group260"
+        ]
+    },
+    {
+        "word": "忽然",
+        "transcription": "hūrán",
+        "translation": "suddenly",
+        "example": "忽然天气很热了。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group260"
+        ]
+    },
+    {
+        "word": "身体",
+        "transcription": "shēntǐ",
+        "translation": "health/body",
+        "example": "你的身体怎么样？",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group261"
+        ]
+    },
+    {
+        "word": "票",
+        "transcription": "piào",
+        "translation": "ticket; banknote; vote",
+        "example": "我们已经票了。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group262"
+        ]
+    },
+    {
+        "word": "累",
+        "transcription": "léi",
+        "translation": "tired",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group262"
+        ]
+    },
+    {
+        "word": "某",
+        "transcription": "mǒu",
+        "translation": "certain/particular/some",
+        "example": "找出某种办法解决问题。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group262"
+        ]
+    },
+    {
+        "word": "黑",
+        "transcription": "hēi",
+        "translation": "dark,black",
+        "example": "外面很黑。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group263"
+        ]
+    },
+    {
+        "word": "白",
+        "transcription": "bái",
+        "translation": "white,bright",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group263"
+        ]
+    },
+    {
+        "word": "百",
+        "transcription": "bǎi",
+        "translation": "hundred",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group263"
+        ]
+    },
+    {
+        "word": "日",
+        "transcription": "rì",
+        "translation": "sun/day/date",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group263"
+        ]
+    },
+    {
+        "word": "目",
+        "transcription": "mù",
+        "translation": "eye/item",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "！",
+            "_group263"
+        ]
+    },
+    {
+        "word": "耳(朵)",
+        "transcription": "ěr(duo)",
+        "translation": "ear",
+        "example": "我有眼睛，也有耳朵。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group263"
+        ]
+    },
+    {
+        "word": "自(己)",
+        "transcription": "zì(jǐ)",
+        "translation": "(one)self/own",
+        "example": "每个人有自己的意见。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group263"
+        ]
+    },
+    {
+        "word": "自然",
+        "transcription": "zìrán",
+        "translation": "nature/natural/naturally",
+        "example": "自然是真的。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group264"
+        ]
+    },
+    {
+        "word": "自信",
+        "transcription": "zìxìn",
+        "translation": "self-confident",
+        "example": "我相当自信。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group264"
+        ]
+    },
+    {
+        "word": "自豪",
+        "transcription": "zìháo",
+        "translation": "proud",
+        "example": "我为我妈妈感到自豪",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group264"
+        ]
+    },
+    {
+        "word": "自从",
+        "transcription": "zìcóng",
+        "translation": "since",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group264"
+        ]
+    },
+    {
+        "word": "自由",
+        "transcription": "zìyóu",
+        "translation": "free/freedom",
+        "example": "我们必须为自由而斗争。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group264"
+        ]
+    },
+    {
+        "word": "闻",
+        "transcription": "wén",
+        "translation": "hear/smell/news",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group265"
+        ]
+    },
+    {
+        "word": "市",
+        "transcription": "shì",
+        "translation": "city/market",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "！",
+            "_group266"
+        ]
+    },
+    {
+        "word": "节",
+        "transcription": "jié",
+        "translation": "joint/item MW/festival",
+        "example": "这节课多长时间？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group266"
+        ]
+    },
+    {
+        "word": "带",
+        "transcription": "dài",
+        "translation": "to take/bring/lead, belt/tire",
+        "example": "你带电脑了吗？",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group266"
+        ]
+    },
+    {
+        "word": "节日",
+        "transcription": "jiérì",
+        "translation": "festival/holiday",
+        "example": "这是我最喜欢的节日。",
+        "comment": "节=joint/save/item/festival",
+        "tags": [
+            "3",
+            "_group266"
+        ]
+    },
+    {
+        "word": "节目",
+        "transcription": "jiémù",
+        "translation": "programme",
+        "example": "你喜欢看什么样的电视节目？",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group266"
+        ]
+    },
+    {
+        "word": "季节",
+        "transcription": "jìjié",
+        "translation": "season",
+        "example": "秋天是我最喜欢的季节。",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group266"
+        ]
+    },
+    {
+        "word": "休息",
+        "transcription": "xiūxi",
+        "translation": "to rest",
+        "example": "我必须休息一会儿。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group268"
+        ]
+    },
+    {
+        "word": "信息",
+        "transcription": "xìnxī",
+        "translation": "information",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group268"
+        ]
+    },
+    {
+        "word": "消息",
+        "transcription": "xiāoxi",
+        "translation": "news",
+        "example": "报纸有好消息。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group268"
+        ]
+    },
+    {
+        "word": "消失",
+        "transcription": "xiāoshī",
+        "translation": "to disappear/vanish",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group268"
+        ]
+    },
+    {
+        "word": "和",
+        "transcription": "hé",
+        "translation": "and",
+        "example": "你和我是好朋友。",
+        "comment": "",
+        "tags": [
+            "1",
+            "_group269"
+        ]
+    },
+    {
+        "word": "租",
+        "transcription": "zū",
+        "translation": "rent/rent out",
+        "example": "这些房子租一个星期一百美元。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group269"
+        ]
+    },
+    {
+        "word": "相同",
+        "transcription": "xiāngtóng",
+        "translation": "same/identical",
+        "example": "他们两个人有相同的爱好。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group269"
+        ]
+    },
+    {
+        "word": "相信",
+        "transcription": "xiāngxìn",
+        "translation": "believe (v)",
+        "example": "我相信我的姐姐。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group269"
+        ]
+    },
+    {
+        "word": "相比",
+        "transcription": "xiāngbǐ",
+        "translation": "compared to",
+        "example": "和肉相比，我更喜欢吃鱼。",
+        "comment": "",
+        "tags": [
+            "3&",
+            "_group269"
+        ]
+    },
+    {
+        "word": "相反",
+        "transcription": "xiāngfǎn",
+        "translation": "opposite",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group269"
+        ]
+    },
+    {
+        "word": "相当",
+        "transcription": "xiāngdāng",
+        "translation": "quite/match/appropriate",
+        "example": "我相当喜欢它。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group269"
+        ]
+    },
+    {
+        "word": "互相",
+        "transcription": "hùxiāng",
+        "translation": "eachother/mutually",
+        "example": "他们互相不认识",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group270"
+        ]
+    },
+    {
+        "word": "哥哥",
+        "transcription": "gege",
+        "translation": "older brother",
+        "example": "我的哥哥有九个朋友。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group272"
+        ]
+    },
+    {
+        "word": "姐姐",
+        "transcription": "jiějie",
+        "translation": "older sister",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group272"
+        ]
+    },
+    {
+        "word": "弟弟",
+        "transcription": "dìdì",
+        "translation": "younger brother",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group272"
+        ]
+    },
+    {
+        "word": "妹妹",
+        "transcription": "mèimei",
+        "translation": "younger sister",
+        "example": "我妹妹每天晚上看电视。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group272"
         ]
     },
     {
@@ -7256,29 +9126,62 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group244"
+            "_group274"
         ]
     },
     {
         "word": "运动",
-        "transcription": "yùndóng",
+        "transcription": "yùndòng",
         "translation": "(physical) exercise,sports,movement",
         "example": "他每天都会运动一小时。",
         "comment": "",
         "tags": [
             "2",
-            "_group244"
+            "_group274"
+        ]
+    },
+    {
+        "word": "运气",
+        "transcription": "yùnqì",
+        "translation": "luck (good or bad)",
+        "example": "我只有坏运气。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group274"
+        ]
+    },
+    {
+        "word": "层",
+        "transcription": "céng",
+        "translation": "MW:layer/floor/step",
+        "example": "这幢大楼有3层。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group274"
         ]
     },
     {
         "word": "活动",
-        "transcription": "huódóng",
+        "transcription": "huódòng",
         "translation": "activity",
-        "example": "",
+        "example": "政府不能无视非法活动。",
         "comment": "",
         "tags": [
             "4",
-            "_group244"
+            "_group274"
+        ]
+    },
+    {
+        "word": "感动",
+        "transcription": "gǎndòng",
+        "translation": "moved/touched (emotionally)",
+        "example": "他被她的爱所感动。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group274"
         ]
     },
     {
@@ -7289,18 +9192,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group244"
-        ]
-    },
-    {
-        "word": "礼物",
-        "transcription": "lǐwù",
-        "translation": "gift",
-        "example": "动物是礼物。",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group244"
+            "_group274"
         ]
     },
     {
@@ -7311,7 +9203,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group244"
+            "_group274"
+        ]
+    },
+    {
+        "word": "礼物",
+        "transcription": "lǐwù",
+        "translation": "gift",
+        "example": "动物是礼物。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group274"
+        ]
+    },
+    {
+        "word": "礼貌",
+        "transcription": "lǐmào",
+        "translation": "manners/polite",
+        "example": "他对她很不礼貌。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group274"
         ]
     },
     {
@@ -7322,7 +9236,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group245"
+            "_group275"
         ]
     },
     {
@@ -7333,7 +9247,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group245"
+            "_group275"
         ]
     },
     {
@@ -7344,7 +9258,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group245"
+            "_group275"
         ]
     },
     {
@@ -7355,40 +9269,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group245"
+            "_group275"
         ]
     },
     {
         "word": "报告",
         "transcription": "bàogào",
         "translation": "report (v/n)",
-        "example": "",
+        "example": "有问题就报告。 / 我及时完成了报告。",
         "comment": "",
         "tags": [
             "5",
-            "_group245"
+            "_group275"
         ]
     },
     {
         "word": "报道",
         "transcription": "bàodao",
         "translation": "report (v/n)",
-        "example": "",
+        "example": "我及时完成了报道。",
         "comment": "",
         "tags": [
             "5",
-            "_group245"
+            "_group276"
         ]
     },
     {
         "word": "报名",
         "transcription": "bàomíng",
         "translation": "register/sign up/registration",
-        "example": "",
+        "example": "你可以报名参加数学比赛。",
         "comment": "",
         "tags": [
             "4",
-            "_group245"
+            "_group276"
+        ]
+    },
+    {
+        "word": "路",
+        "transcription": "lù",
+        "translation": "road/path",
+        "example": "路两边有许多树。",
+        "comment": "",
+        "tags": [
+            "2",
+            "_group277"
         ]
     },
     {
@@ -7399,7 +9324,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group246"
+            "_group277"
+        ]
+    },
+    {
+        "word": "跳",
+        "transcription": "tiào",
+        "translation": "jump/beat(heart)/bounce",
+        "example": "我的心还在跳的快死了",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group277"
         ]
     },
     {
@@ -7409,19 +9345,19 @@ vocab["proycon.zh"] = [
         "example": "她喜欢跳舞。",
         "comment": "（跳=jump)",
         "tags": [
-            "？",
-            "_group246"
+            "2",
+            "_group277"
         ]
     },
     {
         "word": "杂志",
         "transcription": "zázhì",
         "translation": "magazine",
-        "example": "",
+        "example": "我喜欢读杂志。",
         "comment": "",
         "tags": [
-            "？",
-            "_group247"
+            "4",
+            "_group278"
         ]
     },
     {
@@ -7432,7 +9368,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group248"
+            "_group280"
         ]
     },
     {
@@ -7443,7 +9379,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group248"
+            "_group280"
         ]
     },
     {
@@ -7454,7 +9390,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group248"
+            "_group280"
         ]
     },
     {
@@ -7465,7 +9401,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group248"
+            "_group280"
         ]
     },
     {
@@ -7476,7 +9412,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group248"
+            "_group280"
         ]
     },
     {
@@ -7487,7 +9423,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group248"
+            "_group280"
         ]
     },
     {
@@ -7498,7 +9434,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group249"
+            "_group281"
+        ]
+    },
+    {
+        "word": "检查",
+        "transcription": "jiǎnchá",
+        "translation": "examine/inspect",
+        "example": "明天我要检查身体。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group281"
+        ]
+    },
+    {
+        "word": "查",
+        "transcription": "chá",
+        "translation": "inspect/investigate",
+        "example": "我们刚刚上网查了这个东西。",
+        "comment": "",
+        "tags": [
+            "3&",
+            "_group281"
         ]
     },
     {
@@ -7509,7 +9467,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group250"
+            "_group282"
         ]
     },
     {
@@ -7520,7 +9478,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group251"
+            "_group283"
         ]
     },
     {
@@ -7531,7 +9489,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group251"
+            "_group283"
         ]
     },
     {
@@ -7542,7 +9500,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group251"
+            "_group283"
         ]
     },
     {
@@ -7553,7 +9511,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group251"
+            "_group283"
         ]
     },
     {
@@ -7564,7 +9522,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group252"
+            "_group284"
         ]
     },
     {
@@ -7575,18 +9533,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group252"
+            "_group284"
         ]
     },
     {
         "word": "除了",
         "transcription": "chúle",
-        "translation": "except",
+        "translation": "except/apart from",
         "example": "除了他每个人都在这里。",
         "comment": "",
         "tags": [
             "3",
-            "_group252"
+            "_group284"
+        ]
+    },
+    {
+        "word": "国际",
+        "transcription": "guójì",
+        "translation": "international",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group284"
         ]
     },
     {
@@ -7597,7 +9566,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7608,7 +9577,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7619,7 +9588,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7630,7 +9599,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group253"
+            "_group285"
+        ]
+    },
+    {
+        "word": "则",
+        "transcription": "zé",
+        "translation": "rule/standard/then/but",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group285"
         ]
     },
     {
@@ -7641,7 +9621,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7652,7 +9632,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7663,7 +9643,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7674,7 +9654,7 @@ vocab["proycon.zh"] = [
         "comment": "(宜=suitable)",
         "tags": [
             "2",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7685,7 +9665,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group253"
+            "_group285"
         ]
     },
     {
@@ -7696,7 +9676,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group253"
+            "_group285"
+        ]
+    },
+    {
+        "word": "习惯",
+        "transcription": "xíguàn",
+        "translation": "be used to/habit",
+        "example": "我习惯早起。",
+        "comment": "(SYN: 惯于)",
+        "tags": [
+            "3",
+            "_group285"
         ]
     },
     {
@@ -7707,18 +9698,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group254"
+            "_group286"
         ]
     },
     {
         "word": "由",
         "transcription": "yóu",
         "translation": "due to, by (prep) (spanish por)",
-        "example": "",
+        "example": "云是由水气组成的。",
         "comment": "",
         "tags": [
             "4",
-            "_group254"
+            "_group286"
+        ]
+    },
+    {
+        "word": "由于",
+        "transcription": "yóuyú",
+        "translation": "as a result of",
+        "example": "由于种种原因",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group286"
         ]
     },
     {
@@ -7729,7 +9731,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7740,7 +9742,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7751,7 +9753,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7762,7 +9764,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7773,7 +9775,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7784,7 +9786,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7795,7 +9797,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group254"
+            "_group286"
         ]
     },
     {
@@ -7806,7 +9808,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group254"
+            "_group286"
+        ]
+    },
+    {
+        "word": "细",
+        "transcription": "xì",
+        "translation": "thin",
+        "example": "看他的胳膊，太细了。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group286"
+        ]
+    },
+    {
+        "word": "细节",
+        "transcription": "xìjié",
+        "translation": "details",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group286"
         ]
     },
     {
@@ -7817,7 +9841,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group255"
+            "_group287"
         ]
     },
     {
@@ -7828,7 +9852,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group255"
+            "_group287"
         ]
     },
     {
@@ -7839,7 +9863,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group255"
+            "_group287"
         ]
     },
     {
@@ -7850,7 +9874,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group255"
+            "_group287"
         ]
     },
     {
@@ -7861,7 +9885,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group255"
+            "_group287"
+        ]
+    },
+    {
+        "word": "幸福",
+        "transcription": "xìngfú",
+        "translation": "happiness/happy",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group287"
+        ]
+    },
+    {
+        "word": "幸亏",
+        "transcription": "xìngkuī",
+        "translation": "fortunately",
+        "example": "幸亏只是个梦",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group287"
         ]
     },
     {
@@ -7872,7 +9918,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group256"
+            "_group289"
         ]
     },
     {
@@ -7883,7 +9929,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group257"
+            "_group290"
         ]
     },
     {
@@ -7894,7 +9940,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group258"
+            "_group291"
         ]
     },
     {
@@ -7905,7 +9951,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group259"
+            "_group292"
+        ]
+    },
+    {
+        "word": "演出",
+        "transcription": "yǎnchū",
+        "translation": "perform/act/performance",
+        "example": "昨天晚上的演出相当精彩。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group292"
         ]
     },
     {
@@ -7916,7 +9973,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group260"
+            "_group293"
         ]
     },
     {
@@ -7927,7 +9984,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group260"
+            "_group293"
+        ]
+    },
+    {
+        "word": "游人",
+        "transcription": "yóurén",
+        "translation": "tourist",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group293"
+        ]
+    },
+    {
+        "word": "游客",
+        "transcription": "yóukè",
+        "translation": "tourist",
+        "example": "大街上很多游客。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group293"
         ]
     },
     {
@@ -7938,7 +10017,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group260"
+            "_group293"
         ]
     },
     {
@@ -7949,7 +10028,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group261"
+            "_group294"
         ]
     },
     {
@@ -7960,7 +10039,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group261"
+            "_group294"
         ]
     },
     {
@@ -7971,29 +10050,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group264"
+            "_group297"
         ]
     },
     {
         "word": "旅游",
         "transcription": "lǚyóu",
         "translation": "tour",
-        "example": "",
+        "example": "我到北京旅游。",
         "comment": "",
         "tags": [
             "2",
-            "_group264"
+            "_group297"
         ]
     },
     {
         "word": "旅馆",
         "transcription": "lǚguǎn",
         "translation": "hotel",
-        "example": "（馆=place for cultural activities or exhibition，guests and travellers）",
+        "example": "这家旅馆变成他们的了。",
         "comment": "",
         "tags": [
             "&",
-            "_group264"
+            "_group297"
         ]
     },
     {
@@ -8004,29 +10083,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group264"
+            "_group297"
         ]
     },
     {
         "word": "食堂",
         "transcription": "shítáng",
         "translation": "canteen/diner",
-        "example": "(食=eat, 堂 = hall)",
+        "example": "我中午不做饭，吃食堂。",
         "comment": "",
         "tags": [
             "&",
-            "_group264"
+            "_group297"
         ]
     },
     {
         "word": "图书馆",
         "transcription": "túshūguǎn",
         "translation": "library",
-        "example": "他们总在图书馆看书。",
-        "comment": "",
+        "example": "",
+        "comment": "他们总在图书馆看书。",
         "tags": [
             "3",
-            "_group264"
+            "_group297"
         ]
     },
     {
@@ -8037,7 +10116,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group264"
+            "_group297"
         ]
     },
     {
@@ -8048,18 +10127,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group264"
+            "_group297"
         ]
     },
     {
         "word": "馆子",
         "transcription": "guǎnzi",
         "translation": "restaurant",
-        "example": "",
+        "example": "我可没钱经常出去下馆子。",
         "comment": "",
         "tags": [
             "&",
-            "_group264"
+            "_group297"
         ]
     },
     {
@@ -8070,7 +10149,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group264"
+            "_group297"
         ]
     },
     {
@@ -8081,7 +10160,7 @@ vocab["proycon.zh"] = [
         "comment": "(宿=stay, 舍=house)",
         "tags": [
             "5",
-            "_group264"
+            "_group297"
         ]
     },
     {
@@ -8092,7 +10171,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group265"
+            "_group298"
         ]
     },
     {
@@ -8103,7 +10182,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8114,7 +10193,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8125,7 +10204,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8136,7 +10215,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8147,7 +10226,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8158,7 +10237,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8169,7 +10248,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group266"
+            "_group299"
         ]
     },
     {
@@ -8180,7 +10259,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group267"
+            "_group300"
         ]
     },
     {
@@ -8191,7 +10270,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group267"
+            "_group300"
         ]
     },
     {
@@ -8202,7 +10281,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group268"
+            "_group301"
         ]
     },
     {
@@ -8213,7 +10292,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group268"
+            "_group301"
         ]
     },
     {
@@ -8224,18 +10303,84 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "1",
-            "_group268"
+            "_group301"
         ]
     },
     {
         "word": "打算",
         "transcription": "dǎsuàn",
         "translation": "to plan/to intend",
-        "example": "",
+        "example": "我打算下个月休假",
         "comment": "",
         "tags": [
             "3",
-            "_group268"
+            "_group301"
+        ]
+    },
+    {
+        "word": "打斗",
+        "transcription": "dǎdòu",
+        "translation": "to fight",
+        "example": "男孩们打斗了。",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group301"
+        ]
+    },
+    {
+        "word": "挂",
+        "transcription": "guà",
+        "translation": "connect/hang (up)",
+        "example": "把它挂回墙上去。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group302"
+        ]
+    },
+    {
+        "word": "斗争",
+        "transcription": "dòuzhēng",
+        "translation": "combat/fight/struggle",
+        "example": "我们必须为自由而斗争。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group303"
+        ]
+    },
+    {
+        "word": "争取",
+        "transcription": "zhēngqǔ",
+        "translation": "strive for",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group303"
+        ]
+    },
+    {
+        "word": "争论",
+        "transcription": "zhēnglùn",
+        "translation": "argue",
+        "example": "跟父母争论可不大合适。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group303"
+        ]
+    },
+    {
+        "word": "战争",
+        "transcription": "zhànzhēng",
+        "translation": "war",
+        "example": "他在战争中作战。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group303"
         ]
     },
     {
@@ -8246,7 +10391,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group270"
+            "_group304"
         ]
     },
     {
@@ -8257,29 +10402,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group271"
+            "_group305"
         ]
     },
     {
         "word": "训练",
         "transcription": "xùnliàn",
         "translation": "training",
-        "example": "",
+        "example": "狗很容易训练",
         "comment": "",
         "tags": [
             "5",
-            "_group271"
+            "_group305"
+        ]
+    },
+    {
+        "word": "紧张",
+        "transcription": "jǐnzhāng",
+        "translation": "nervous/intense",
+        "example": "他紧张地坐了下来。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group307"
+        ]
+    },
+    {
+        "word": "紧急",
+        "transcription": "jǐnjí",
+        "translation": "urgent",
+        "example": "在紧急情况下",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group307"
         ]
     },
     {
         "word": "借",
         "transcription": "jiè",
         "translation": "lend/borrow/excuse",
-        "example": "",
+        "example": "我从图书馆借了几本书。",
         "comment": "",
         "tags": [
             "3",
-            "_group272"
+            "_group309"
         ]
     },
     {
@@ -8290,18 +10457,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group274"
+            "_group311"
         ]
     },
     {
         "word": "洗手间",
         "transcription": "xǐshǒujiān",
         "translation": "toilet",
-        "example": "",
+        "example": "洗手间在哪里？",
         "comment": "",
         "tags": [
             "3",
-            "_group274"
+            "_group311"
         ]
     },
     {
@@ -8312,7 +10479,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group274"
+            "_group311"
         ]
     },
     {
@@ -8323,7 +10490,51 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group274"
+            "_group311"
+        ]
+    },
+    {
+        "word": "勿",
+        "transcription": "wù",
+        "translation": "not/don't (imperative)",
+        "example": "请勿动手！",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group312"
+        ]
+    },
+    {
+        "word": "场",
+        "transcription": "chǎng",
+        "translation": "field/ground/stage/scene",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group312"
+        ]
+    },
+    {
+        "word": "汤",
+        "transcription": "tāng",
+        "translation": "soup",
+        "example": "汤很好闻。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group312"
+        ]
+    },
+    {
+        "word": "物",
+        "transcription": "wù",
+        "translation": "thing/creature/matter/property/content",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group312"
         ]
     },
     {
@@ -8334,7 +10545,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "？",
-            "_group276"
+            "_group313"
         ]
     },
     {
@@ -8345,7 +10556,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group277"
+            "_group314"
         ]
     },
     {
@@ -8356,29 +10567,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "!",
-            "_group277"
-        ]
-    },
-    {
-        "word": "角",
-        "transcription": "jiǎo",
-        "translation": "corner",
-        "example": "",
-        "comment": "",
-        "tags": [
-            "3",
-            "_group277"
+            "_group314"
         ]
     },
     {
         "word": "象",
         "transcription": "xiàng",
-        "translation": "elephant",
+        "translation": "elephant/imitate/appearance",
         "example": "",
         "comment": "",
         "tags": [
             "&",
-            "_group277"
+            "_group314"
         ]
     },
     {
@@ -8389,7 +10589,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group277"
+            "_group314"
         ]
     },
     {
@@ -8400,7 +10600,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "？",
-            "_group277"
+            "_group314"
+        ]
+    },
+    {
+        "word": "换",
+        "transcription": "huàn",
+        "translation": "change/exchange",
+        "example": "我拿书换你的杂志。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group314"
+        ]
+    },
+    {
+        "word": "蚂蚁",
+        "transcription": "mǎyǐ",
+        "translation": "ant",
+        "example": "桌子上有很多蚂蚁。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group315"
         ]
     },
     {
@@ -8411,7 +10633,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group278"
+            "_group316"
         ]
     },
     {
@@ -8422,7 +10644,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group278"
+            "_group316"
         ]
     },
     {
@@ -8433,7 +10655,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group279"
+            "_group317"
+        ]
+    },
+    {
+        "word": "解释",
+        "transcription": "jiěshì",
+        "translation": "explain",
+        "example": "让我来解释",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group317"
         ]
     },
     {
@@ -8444,7 +10677,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group279"
+            "_group317"
+        ]
+    },
+    {
+        "word": "解放",
+        "transcription": "jiěfàng",
+        "translation": "liberate",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group317"
         ]
     },
     {
@@ -8455,7 +10699,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group280"
+            "_group318"
         ]
     },
     {
@@ -8466,7 +10710,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group280"
+            "_group318"
         ]
     },
     {
@@ -8477,7 +10721,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group281"
+            "_group319"
         ]
     },
     {
@@ -8488,7 +10732,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group281"
+            "_group319"
         ]
     },
     {
@@ -8499,7 +10743,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "6",
-            "_group281"
+            "_group319"
         ]
     },
     {
@@ -8510,7 +10754,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group281"
+            "_group319"
         ]
     },
     {
@@ -8521,7 +10765,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group281"
+            "_group319"
         ]
     },
     {
@@ -8532,7 +10776,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group281"
+            "_group319"
+        ]
+    },
+    {
+        "word": "当心",
+        "transcription": "dāngxīn",
+        "translation": "be careful",
+        "example": "你如果不当心, 会受伤的",
+        "comment": "(SYN: 小心）",
+        "tags": [
+            "5",
+            "_group319"
         ]
     },
     {
@@ -8543,7 +10798,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group282"
+            "_group320"
         ]
     },
     {
@@ -8551,10 +10806,10 @@ vocab["proycon.zh"] = [
         "transcription": "gāng",
         "translation": "just",
         "example": "我刚才吃饭了。",
-        "comment": "（also: 刚才, gāngcái）",
+        "comment": "（SYN: 刚才, gāngcái）",
         "tags": [
             "4",
-            "_group282"
+            "_group320"
         ]
     },
     {
@@ -8565,7 +10820,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group282"
+            "_group320"
         ]
     },
     {
@@ -8576,7 +10831,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group282"
+            "_group320"
+        ]
+    },
+    {
+        "word": "风险",
+        "transcription": "fēngxiǎn",
+        "translation": "risk",
+        "example": "是一个很大的风险",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group320"
+        ]
+    },
+    {
+        "word": "疯狂",
+        "transcription": "fēngkuáng",
+        "translation": "crazy/fierce/mad",
+        "example": "美国有这个疯狂的网站",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group320"
         ]
     },
     {
@@ -8587,7 +10864,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group283"
+            "_group321"
         ]
     },
     {
@@ -8598,7 +10875,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group283"
+            "_group321"
         ]
     },
     {
@@ -8609,18 +10886,73 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group284"
+            "_group322"
         ]
     },
     {
         "word": "答应",
-        "transcription": "dāyīng",
+        "transcription": "dāyìng",
         "translation": "answer/agree/promise",
+        "example": "我答应借他钱。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group322"
+        ]
+    },
+    {
+        "word": "应用",
+        "transcription": "yìngyòng",
+        "translation": "apply/application",
         "example": "",
         "comment": "",
         "tags": [
             "5",
-            "_group284"
+            "_group322"
+        ]
+    },
+    {
+        "word": "及",
+        "transcription": "jí",
+        "translation": "reach/and/on time/as good as",
+        "example": "现在去看电影还来得及。",
+        "comment": "",
+        "tags": [
+            "!",
+            "_group323"
+        ]
+    },
+    {
+        "word": "及时",
+        "transcription": "jíshí",
+        "translation": "on time",
+        "example": "这场雨下得很及时。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group323"
+        ]
+    },
+    {
+        "word": "及早",
+        "transcription": "jízǎo",
+        "translation": "as soon as possible",
+        "example": "有病要及早治。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group323"
+        ]
+    },
+    {
+        "word": "及格",
+        "transcription": "jígé",
+        "translation": "pass/succeed",
+        "example": "他英语考试没及格。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group323"
         ]
     },
     {
@@ -8631,18 +10963,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group286"
+            "_group323"
         ]
     },
     {
-        "word": "奇(怪)",
+        "word": "极其",
+        "transcription": "jíqí",
+        "translation": "extremely",
+        "example": "她的房子卖得极其便宜。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group323"
+        ]
+    },
+    {
+        "word": "奇怪",
         "transcription": "qíguài",
         "translation": "strange/odd",
         "example": "他是很奇怪的人。",
         "comment": "",
         "tags": [
             "3",
-            "_group286"
+            "_group324"
         ]
     },
     {
@@ -8653,7 +10996,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group286"
+            "_group324"
+        ]
+    },
+    {
+        "word": "转",
+        "transcription": "zhuàn",
+        "translation": "turn",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group326"
+        ]
+    },
+    {
+        "word": "转变",
+        "transcription": "zhuǎnbiàn",
+        "translation": "transform/change/convert",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group326"
         ]
     },
     {
@@ -8664,7 +11029,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group288"
+            "_group326"
         ]
     },
     {
@@ -8675,7 +11040,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group288"
+            "_group326"
         ]
     },
     {
@@ -8686,18 +11051,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group288"
+            "_group326"
         ]
     },
     {
         "word": "试",
         "transcription": "shì",
         "translation": "to try/test",
-        "example": "",
+        "example": "我可以试一下这双鞋吗？",
         "comment": "",
         "tags": [
             "3",
-            "_group288"
+            "_group326"
         ]
     },
     {
@@ -8708,7 +11073,7 @@ vocab["proycon.zh"] = [
         "comment": "这个床非常小。",
         "tags": [
             "&",
-            "_group292"
+            "_group330"
         ]
     },
     {
@@ -8719,7 +11084,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group292"
+            "_group330"
         ]
     },
     {
@@ -8730,7 +11095,7 @@ vocab["proycon.zh"] = [
         "comment": "(syn 6: 舟 zhōu，MW for ships: 艘 ，sōu)",
         "tags": [
             "3",
-            "_group293"
+            "_group331"
         ]
     },
     {
@@ -8741,7 +11106,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group293"
+            "_group331"
         ]
     },
     {
@@ -8752,7 +11117,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group295"
+            "_group333"
         ]
     },
     {
@@ -8763,7 +11128,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group295"
+            "_group333"
         ]
     },
     {
@@ -8774,7 +11139,7 @@ vocab["proycon.zh"] = [
         "comment": "(相=appearance)",
         "tags": [
             "3",
-            "_group295"
+            "_group333"
         ]
     },
     {
@@ -8785,7 +11150,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "5",
-            "_group296"
+            "_group334"
         ]
     },
     {
@@ -8796,7 +11161,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group297"
+            "_group335"
         ]
     },
     {
@@ -8807,7 +11172,95 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group297"
+            "_group335"
+        ]
+    },
+    {
+        "word": "被",
+        "transcription": "bèi",
+        "translation": "passive marker",
+        "example": "热狗被吃了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group336"
+        ]
+    },
+    {
+        "word": "支持",
+        "transcription": "zhīchí",
+        "translation": "support",
+        "example": "我需要你的支持！",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group336"
+        ]
+    },
+    {
+        "word": "皮肤",
+        "transcription": "pífū",
+        "translation": "skin",
+        "example": "她的皮肤很滑。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group336"
+        ]
+    },
+    {
+        "word": "波浪",
+        "transcription": "bōlàng",
+        "translation": "wave",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6&",
+            "_group336"
+        ]
+    },
+    {
+        "word": "玻璃",
+        "transcription": "bōli",
+        "translation": "glass",
+        "example": "是玻璃做的",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group336"
+        ]
+    },
+    {
+        "word": "技术",
+        "transcription": "jìshù",
+        "translation": "technology/skill",
+        "example": "其它学校也有类似的技术。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group336"
+        ]
+    },
+    {
+        "word": "类型",
+        "transcription": "lèixíng",
+        "translation": "type",
+        "example": "3D技术有好几种类型。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group337"
+        ]
+    },
+    {
+        "word": "类似",
+        "transcription": "lèisì",
+        "translation": "similar",
+        "example": "人脑和电脑常被认为是类似的。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group337"
         ]
     },
     {
@@ -8818,7 +11271,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group299"
+            "_group338"
         ]
     },
     {
@@ -8829,7 +11282,29 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group299"
+            "_group338"
+        ]
+    },
+    {
+        "word": "胳膊",
+        "transcription": "gēbo",
+        "translation": "arm",
+        "example": "她伤了胳膊。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group338"
+        ]
+    },
+    {
+        "word": "肚",
+        "transcription": "dǔ",
+        "translation": "belly",
+        "example": "他的大啤酒肚。",
+        "comment": "",
+        "tags": [
+            "5&",
+            "_group338"
         ]
     },
     {
@@ -8839,8 +11314,8 @@ vocab["proycon.zh"] = [
         "example": "我只有一双鞋子。",
         "comment": "",
         "tags": [
-            "？",
-            "_group299"
+            "5&",
+            "_group338"
         ]
     },
     {
@@ -8851,7 +11326,62 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group299"
+            "_group338"
+        ]
+    },
+    {
+        "word": "指",
+        "transcription": "zhǐ",
+        "translation": "finger/refer to/point to",
+        "example": "我没指他。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group338"
+        ]
+    },
+    {
+        "word": "台",
+        "transcription": "tái",
+        "translation": "tower/table/taiwan/MW for machines",
+        "example": "这台电脑要多少钱？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group339"
+        ]
+    },
+    {
+        "word": "台风",
+        "transcription": "táifēng",
+        "translation": "typhoon/hurricane",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group339"
+        ]
+    },
+    {
+        "word": "治疗",
+        "transcription": "zhìliáo",
+        "translation": "cure (n/v)",
+        "example": "送他去医院，他需要医生治疗。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group339"
+        ]
+    },
+    {
+        "word": "治安",
+        "transcription": "zhì'ān",
+        "translation": "security",
+        "example": "这个地方治安很坏",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group339"
         ]
     },
     {
@@ -8862,7 +11392,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group300"
+            "_group341"
         ]
     },
     {
@@ -8873,7 +11403,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "2",
-            "_group300"
+            "_group341"
         ]
     },
     {
@@ -8884,18 +11414,18 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "&",
-            "_group301"
+            "_group342"
         ]
     },
     {
         "word": "架",
         "transcription": "jià",
-        "translation": "to construct",
+        "translation": "to construct/to support/frame",
         "example": "",
         "comment": "",
         "tags": [
             "&",
-            "_group301"
+            "_group342"
         ]
     },
     {
@@ -8906,7 +11436,7 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "3",
-            "_group301"
+            "_group342"
         ]
     },
     {
@@ -8917,7 +11447,381 @@ vocab["proycon.zh"] = [
         "comment": "",
         "tags": [
             "4",
-            "_group302"
+            "_group343"
+        ]
+    },
+    {
+        "word": "保护",
+        "transcription": "bǎohù",
+        "translation": "protect/defend",
+        "example": "父亲一直保护着全家人。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group344"
+        ]
+    },
+    {
+        "word": "保证",
+        "transcription": "bǎozhèng",
+        "translation": "ensure/guarantee",
+        "example": "我向你保证，那是真的。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group344"
+        ]
+    },
+    {
+        "word": "保持",
+        "transcription": "bǎochí",
+        "translation": "maintain/hold",
+        "example": "保持目视前方",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group344"
+        ]
+    },
+    {
+        "word": "尽快",
+        "transcription": "jǐnkuài",
+        "translation": "as soon as possible",
+        "example": "请尽快给我打电话。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group345"
+        ]
+    },
+    {
+        "word": "尽管",
+        "transcription": "jǐnguǎn",
+        "translation": "even though..",
+        "example": "尽管在下大雨，他还是要出去",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group345"
+        ]
+    },
+    {
+        "word": "尽力",
+        "transcription": "jǐnlì",
+        "translation": "try one’s hardest (努力)",
+        "example": "她尽力帮助他。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group345"
+        ]
+    },
+    {
+        "word": "尽量",
+        "transcription": "jǐnliàng",
+        "translation": "to the best of one's ability",
+        "example": "你尽量早点来。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group345"
+        ]
+    },
+    {
+        "word": "取",
+        "transcription": "qǔ",
+        "translation": "take/obtain/adopt/choose",
+        "example": "他的狗能帮他取报纸。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group346"
+        ]
+    },
+    {
+        "word": "取消",
+        "transcription": "qǔxiāo",
+        "translation": "cancel",
+        "example": "今天的会见取消了。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group346"
+        ]
+    },
+    {
+        "word": "取缔",
+        "transcription": "qǔdì",
+        "translation": "ban",
+        "example": "杂志被取缔了。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group346"
+        ]
+    },
+    {
+        "word": "敢",
+        "transcription": "gǎn",
+        "translation": "dare",
+        "example": "我不敢看电影。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group346"
+        ]
+    },
+    {
+        "word": "兴趣",
+        "transcription": "xìngqù",
+        "translation": "interesting",
+        "example": "我有兴趣接着听",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group346"
+        ]
+    },
+    {
+        "word": "敌人",
+        "transcription": "dírén",
+        "translation": "enemy",
+        "example": "压力是健康的敌人",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group347"
+        ]
+    },
+    {
+        "word": "枪",
+        "transcription": "qiāng",
+        "translation": "gun/spear",
+        "example": "他总是带着枪。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group347"
+        ]
+    },
+    {
+        "word": "角",
+        "transcription": "jiǎo",
+        "translation": "corner/angle/horn",
+        "example": "在右下角",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group348"
+        ]
+    },
+    {
+        "word": "确定",
+        "transcription": "quèdìng",
+        "translation": "determine/definite",
+        "example": "天气状况并不确定。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group348"
+        ]
+    },
+    {
+        "word": "确实",
+        "transcription": "quèshí",
+        "translation": "true/really",
+        "example": "他确实聪明。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group348"
+        ]
+    },
+    {
+        "word": "确认",
+        "transcription": "quèrèn",
+        "translation": "confirm/check",
+        "example": "我在字典里确认了一下拼音",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group348"
+        ]
+    },
+    {
+        "word": "通过",
+        "transcription": "tōngguò",
+        "translation": "pass/ by means of",
+        "example": "他站到一边，让她通过。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group348"
+        ]
+    },
+    {
+        "word": "通知",
+        "transcription": "tōngzhī",
+        "translation": "inform/notify/notification",
+        "example": "我会通知你他的身体状况。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group348"
+        ]
+    },
+    {
+        "word": "通常",
+        "transcription": "tōngcháng",
+        "translation": "normal",
+        "example": "我通常早起床。",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group348"
+        ]
+    },
+    {
+        "word": "交通",
+        "transcription": "jiāotōng",
+        "translation": "commun",
+        "example": "ication/traffic",
+        "comment": "请注意交通安全。",
+        "tags": [
+            "4",
+            "_group348"
+        ]
+    },
+    {
+        "word": "交",
+        "transcription": "jiāo",
+        "translation": "pay/hand in/cross/entrust",
+        "example": "这个月的房租你交了吗？",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group348"
+        ]
+    },
+    {
+        "word": "健康",
+        "transcription": "jiànkāng",
+        "translation": "healthy/health",
+        "example": "奶奶身体很健康。",
+        "comment": "",
+        "tags": [
+            "3",
+            "_group349"
+        ]
+    },
+    {
+        "word": "财",
+        "transcription": "cái",
+        "translation": "wealth",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group350"
+        ]
+    },
+    {
+        "word": "财产",
+        "transcription": "cáichǎn",
+        "translation": "property/belonging",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "5",
+            "_group350"
+        ]
+    },
+    {
+        "word": "财富",
+        "transcription": "cáifù",
+        "translation": "wealth",
+        "example": "健康是最大的财富。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group350"
+        ]
+    },
+    {
+        "word": "财政",
+        "transcription": "cáizhèng",
+        "translation": "finance",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group350"
+        ]
+    },
+    {
+        "word": "警察",
+        "transcription": "jǐngchá",
+        "translation": "police",
+        "example": "他想成为一名警察。",
+        "comment": "",
+        "tags": [
+            "4",
+            "_group351"
+        ]
+    },
+    {
+        "word": "警告",
+        "transcription": "jǐnggào",
+        "translation": "warn",
+        "example": "我们被警告远离草坪。",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group351"
+        ]
+    },
+    {
+        "word": "威胁",
+        "transcription": "wēixié",
+        "translation": "threaten",
+        "example": "",
+        "comment": "他用一把刀威胁她。",
+        "tags": [
+            "5",
+            "_group352"
+        ]
+    },
+    {
+        "word": "威力",
+        "transcription": "wēilì",
+        "translation": "power",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group352"
+        ]
+    },
+    {
+        "word": "军",
+        "transcription": "jūn",
+        "translation": "army/military",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "&",
+            "_group353"
+        ]
+    },
+    {
+        "word": "军队",
+        "transcription": "jūnduì",
+        "translation": "army/troops",
+        "example": "",
+        "comment": "",
+        "tags": [
+            "6",
+            "_group353"
         ]
     }
-]
+];
