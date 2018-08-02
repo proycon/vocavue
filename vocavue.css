@@ -60,11 +60,13 @@ div#transcription {
     cursor: pointer;
 }
 div#tags {
-    color: #eee;
-    font-size: 12px;
+    float: left;
+    color: #ddd;
     font-weight: normal;
     font-family: sans-serif;
     text-align: left;
+    font-family: monospace;
+    font-size: 50%;
 }
 div#clock {
     float: right;
