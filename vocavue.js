@@ -68,6 +68,16 @@ function setcard(card_idx) {
     if (typeof card.transcription !== undefined) {
         $('#card #transcription').html(card.transcription);
     }
+    if (typeof card.tags !== undefined) {
+        var tags = "";
+        for (var i = 0; i < card.tags.length; i++) {
+            var tag = card.tags[i];
+            if (tag[0] != '_') {
+                tags += " " + tag;
+            }
+        }
+        $('#card #tags').html(tags);
+    }
     var contexttags = [];
     if (typeof card.tags !== undefined) {
         for (var tag of card.tags) {

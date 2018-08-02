@@ -59,6 +59,13 @@ div#transcription {
     font-family: sans-serif;
     cursor: pointer;
 }
+div#tags {
+    color: #eee;
+    font-size: 12px;
+    font-weight: normal;
+    font-family: sans-serif;
+    text-align: left;
+}
 div#clock {
     float: right;
     color: white;
